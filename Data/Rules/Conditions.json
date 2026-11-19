@@ -1,0 +1,91 @@
+{
+    "source": "PHB 290",
+    "conditions": [
+        {
+            "name": "Blinded",
+            "description": "Fail checks involving sight. Attacks have disadvantage. Enemy attacks have advantage."
+        },
+        {
+            "name": "Charmed",
+            "description": "Can’t harm/attack charmer. Charmer has advantage on ability checks to interact socially."
+        },
+        {
+            "name": "Deafened",
+            "description": "Fail checks involving hearing."
+        },
+        {
+            "name": "Frightened",
+            "description": "Disadvantage to checks/attacks while the source of fear is in sight. Can’t willingly move closer to the source of fear."
+        },
+        {
+            "name": "Grappled",
+            "description": "Speed 0, regardless of bonus. Ends when grappler is incapacitated or when moved out of grappler’s reach by an effect."
+        },
+        {
+            "name": "Incapacitated",
+            "description": "Can’t take actions or reactions."
+        },
+        {
+            "name": "Invisible",
+            "description": "Can’t be seen (normally), but still make noise and tracks. Attacks have advantage. Enemy attacks have disadvantage."
+        },
+        {
+            "name": "Paralyzed",
+            "description": "Incapacitated. Can’t move or speak. Fail Str and Dex saving throws. Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits."
+        },
+        {
+            "name": "Petrified",
+            "description": "Incapacitated. Can’t move or speak. Unaware of surroundings. Resistance to all damage. Immune to poison / disease. Fail Str and Dex saving throws. Enemy attacks have advantage. Stop aging. Weight increases by factor 10."
+        },
+        {
+            "name": "Poisoned",
+            "description": "Disadvantage on attack rolls and ability checks."
+        },
+        {
+            "name": "Prone",
+            "description": "Crawl (at ½ speed) or stand up (costs ½ speed). Attacks have disadvantage. Enemy attacks have advantage within 5 ft and disadvantage if further away."
+        },
+        {
+            "name": "Restrained",
+            "description": "Speed 0, regardless of bonus. Disadvantage on Dex saving throws. Attacks have disadvantage. Enemy attacks have advantage."
+        },
+        {
+            "name": "Stunned",
+            "description": "Incapacitated. Can’t move. Can speak only falteringly. Fail Str and Dex saving throws. Enemy attacks have advantage."
+        },
+        {
+            "name": "Unconscious",
+            "description": "Incapacitated. Can’t move or speak. Unaware of surroundings. Drop everything. Fail Str and Dex saving throws. Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits."
+        }
+    ],
+    "exhaustion": {
+        "source": "PHB 291",
+        "levels": [
+            {
+                "level": 1,
+                "effect": "Disadvantage on ability checks"
+            },
+            {
+                "level": 2,
+                "effect": "Speed halved"
+            },
+            {
+                "level": 3,
+                "effect": "Disadvantage on attacks / saves"
+            },
+            {
+                "level": 4,
+                "effect": "Hit Point maximum halved"
+            },
+            {
+                "level": 5,
+                "effect": "Speed reduced to 0"
+            },
+            {
+                "level": 6,
+                "effect": "Death"
+            }
+        ],
+        "cumulative": true
+    }
+}

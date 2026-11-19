@@ -1,0 +1,95 @@
+{
+    "_comment": "Martial NPC class, hand-written from ./outline. Extra attacks at 5/10/15/20 (attacksPerLevel), ASIs (feats) at 2/7/12/18, a random saving throw proficiency (Tenacity) at 1/6/11/16, and a random armor or weapon proficiency it lacks (Combat Training) at 3/8/13/19, and d8 hit dice. It starts with simple weapons and no armor, so its gear follows the proficiencies it rolls.",
+    "key": "martial",
+    "name": "Martial",
+    "source": "Generators/NpcGenerator/Martial/outline",
+    "hitDie": 8,
+    "savingThrows": [],
+    "skillChoice": { "count": 2, "from": ["Acrobatics", "Animal Handling", "Athletics", "Intimidation", "Nature", "Perception", "Survival"] },
+    "armorProficiencies": [],
+    "weaponProficiencies": { "simple": true, "martial": false, "specific": [] },
+    "weapons": { "category": "Simple", "exclude": ["net", "lance"] },
+    "abilityPriority": ["Wis", "Cha", "Int"],
+    "asiLevels": [2, 7, 12, 18],
+    "excludedFeats": ["Weapon Master", "Artificer Initiate", "Gunner", "Mounted Combatant"],
+    "attacksPerLevel": [1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5],
+    "features": [
+        {
+            "key": "bonus proficiencies",
+            "name": "Bonus Proficiencies",
+            "level": 1,
+            "description": "Proficiency in two skills and all simple weapons."
+        },
+        {
+            "key": "tenacity",
+            "name": "Tenacity",
+            "level": 1,
+            "description": "Proficiency in one random saving throw.",
+            "savingThrowChoice": { "count": 1, "from": ["Str", "Dex", "Con", "Int", "Wis", "Cha"], "random": true },
+            "omit": true
+        },
+        {
+            "key": "tenacity",
+            "name": "Tenacity",
+            "level": 6,
+            "description": "Proficiency in one more random saving throw.",
+            "savingThrowChoice": { "count": 1, "from": ["Str", "Dex", "Con", "Int", "Wis", "Cha"], "random": true },
+            "omit": true
+        },
+        {
+            "key": "tenacity",
+            "name": "Tenacity",
+            "level": 11,
+            "description": "Proficiency in one more random saving throw.",
+            "savingThrowChoice": { "count": 1, "from": ["Str", "Dex", "Con", "Int", "Wis", "Cha"], "random": true },
+            "omit": true
+        },
+        {
+            "key": "tenacity",
+            "name": "Tenacity",
+            "level": 16,
+            "description": "Proficiency in one more random saving throw.",
+            "savingThrowChoice": { "count": 1, "from": ["Str", "Dex", "Con", "Int", "Wis", "Cha"], "random": true },
+            "omit": true
+        },
+        {
+            "key": "combat training",
+            "name": "Combat Training",
+            "level": 3,
+            "description": "Proficiency in one random armor or weapon type it lacks.",
+            "proficiencyGain": { "from": ["light", "medium", "heavy", "shields", "martial"] },
+            "omit": true
+        },
+        {
+            "key": "combat training",
+            "name": "Combat Training",
+            "level": 8,
+            "description": "Proficiency in one more random armor or weapon type it lacks.",
+            "proficiencyGain": { "from": ["light", "medium", "heavy", "shields", "martial"] },
+            "omit": true
+        },
+        {
+            "key": "combat training",
+            "name": "Combat Training",
+            "level": 13,
+            "description": "Proficiency in one more random armor or weapon type it lacks.",
+            "proficiencyGain": { "from": ["light", "medium", "heavy", "shields", "martial"] },
+            "omit": true
+        },
+        {
+            "key": "combat training",
+            "name": "Combat Training",
+            "level": 19,
+            "description": "Proficiency in one more random armor or weapon type it lacks.",
+            "proficiencyGain": { "from": ["light", "medium", "heavy", "shields", "martial"] },
+            "omit": true
+        },
+        {
+            "key": "extra attack",
+            "name": "Extra Attack",
+            "level": 5,
+            "description": "The [MON] can attack twice (three times from 10th level, four from 15th, five at 20th) whenever it takes the Attack action on its turn.",
+            "omit": true
+        }
+    ]
+}

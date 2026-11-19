@@ -1,0 +1,32 @@
+[
+    {
+        "key": "SRD",
+        "name": "System Reference Document 5.1",
+        "abbreviation": "SRD",
+        "url": "https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf",
+        "date": "2016/05/04"
+    },
+    {
+        "key": "DMguild",
+        "name": "Dungeon Masters Guild [online]",
+        "abbreviation": "DMguild",
+        "url": "https://www.dmsguild.com/"
+    },
+    {
+        "key": "HB",
+        "name": "Homebrew",
+        "abbreviation": "Homebrew"
+    },
+    {
+        "key": "ALbackground",
+        "name": "All official WotC backgrounds",
+        "abbreviation": "WotC",
+        "url": "https://flapkan.com/faq#What-is-the-source-All-official-WotC-backgrounds-and-how-does-it-work"
+    },
+    {
+        "key": "AL-legal",
+        "name": "All AL-legal backgrounds/races",
+        "abbreviation": "WotC",
+        "url": "https://flapkan.com/faq#What-is-the-source-All-AL-legal-backgrounds-races-and-how-does-it-work"
+    }
+]

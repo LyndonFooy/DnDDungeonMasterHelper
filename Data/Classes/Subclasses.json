@@ -1,0 +1,1211 @@
+[
+    {
+        "key": "barbarian-berserker",
+        "class": "barbarian",
+        "name": "Path of the Berserker",
+        "fullName": "Berserker",
+        "source": "SRD 9",
+        "saveDCAbility": "Cha",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Frenzy",
+                "source": "SRD 9",
+                "level": 3,
+                "description": "As a bonus action each turn while raging, I can make a melee attack\nAfter my rage is over, I suffer one level of exhaustion",
+                "actions": [
+                    {
+                        "type": "bonus action",
+                        "note": "attack (while raging)"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Mindless Rage",
+                "source": "SRD 10",
+                "level": 6,
+                "description": "While raging, I can't be charmed or frightened, and such effects are suspended",
+                "saveNotes": {
+                    "text": [
+                        "Immune to being charmed/frightened in rage"
+                    ]
+                }
+            },
+            {
+                "key": "subclassfeature10",
+                "name": "Intimidating Presence",
+                "source": "SRD 10",
+                "level": 10,
+                "description": "As an action, frighten one creature in 30 ft for one turn if it fails a Wisdom save\nThis effect ends if the creature is out of line of sight or more than 60 ft away\nIf a creature succeeds its saving throw, it is immune for 24 hours",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Retaliation",
+                "source": "SRD 10",
+                "level": 14,
+                "description": "When an enemy within 5 ft damages me, I can make a melee attack as a reaction",
+                "actions": [
+                    {
+                        "type": "reaction",
+                        "note": "(after taking damage)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "bard-college of lore",
+        "class": "bard",
+        "name": "College of Lore",
+        "source": "SRD 13",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Bonus Proficiencies",
+                "source": "SRD 13",
+                "level": 3,
+                "description": "I gain proficiency with three skills of my choice",
+                "skillChoice": {
+                    "count": 3,
+                    "from": "any"
+                }
+            },
+            {
+                "key": "subclassfeature3.1",
+                "name": "Cutting Words",
+                "source": "SRD 13",
+                "level": 3,
+                "description": "As a reaction, when a foe within earshot & 60 ft rolls ability check, attack or damage,\nI can subtract a Bardic Inspiration die from the result unless the foe can't be charmed",
+                "actions": [
+                    {
+                        "type": "reaction"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Additional Magical Secrets",
+                "source": "SRD 13",
+                "level": 6,
+                "description": "I can add two spells/cantrips from any class to my Spells Known",
+                "spellcastingBonus": [
+                    {
+                        "name": "Additional Magical Secret",
+                        "class": "any",
+                        "times": 2
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Peerless Skill",
+                "source": "SRD 14",
+                "level": 14,
+                "description": "When making an ability check, I can expend a use of Bardic Inspiration to add the die"
+            }
+        ]
+    },
+    {
+        "key": "cleric-life domain",
+        "class": "cleric",
+        "name": "Life Domain",
+        "source": "SRD 17",
+        "spellcastingExtra": [
+            "bless",
+            "cure wounds",
+            "lesser restoration",
+            "spiritual weapon",
+            "beacon of hope",
+            "revivify",
+            "death ward",
+            "guardian of faith",
+            "mass cure wounds",
+            "raise dead"
+        ],
+        "features": [
+            {
+                "key": "subclassfeature1",
+                "name": "Bonus Proficiency",
+                "source": "SRD 17",
+                "level": 1,
+                "description": "I gain proficiency with heavy armor",
+                "armorProficiencies": [
+                    false,
+                    false,
+                    true,
+                    false
+                ]
+            },
+            {
+                "key": "subclassfeature1.1",
+                "name": "Disciple of Life",
+                "source": "SRD 17",
+                "level": 1,
+                "description": "Whenever a 1st-level or higher spell I cast restores HP to a creature, it heals more\nThe creature regains an additional 2 + spell level (SL) worth of hit points\nNote that \"X/SL\" on the spell page means per spell slot level above the spell's normal level",
+                "mechanicsNotes": [
+                    "When I use a spell that restores hit points, it restores an additional 2 + the level of the spell slot (or spell slot equivalent) used to cast the spell."
+                ]
+            },
+            {
+                "key": "subclassfeature2",
+                "name": "Channel Divinity: Preserve Life",
+                "source": "SRD 17",
+                "level": 2,
+                "description": "As an action, I can heal any creature within 30 ft of me up to half their maximum HP\nI divide the number of hit points among the creatures as I see fit",
+                "additional": [
+                    "",
+                    "10 hit points",
+                    "15 hit points",
+                    "20 hit points",
+                    "25 hit points",
+                    "30 hit points",
+                    "35 hit points",
+                    "40 hit points",
+                    "45 hit points",
+                    "50 hit points",
+                    "55 hit points",
+                    "60 hit points",
+                    "65 hit points",
+                    "70 hit points",
+                    "75 hit points",
+                    "80 hit points",
+                    "85 hit points",
+                    "90 hit points",
+                    "95 hit points",
+                    "100 hit points"
+                ],
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Blessed Healer",
+                "source": "SRD 17",
+                "level": 6,
+                "description": "When I restore HP to another with a spell, I regain 2 + the spell (slot) level in HP",
+                "mechanicsNotes": [
+                    "When I cast a spell that restores hit points to another creature than myself at the moment of casting, I also heal 2 + the level of the spell slot (or spell slot equivalent) hit points."
+                ]
+            },
+            {
+                "key": "subclassfeature8",
+                "name": "Divine Strike",
+                "source": "SRD 17",
+                "level": 8,
+                "description": "Once per turn, when I hit a creature with a weapon attack, I can do extra damage",
+                "additional": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "+1d8 radiant damage",
+                    "+1d8 radiant damage",
+                    "+1d8 radiant damage",
+                    "+1d8 radiant damage",
+                    "+1d8 radiant damage",
+                    "+1d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage",
+                    "+2d8 radiant damage"
+                ],
+                "mechanicsNotes": [
+                    "Once per turn, I can have one of my weapon attacks that hit do extra radiant damage."
+                ]
+            },
+            {
+                "key": "subclassfeature17",
+                "name": "Supreme Healing",
+                "source": "SRD 17",
+                "level": 17,
+                "description": "When I restore HP with a spell, I heal the maximum amount instead of rolling the dice",
+                "mechanicsNotes": [
+                    "When I use a spell that restores hit points by rolling one or more dice to restore hit points with a spell, I instead use the highest number possible for each die."
+                ]
+            }
+        ]
+    },
+    {
+        "key": "druid-circle of the land",
+        "class": "druid",
+        "name": "Circle of the Land",
+        "source": "SRD 21",
+        "features": [
+            {
+                "key": "subclassfeature2",
+                "name": "Bonus Cantrip",
+                "source": "SRD 21",
+                "level": 2,
+                "description": "I know one additional druid cantrip of my choice",
+                "spellcastingBonus": [
+                    {
+                        "name": "Bonus Druid Cantrip",
+                        "class": "druid",
+                        "spellLevels": [
+                            0,
+                            0
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature2.1",
+                "name": "Natural Recovery",
+                "source": "SRD 21",
+                "level": 2,
+                "description": "After a short rest, I can recover a number of 5th-level or lower spell slots",
+                "additional": [
+                    "1 level spell slots",
+                    "1 level spell slots",
+                    "2 levels spell slots",
+                    "2 levels spell slots",
+                    "3 levels spell slots",
+                    "3 levels spell slots",
+                    "4 levels spell slots",
+                    "4 levels spell slots",
+                    "5 levels spell slots",
+                    "5 levels spell slots",
+                    "6 levels spell slots",
+                    "6 levels spell slots",
+                    "7 levels spell slots",
+                    "7 levels spell slots",
+                    "8 levels spell slots",
+                    "8 levels spell slots",
+                    "9 levels spell slots",
+                    "9 levels spell slots",
+                    "10 levels spell slots",
+                    "10 levels spell slots"
+                ],
+                "usages": 1,
+                "recovery": "long rest"
+            },
+            {
+                "key": "subclassfeature3",
+                "name": "Circle Spells",
+                "source": "SRD 21",
+                "level": 3,
+                "description": "Choose a terrain that grants you spells using the \"Choose Feature\" button above",
+                "choices": [
+                    {
+                        "key": "arctic",
+                        "name": "Arctic Circle Spells",
+                        "description": "My mystical connection to the arctic infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "hold person",
+                            "spike growth",
+                            "sleet storm",
+                            "slow",
+                            "freedom of movement",
+                            "ice storm",
+                            "commune with nature",
+                            "cone of cold"
+                        ]
+                    },
+                    {
+                        "key": "coast",
+                        "name": "Coast Circle Spells",
+                        "description": "My mystical connection to the coast infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "mirror image",
+                            "misty step",
+                            "water breathing",
+                            "water walk",
+                            "control water",
+                            "freedom of movement",
+                            "conjure elemental",
+                            "scrying"
+                        ]
+                    },
+                    {
+                        "key": "desert",
+                        "name": "Desert Circle Spells",
+                        "description": "My mystical connection to the desert infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "blur",
+                            "silence",
+                            "create food and water",
+                            "protection from energy",
+                            "blight",
+                            "hallucinatory terrain",
+                            "insect plague",
+                            "wall of stone"
+                        ]
+                    },
+                    {
+                        "key": "forest",
+                        "name": "Forest Circle Spells",
+                        "description": "My mystical connection to the forest infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "barkskin",
+                            "spider climb",
+                            "call lightning",
+                            "plant growth",
+                            "divination",
+                            "freedom of movement",
+                            "commune with nature",
+                            "tree stride"
+                        ]
+                    },
+                    {
+                        "key": "grassland",
+                        "name": "Grassland Circle Spells",
+                        "description": "My connection to the grassland infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "invisibility",
+                            "pass without trace",
+                            "daylight",
+                            "haste",
+                            "divination",
+                            "freedom of movement",
+                            "dream",
+                            "insect plague"
+                        ]
+                    },
+                    {
+                        "key": "mountain",
+                        "name": "Mountain Circle Spells",
+                        "description": "My connection to the mountains infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "spider climb",
+                            "spike growth",
+                            "lightning bolt",
+                            "meld into stone",
+                            "stone shape",
+                            "stoneskin",
+                            "passwall",
+                            "wall of stone"
+                        ]
+                    },
+                    {
+                        "key": "swamp",
+                        "name": "Swamp Circle Spells",
+                        "description": "My mystical connection to the swamp infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "darkness",
+                            "melf's acid arrow",
+                            "water walk",
+                            "stinking cloud",
+                            "freedom of movement",
+                            "locate creature",
+                            "insect plague",
+                            "scrying"
+                        ]
+                    },
+                    {
+                        "key": "underdark",
+                        "name": "Underdark Circle Spells",
+                        "description": "My connection to the underdark infuses me with the ability to cast certain spells\nThese are always prepared, but don't count against the number of spells I can prepare",
+                        "spellcastingExtra": [
+                            "spider climb",
+                            "web",
+                            "gaseous form",
+                            "stinking cloud",
+                            "greater invisibility",
+                            "stone shape",
+                            "cloudkill",
+                            "insect plague"
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Land's Stride",
+                "source": "SRD 22",
+                "level": 6,
+                "description": "I can travel through nonmagical, difficult terrain without penalty\nI have advantage on saves vs. plants that impede movement by magical influence",
+                "saveNotes": {
+                    "advantageVs": [
+                        "magical plants that impede movement"
+                    ]
+                }
+            },
+            {
+                "key": "subclassfeature10",
+                "name": "Nature's Ward",
+                "source": "SRD 22",
+                "level": 10,
+                "description": "I am immune to poison/disease and I can't be charmed/frightened by elementals or fey",
+                "saveNotes": {
+                    "text": [
+                        "Immune to being charmed or frightened by elementals or fey"
+                    ],
+                    "immune": [
+                        "poison",
+                        "disease"
+                    ]
+                }
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Nature's Sanctuary",
+                "source": "SRD 22",
+                "level": 14,
+                "description": "When a beast or plant attacks me, it must make a Wis save or pick a different target\nIf it can't, it automatically misses; On a successful save, it is immune for 24 hours"
+            }
+        ]
+    },
+    {
+        "key": "fighter-champion",
+        "class": "fighter",
+        "name": "Champion",
+        "fullName": "Champion",
+        "source": "SRD 25",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Improved Critical",
+                "source": "SRD 25",
+                "level": 3,
+                "description": "I score a critical hit with my weapon attacks on a roll of 19 and 20",
+                "mechanicsNotes": [
+                    "My weapon attacks score a critical on a to hit roll of both 19 and 20."
+                ]
+            },
+            {
+                "key": "subclassfeature7",
+                "name": "Remarkable Athlete",
+                "source": "SRD 25",
+                "level": 7,
+                "description": "I add half my Proficiency Bonus to Str/Dex/Con checks if I would otherwise add none\nWhen making running long jumps, I add my Strength modifier to the distance in feet"
+            },
+            {
+                "key": "subclassfeature10",
+                "name": "Additional Fighting Style",
+                "source": "SRD 25",
+                "level": 10,
+                "description": "Choose an Additional Fighting Style using the \"Choose Feature\" button above",
+                "choices": [
+                    {
+                        "key": "archery",
+                        "name": "Archery Fighting Style",
+                        "description": "+2 bonus to attack rolls I make with ranged weapons",
+                        "mechanicsNotes": [
+                            "My ranged weapons get a +2 bonus on the To Hit."
+                        ]
+                    },
+                    {
+                        "key": "defense",
+                        "name": "Defense Fighting Style",
+                        "description": "+1 bonus to AC when I'm wearing armor"
+                    },
+                    {
+                        "key": "dueling",
+                        "name": "Dueling Fighting Style",
+                        "description": "+2 to damage rolls when wielding a melee weapon in one hand and no other weapons",
+                        "mechanicsNotes": [
+                            "When I'm wielding a melee weapon in one hand and no weapon in my other hand, I do +2 damage with that melee weapon. This condition will always be false if the bonus action 'Off-hand Attack' exists."
+                        ]
+                    },
+                    {
+                        "key": "great weapon fighting",
+                        "name": "Great Weapon Fighting Style",
+                        "description": "Reroll 1 or 2 on damage if wielding two-handed/versatile melee weapon in both hands",
+                        "mechanicsNotes": [
+                            "While wielding a two-handed or versatile melee weapon in two hands, I can re-roll a 1 or 2 on any damage die once."
+                        ]
+                    },
+                    {
+                        "key": "protection",
+                        "name": "Protection Fighting Style",
+                        "description": "As a reaction, I can give disadv. on an attack made vs. someone within 5 ft of me\nI need to be wielding a shield and be able to see the attacker to do this",
+                        "actions": [
+                            {
+                                "type": "reaction"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "two-weapon fighting",
+                        "name": "Two-Weapon Fighting Style",
+                        "description": "I can add my ability modifier to the damage of my off-hand attacks",
+                        "mechanicsNotes": [
+                            "When engaging in two-weapon fighting, I can add my ability modifier to the damage of my off-hand attacks. If a melee weapon includes 'off-hand' or 'secondary' in its name or description, it is considered an off-hand attack."
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature15",
+                "name": "Superior Critical",
+                "source": "SRD 25",
+                "level": 15,
+                "description": "I score a critical hit with my weapon attacks on a roll of 18, 19, and 20",
+                "mechanicsNotes": [
+                    "My weapon attacks also score a critical on a to hit roll of 18."
+                ]
+            },
+            {
+                "key": "subclassfeature18",
+                "name": "Survivor",
+                "source": "SRD 25",
+                "level": 18,
+                "description": "At the start of my turn, if I'm not above half or at 0 HP, I regain 5 + Con mod HP"
+            }
+        ]
+    },
+    {
+        "key": "monk-way of the open hand",
+        "class": "monk",
+        "name": "Way of the Open Hand",
+        "source": "SRD 28",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Hand Technique",
+                "source": "SRD 28",
+                "level": 3,
+                "description": "Whenever I hit a creature with a Flurry of Blows attack I can do one of the following:\n• Have it make a Dexterity save or be knocked prone\n• Have it make a Strength save or be pushed up to 15 ft away from me\n• Stop it from taking reactions until the end of my next turn"
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Wholeness of Body",
+                "source": "SRD 28",
+                "level": 6,
+                "description": "As an action, I regain hit points equal to three times my monk level",
+                "additional": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "18 hit points",
+                    "21 hit points",
+                    "24 hit points",
+                    "27 hit points",
+                    "30 hit points",
+                    "33 hit points",
+                    "36 hit points",
+                    "39 hit points",
+                    "42 hit points",
+                    "45 hit points",
+                    "48 hit points",
+                    "51 hit points",
+                    "54 hit points",
+                    "57 hit points",
+                    "60 hit points"
+                ],
+                "usages": 1,
+                "recovery": "long rest",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature11",
+                "name": "Tranquility",
+                "source": "SRD 29",
+                "level": 11,
+                "description": "After a long rest, I gain the effect of a Sanctuary spell until a next long rest",
+                "autoChoices": [
+                    {
+                        "key": "quivering palm",
+                        "name": "Quivering Palm",
+                        "source": "SRD 29",
+                        "level": 17,
+                        "description": "[3 ki points]\nWhen I hit a creature with an unarmed strike, I can start imperceptible vibrations\nWithin my monk level in days, I can use an action to have the creature make a Con save\nIf it fails, it is reduced to 0 hit points; If it succeeds, it takes 10d10 necrotic damage"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "paladin-oath of devotion",
+        "class": "paladin",
+        "name": "Oath of Devotion",
+        "source": "SRD 32",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Channel Divinity: Sacred Weapon",
+                "source": "SRD 33",
+                "level": 3,
+                "description": "As an action, for 1 minute, I add my Cha modifier to hit for one weapon I'm holding\nIt also counts as magical and emits bright light in a 20-ft radius and equal dim light",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ],
+                "spellcastingExtra": [
+                    "protection from evil and good",
+                    "sanctuary",
+                    "lesser restoration",
+                    "zone of truth",
+                    "beacon of hope",
+                    "dispel magic",
+                    "freedom of movement",
+                    "guardian of faith",
+                    "commune",
+                    "flame strike"
+                ],
+                "mechanicsNotes": [
+                    "If I include the words 'Sacred Weapon' in the name of a weapon, it gets my Charisma modifier added to its To Hit."
+                ]
+            },
+            {
+                "key": "subclassfeature3.1",
+                "name": "Channel Divinity: Turn the Unholy",
+                "source": "SRD 33",
+                "level": 3,
+                "description": "As an action, all fiends/undead within 30 ft that can hear me must make a Wis save\nIf one of them fails this save, it is turned for 1 minute or until it takes damage\nTurned: move away, never within 30 ft of me, no reactions or actions other than Dash\nTurned: may Dodge instead of Dash when nowhere to move and unable to escape bonds",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature7",
+                "name": "Aura of Devotion",
+                "source": "SRD 33",
+                "level": 7,
+                "description": "While I'm conscious, allies within range and I can't be charmed",
+                "additional": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "10-foot aura",
+                    "30-foot aura",
+                    "30-foot aura",
+                    "30-foot aura"
+                ],
+                "saveNotes": {
+                    "immune": [
+                        "charmed"
+                    ]
+                }
+            },
+            {
+                "key": "subclassfeature15",
+                "name": "Purity of Spirit",
+                "source": "SRD 33",
+                "level": 15,
+                "description": "I am always under the effect of a Protection from Evil and Good spell"
+            },
+            {
+                "key": "subclassfeature20",
+                "name": "Holy Nimbus",
+                "source": "SRD 33",
+                "level": 20,
+                "description": "As an action, I shine with a 30-ft radius bright light and equal dim light for 1 minute\nIf an enemy starts its turn in the bright light, it takes 10 radiant damage\nFor the duration, I have advantage on saves vs. spells cast by fiends and undead",
+                "usages": 1,
+                "recovery": "long rest",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "ranger-hunter",
+        "class": "ranger",
+        "name": "Hunter",
+        "fullName": "Hunter",
+        "source": "SRD 37",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Hunter's Prey",
+                "source": "SRD 37",
+                "level": 3,
+                "description": "Choose Colossus Slayer, Giant Killer, or Horde Breaker with the \"Choose Feature\" button",
+                "choices": [
+                    {
+                        "key": "colossus slayer",
+                        "name": "Hunter's Prey: Colossus Slayer",
+                        "description": "Once per turn, when hitting someone that is below max HP, I do an extra 1d8 damage"
+                    },
+                    {
+                        "key": "giant killer",
+                        "name": "Hunter's Prey: Giant Killer",
+                        "description": "As a reaction, when a Large or larger enemy in 5 ft attacks me, I can attack it once",
+                        "actions": [
+                            {
+                                "type": "reaction"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "horde breaker",
+                        "name": "Hunter's Prey: Horde Breaker",
+                        "description": "Once per turn, when I hit a creature, I can make an attack vs. another within 5 ft of it"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature7",
+                "name": "Defensive Tactics",
+                "source": "SRD 38",
+                "level": 7,
+                "description": "\"Choose Feature\" button to choose Escape the Horde, Multiattack Defense, or Steel Will",
+                "choices": [
+                    {
+                        "key": "escape the horde",
+                        "name": "Defensive Tactic: Escape the Horde",
+                        "description": "Creatures attacking me with opportunity attacks have disadvantage on the attack rolls"
+                    },
+                    {
+                        "key": "multiattack defense",
+                        "name": "Defensive Tactic: Multiattack Defense",
+                        "description": "When a creature hits me, I gain +4 AC against that creature for the rest of the turn"
+                    },
+                    {
+                        "key": "steel will",
+                        "name": "Defensive Tactic: Steel Will",
+                        "description": "I have advantage on saves against being frightened",
+                        "saveNotes": {
+                            "advantageVs": [
+                                "frightened"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature11",
+                "name": "Multiattack",
+                "source": "SRD 38",
+                "level": 11,
+                "description": "Choose Volley or Whirlwind Attack using the \"Choose Feature\" button above",
+                "choices": [
+                    {
+                        "key": "volley",
+                        "name": "Multiattack: Volley",
+                        "description": "As an action, I can make ranged attacks vs. all within a 10-ft radius of a point in range",
+                        "actions": [
+                            {
+                                "type": "action"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "whirlwind attack",
+                        "name": "Multiattack: Whirlwind Attack",
+                        "description": "As an action, I can make melee attacks vs. all creatures within 5 ft of me",
+                        "actions": [
+                            {
+                                "type": "action"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature15",
+                "name": "Superior Hunter's Defense",
+                "source": "SRD 38",
+                "level": 15,
+                "description": "\"Choose Feature\" button to choose Evasion, Stand Against the Tide, or Uncanny Dodge",
+                "choices": [
+                    {
+                        "key": "evasion",
+                        "name": "Evasion",
+                        "description": "My Dexterity saves vs. areas of effect negate damage on success and halve it on failure",
+                        "saveNotes": {
+                            "text": [
+                                "Dex save vs. area effects: fail ― half dmg, success ― no dmg"
+                            ]
+                        }
+                    },
+                    {
+                        "key": "stand against the tide",
+                        "name": "Stand Against the Tide",
+                        "description": "When a creature misses me with a melee attack, I can use my reaction on the attack\nI force the attacker to repeat it vs. another (not attacker) of my choice within range",
+                        "actions": [
+                            {
+                                "type": "reaction"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "uncanny dodge",
+                        "name": "Uncanny Dodge",
+                        "description": "As a reaction, I halve the damage of an attack from an attacker that I can see",
+                        "actions": [
+                            {
+                                "type": "reaction"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "rogue-thief",
+        "class": "rogue",
+        "name": "Thief",
+        "fullName": "Thief",
+        "source": "SRD 41",
+        "features": [
+            {
+                "key": "subclassfeature3",
+                "name": "Fast Hands",
+                "source": "SRD 40",
+                "level": 3,
+                "description": "As a bonus action, I can do one of the following:\n• Make a Dexterity (Sleight of Hand) check\n• Use my thieves' tools to disarm a trap or open a lock\n• Take the Use an Object action",
+                "actions": [
+                    {
+                        "type": "bonus action"
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature3.1",
+                "name": "Second-Story Work",
+                "source": "SRD 41",
+                "level": 3,
+                "description": "I climb at my normal speed; I add my Dex modifier to the distance of a running jump",
+                "speed": {
+                    "climb": {
+                        "spd": "walk",
+                        "enc": "walk"
+                    }
+                }
+            },
+            {
+                "key": "subclassfeature9",
+                "name": "Supreme Sneak",
+                "source": "SRD 41",
+                "level": 9,
+                "description": "I have advantage on Dexterity (Stealth) checks when moving no more than half speed"
+            },
+            {
+                "key": "subclassfeature13",
+                "name": "Use Magic Device",
+                "source": "SRD 41",
+                "level": 13,
+                "description": "I can use magic items even if I don't meet the class, race, and/or level requirements"
+            },
+            {
+                "key": "subclassfeature17",
+                "name": "Thief's Reflexes",
+                "source": "SRD 41",
+                "level": 17,
+                "description": "Unless surprised, I can take two turns on the first round of any combat\nThe first turn is at my regular initiative, and the second is at my initiative - 10"
+            }
+        ]
+    },
+    {
+        "key": "sorcerer-draconic bloodline",
+        "class": "sorcerer",
+        "name": "Draconic Bloodline",
+        "source": "SRD 44",
+        "features": [
+            {
+                "key": "subclassfeature1",
+                "name": "Dragon Ancestor",
+                "source": "SRD 44",
+                "level": 1,
+                "description": "Choose a Dragon Ancestor using the \"Choose Feature\" button above\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                "languages": [
+                    "Draconic"
+                ],
+                "choices": [
+                    {
+                        "key": "black dragon ancestor",
+                        "name": "Black Dragon Ancestor",
+                        "description": "I have draconic ancestry with black dragons, which are affiliated with acid damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "acid"
+                    },
+                    {
+                        "key": "blue dragon ancestor",
+                        "name": "Blue Dragon Ancestor",
+                        "description": "I have draconic ancestry with blue dragons, which are affiliated with lightning damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "lightning"
+                    },
+                    {
+                        "key": "brass dragon ancestor",
+                        "name": "Brass Dragon Ancestor",
+                        "description": "I have draconic ancestry with brass dragons, which are affiliated with fire damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "fire"
+                    },
+                    {
+                        "key": "bronze dragon ancestor",
+                        "name": "Bronze Dragon Ancestor",
+                        "description": "I have draconic ancestry with bronze dragons, which are affiliated with lightning dmg\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "lightning"
+                    },
+                    {
+                        "key": "copper dragon ancestor",
+                        "name": "Copper Dragon Ancestor",
+                        "description": "I have draconic ancestry with copper dragons, which are affiliated with acid damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "acid"
+                    },
+                    {
+                        "key": "gold dragon ancestor",
+                        "name": "Gold Dragon Ancestor",
+                        "description": "I have draconic ancestry with gold dragons, which are affiliated with fire damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "fire"
+                    },
+                    {
+                        "key": "green dragon ancestor",
+                        "name": "Green Dragon Ancestor",
+                        "description": "I have draconic ancestry with green dragons, which are affiliated with poison damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "poison"
+                    },
+                    {
+                        "key": "red dragon ancestor",
+                        "name": "Red Dragon Ancestor",
+                        "description": "I have draconic ancestry with red dragons, which are affiliated with fire damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "fire"
+                    },
+                    {
+                        "key": "silver dragon ancestor",
+                        "name": "Silver Dragon Ancestor",
+                        "description": "I have draconic ancestry with silver dragons, which are affiliated with cold damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "cold"
+                    },
+                    {
+                        "key": "white dragon ancestor",
+                        "name": "White Dragon Ancestor",
+                        "description": "I have draconic ancestry with white dragons, which are affiliated with cold damage\nWhen interacting with dragons, if I can add my Proficiency Bonus, I can double it",
+                        "dependentChoices": "cold"
+                    }
+                ],
+                "choiceDependencies": [
+                    {
+                        "feature": "subclassfeature6",
+                        "choiceAttribute": true
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature1.1",
+                "name": "Draconic Resilience",
+                "source": "SRD 45",
+                "level": 1,
+                "description": "When I am not wearing armor, my AC is 13 + Dexterity modifier\nMy hit point maximum increases by an amount equal to my sorcerer level",
+                "armorOptions": [
+                    {
+                        "name": "Draconic Resilience",
+                        "ac": 13
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Elemental Affinity",
+                "source": "SRD 45",
+                "level": 6,
+                "description": "Choose a Dragon Ancestor using the \"Choose Feature\" button above\nI add Cha mod for spell damage if matching my dragon ancestor's affiliated type\nI can spend 1 sorcery point to gain resistance to my dragon ancestor's affiliated type",
+                "additional": "optional: 1 sorcery point",
+                "choices": [
+                    {
+                        "key": "acid",
+                        "name": "Acid Elemental Affinity",
+                        "description": "I add my Charisma modifier to one damage roll of a spell if it does acid damage\nWhen I do this, I can spend 1 sorcery point to gain acid resistance for 1 hour",
+                        "mechanicsNotes": [
+                            "Cantrips and spells that deal acid damage get my Charisma modifier added to their damage."
+                        ]
+                    },
+                    {
+                        "key": "cold",
+                        "name": "Cold Elemental Affinity",
+                        "description": "I add my Charisma modifier to one damage roll of a spell if it does cold damage\nWhen I do this, I can spend 1 sorcery point to gain cold resistance for 1 hour",
+                        "mechanicsNotes": [
+                            "Cantrips and spells that deal cold damage get my Charisma modifier added to their damage."
+                        ]
+                    },
+                    {
+                        "key": "fire",
+                        "name": "Fire Elemental Affinity",
+                        "description": "I add my Charisma modifier to one damage roll of a spell if it does fire damage\nWhen I do this, I can spend 1 sorcery point to gain fire resistance for 1 hour",
+                        "mechanicsNotes": [
+                            "Cantrips and spells that deal fire damage get my Charisma modifier added to their damage."
+                        ]
+                    },
+                    {
+                        "key": "lightning",
+                        "name": "Lightning Elemental Affinity",
+                        "description": "I add my Charisma modifier to one damage roll of a spell if it does lightning damage\nWhen I do this, I can spend 1 sorcery point to gain lightning resistance for 1 hour",
+                        "mechanicsNotes": [
+                            "Cantrips and spells that deal lightning damage get my Charisma modifier added to their damage."
+                        ]
+                    },
+                    {
+                        "key": "poison",
+                        "name": "Poison Elemental Affinity",
+                        "description": "I add my Charisma modifier to one damage roll of a spell if it does poison damage\nWhen I do this, I can spend 1 sorcery point to gain poison resistance for 1 hour",
+                        "mechanicsNotes": [
+                            "Cantrips and spells that deal poison damage get my Charisma modifier added to their damage."
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Dragon Wings",
+                "source": "SRD 45",
+                "level": 14,
+                "description": "As a bonus action, unless armor is in the way, I can sprout dragon wings from my back\nI gain a fly speed equal to my current speed until I dismiss the wings as a bonus action",
+                "actions": [
+                    {
+                        "type": "bonus action",
+                        "note": "(start/stop)"
+                    }
+                ],
+                "speed": {
+                    "fly": {
+                        "spd": "walk",
+                        "enc": "walk"
+                    }
+                }
+            },
+            {
+                "key": "subclassfeature18",
+                "name": "Draconic Presence",
+                "source": "SRD 45",
+                "level": 18,
+                "description": "As an action, I create 60-ft radius aura of awe/fear for concentration up to 1 minute\nAll hostiles in this aura must make a Wis save or be charmed (awe) or frightened (fear)\nThey make their saves at the beginning of their turns\nA creature that succeeds on the save is immune to my aura for 24 hours",
+                "additional": "5 sorcery points",
+                "actions": [
+                    {
+                        "type": "action"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "warlock-the fiend",
+        "class": "warlock",
+        "name": "the Fiend",
+        "source": "SRD 50",
+        "spellcastingExtra": [
+            "burning hands",
+            "command",
+            "blindness/deafness",
+            "scorching ray",
+            "fireball",
+            "stinking cloud",
+            "fire shield",
+            "wall of fire",
+            "flame strike",
+            "hallow"
+        ],
+        "features": [
+            {
+                "key": "subclassfeature1",
+                "name": "Dark One's Blessing",
+                "source": "SRD 50",
+                "level": 1,
+                "description": "When I reduce a hostile to 0 HP, I gain Cha mod + warlock level temporary HP (min 1)"
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Dark One's Own Luck",
+                "source": "SRD 50",
+                "level": 6,
+                "description": "When I make an ability check or saving throw, I can add 1d10 after rolling the d20",
+                "usages": 1,
+                "recovery": "short rest"
+            },
+            {
+                "key": "subclassfeature10",
+                "name": "Fiendish Resilience",
+                "source": "SRD 51",
+                "level": 10,
+                "description": "After a short or long rest, I can choose one damage type to become resistant to\nThis lasts until I choose another type; Magical and silver weapons ignore this resistance"
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Hurl Through Hell",
+                "source": "SRD 51",
+                "level": 14,
+                "description": "When I hit a creature with an attack, I can instantly transport it through lower planes\nIt returns at the end of my next turn and takes 10d10 psychic damage if not a fiend",
+                "usages": 1,
+                "recovery": "long rest"
+            }
+        ]
+    },
+    {
+        "key": "wizard-evocation",
+        "class": "wizard",
+        "name": "School of Evocation",
+        "fullName": "Evoker",
+        "source": "SRD 54",
+        "features": [
+            {
+                "key": "subclassfeature2",
+                "name": "Evocation Savant",
+                "source": "SRD 54",
+                "level": 2,
+                "description": "I halve the gp and time needed to copy evocation spells into my spellbook"
+            },
+            {
+                "key": "subclassfeature2.1",
+                "name": "Sculpt Spells",
+                "source": "SRD 54",
+                "level": 2,
+                "description": "If I cast an evocation spell affecting others I can see, I can protect 1 + the spell's level\nThe chosen automatically succeed on their saving throws vs. the spell\nThey also take no damage if the spell would normally deal half damage on a save"
+            },
+            {
+                "key": "subclassfeature6",
+                "name": "Potent Cantrip",
+                "source": "SRD 54",
+                "level": 6,
+                "description": "Any cantrips I cast still deal half damage on a successful save",
+                "mechanicsNotes": [
+                    "My cantrips still do half damage on a successful saving throw, but none of their other effects."
+                ]
+            },
+            {
+                "key": "subclassfeature10",
+                "name": "Empowered Evocation",
+                "source": "SRD 54",
+                "level": 10,
+                "description": "I can add my Int modifier to a single damage roll of any wizard evocation spell I cast",
+                "mechanicsNotes": [
+                    "I add my Intelligence modifier to a single damage roll of any wizard evocation spell I cast."
+                ]
+            },
+            {
+                "key": "subclassfeature14",
+                "name": "Overchannel",
+                "source": "SRD 54",
+                "level": 14,
+                "description": "When I cast a 5th-level or lower wizard spell that damages, it can deal max damage\nExcept the first time I do this after a long rest, I suffer 2d12 necrotic dmg per spell lvl\nEvery time I do it after that, before a long rest, I take another 1d12 necrotic damage\nThis necrotic damage surpasses my resistances/immunities; I can't overchannel cantrips",
+                "extraLimitedFeatures": [
+                    {
+                        "name": "Overchannel",
+                        "usages": "1 + ∞",
+                        "recovery": "long rest"
+                    }
+                ]
+            }
+        ]
+    }
+]

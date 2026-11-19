@@ -1,0 +1,185 @@
+{
+    "name": "Desert",
+    "source": "DataInspo/Old Exploration tables.md",
+    "rolls": [
+        {
+            "key": "twist",
+            "name": "Twist",
+            "die": "1d8",
+            "entries": [
+                {
+                    "roll": 1,
+                    "name": "A Familiar Face",
+                    "description": "Someone in the opposing group is an old friend, rival, or lost family member of a party member."
+                },
+                {
+                    "roll": 2,
+                    "name": "All that glitters",
+                    "description": "A group is in possession of or seeking a powerful artifact or hidden treasure."
+                },
+                {
+                    "roll": 3,
+                    "name": "Reinforcements Arrive",
+                    "description": "More enemies or allies show up, changing the balance of power."
+                },
+                {
+                    "roll": 4,
+                    "name": "Bargaining Chip",
+                    "description": "Someone important is taken hostage or used as leverage, changing the nature of the encounter."
+                },
+                {
+                    "roll": 5,
+                    "name": "Sandstorm Approaching",
+                    "description": "A wall of sand looms in the distance, threatening to obscure vision, make ranged attacks difficult, and bury anything left in the open. Beyond the max visual range, all vision-related checks have disadvantage.",
+                    "effects": [
+                        { "label": "Max visual range", "dice": "1d4", "multiplier": 10, "unit": "ft" }
+                    ]
+                },
+                {
+                    "roll": 6,
+                    "name": "Quicksand Trap",
+                    "description": "The ground shifts unexpectedly, sucking down anyone not careful. Enemies might take advantage of this or get caught themselves. The area around the party becomes difficult terrain."
+                },
+                {
+                    "roll": 7,
+                    "name": "Blistering Heatwave",
+                    "description": "The temperature suddenly spikes, causing exhaustion and forcing combatants to seek shade or hydration. DC 12 Con save each round while outside shade or have disadvantage on actions for the round."
+                },
+                {
+                    "roll": 8,
+                    "name": "Mysterious Obelisk",
+                    "description": "A forgotten stone monument stands nearby, covered in cryptic carvings. It could be a source of hidden power, a dangerous curse, or just an ominous landmark.",
+                    "tables":["obelisk"]
+                }
+            ]
+        },
+        {
+            "key": "location",
+            "name": "Location",
+            "die": "1d20",
+            "entries": [
+                {
+                    "roll": 1,
+                    "name": "Shifting Dunes",
+                    "description": "Vast sand dunes that change shape with the wind, sometimes revealing buried artifacts, bones, or even hidden creatures."
+                },
+                {
+                    "roll": 2,
+                    "name": "Glassfields",
+                    "description": "A stretch of desert where the sand has melted into dark, razor-sharp glass, possibly due to ancient magic or lightning strikes."
+                },
+                {
+                    "roll": 3,
+                    "name": "Salt Flats",
+                    "description": "A blinding white expanse of hardened salt where distant figures could be mirages… or something else."
+                },
+                {
+                    "roll": 4,
+                    "name": "Jagged Badlands",
+                    "description": "A maze of cracked, uneven stone ridges and plateaus, home to hidden caves and dangerous predators."
+                },
+                {
+                    "roll": 5,
+                    "name": "The Singing Cliffs",
+                    "description": "Towering cliffs that create eerie howls when the wind rushes through their gaps."
+                },
+                {
+                    "roll": 6,
+                    "name": "Canyon Stream",
+                    "description": "A rare sight in the desert—a narrow canyon with a trickle of water running through it, lined with dry shrubs and stubborn reeds."
+                },
+                {
+                    "roll": 7,
+                    "name": "Dried Oasis",
+                    "description": "An old oasis now reduced to cracked earth and dead palm trees, but something still lingers in the shadows."
+                },
+                {
+                    "roll": 8,
+                    "name": "Ghost Lake",
+                    "description": "A shallow basin that sometimes fills with water from underground springs, only to vanish again by morning."
+                },
+                {
+                    "roll": 9,
+                    "name": "Poisoned Pool",
+                    "description": "A small water source, shimmering with unnatural colours. Drinking from it causes visions, illness, or something worse."
+                },
+                {
+                    "roll": 10,
+                    "name": "Collapsed Cave",
+                    "description": "A cave entrance partially sealed by a rockslide. Something inside has been trapped for a long time."
+                },
+                {
+                    "roll": 11,
+                    "name": "Sunken Pit",
+                    "description": "A deep, sheer-sided hole in the desert floor, possibly leading to tunnels, underground ruins, or something lurking below."
+                },
+                {
+                    "roll": 12,
+                    "name": "The Wailing Cave",
+                    "description": "A cave that emits low, moaning sounds when the wind changes, scaring off even the boldest creatures."
+                },
+                {
+                    "roll": 13,
+                    "name": "Ruined Ziggurat",
+                    "description": "A weathered, half-buried step pyramid with faded carvings depicting an ancient civilization."
+                },
+                {
+                    "roll": 14,
+                    "name": "The Bone Circle",
+                    "description": "A ritual site where old, petrified bones have been arranged into a perfect spiral, their meaning long forgotten."
+                },
+                {
+                    "roll": 15,
+                    "name": "Obelisk of the Lost",
+                    "description": "A towering monolith covered in incomprehensible glyphs that glow faintly under the full moon."
+                },
+                {
+                    "roll": 16,
+                    "name": "Petrified Battlefield",
+                    "description": "A field of ancient skeletons, their remains calcified by centuries of desert wind. Weapons still litter the ground."
+                },
+                {
+                    "roll": 17,
+                    "name": "The Cursed Spring",
+                    "description": "A small spring hidden in the rocks, said to grant wisdom but at a terrible cost to those who drink from it."
+                },
+                {
+                    "roll": 18,
+                    "name": "The Sleeping Beast",
+                    "description": "A massive rock formation shaped like the skull of a long-extinct behemoth. Some say it is only resting."
+                },
+                {
+                    "roll": 19,
+                    "name": "The Copper Mirage",
+                    "description": "A spot in the desert where strange, flickering lights dance at night, leading wanderers astray."
+                },
+                {
+                    "roll": 20,
+                    "name": "The Shattered Sky",
+                    "description": "A place where the air itself shimmers and bends unnaturally, as if reality is cracking apart."
+                }
+            ]
+        }
+    ],
+    "tables": {
+        "obelisk": {
+            "name": "Obelisk Rolls",
+            "die": "1d12",
+            "usage": "Roll whenever a spell is cast near the obelisk.",
+            "entries": [
+                { "roll": 1, "name": "Spell Targets a Random Creature", "description": "The magic lashes out unpredictably, hitting a completely random creature within range instead of the intended target." },
+                { "roll": 2, "name": "Spell Power is Inverted", "description": "Healing spells deal damage, damaging spells heal, buffs become debuffs, and vice versa." },
+                { "roll": 3, "name": "Spell Becomes Elementally Twisted", "description": "The spell’s damage type changes to something unexpected (fire becomes cold, necrotic becomes radiant, etc.)." },
+                { "roll": 4, "name": "Spell Has a Delayed Effect", "description": "The spell doesn’t take effect immediately, instead activating 1d4 rounds later, possibly at an inconvenient moment." },
+                { "roll": 5, "name": "Spell is Absorbed", "description": "The obelisk drinks the magical energy, negating the spell entirely. The next spell cast in the area is empowered, dealing double effect." },
+                { "roll": 6, "name": "Cascading Magic", "description": "The spell leaves behind a lingering effect related to its nature. A fire spell might cause embers to dance in the air for a minute, an illusion spell might leave faint afterimages, and a teleportation spell might create a shimmering rift that crackles before fading." },
+                { "roll": 7, "name": "Spell Jumps to a Secondary Target", "description": "After resolving the initial effect, the spell randomly jumps to another nearby creature or object." },
+                { "roll": 8, "name": "Magic Pull", "description": "The caster is teleported next to the obelisk." },
+                { "roll": 9, "name": "Anti-Magic Pulse", "description": "The spell fizzles, and an anti-magic field (10 ft radius) lingers for 1 minute, preventing further spellcasting in the area." },
+                { "roll": 10, "name": "Echoing Magic", "description": "The spell repeats itself at the start of the caster’s next turn, whether they want it to or not." },
+                { "roll": 11, "name": "Reality Shift", "description": "The caster experiences a brief vision of another world, and the battlefield flickers with ghostly images of another time or place. The caster is stunned until the start of their next turn." },
+                { "roll": 12, "name": "Obelisk’s Judgment", "description": "The obelisk chooses whether to amplify or weaken the spell, seemingly at random. The DM rolls a secret d20: on a 1–10, the spell’s power is halved; on an 11–20, it is doubled." }
+            ]
+        }
+    }
+}

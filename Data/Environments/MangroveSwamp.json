@@ -1,0 +1,168 @@
+{
+    "name": "Mangrove Swamp",
+    "source": "DataInspo/Old Exploration tables.md",
+    "rolls": [
+        {
+            "key": "twist",
+            "name": "Twist",
+            "die": "1d6",
+            "entries": [
+                {
+                    "roll": 1,
+                    "name": "A Familiar Face",
+                    "description": "Someone in the opposing group is an old friend, rival, or lost family member of a party member."
+                },
+                {
+                    "roll": 2,
+                    "name": "All that glitters",
+                    "description": "A group is in possession of or seeking a powerful artifact or hidden treasure."
+                },
+                {
+                    "roll": 3,
+                    "name": "Reinforcements Arrive",
+                    "description": "More enemies or allies show up, changing the balance of power."
+                },
+                {
+                    "roll": 4,
+                    "name": "Bargaining Chip",
+                    "description": "Someone important is taken hostage or used as leverage, changing the nature of the encounter."
+                },
+                {
+                    "roll": 5,
+                    "name": "Storm Incoming",
+                    "description": "Dark clouds gather, strong winds pick up, and a storm is about to break. The encounter may be disrupted or changed due to weather.",
+                    "tables": ["storm"]
+                },
+                {
+                    "roll": 6,
+                    "name": "Dense Fog",
+                    "description": "Visibility drops dramatically, making it harder to see who’s friend or foe. Beyond the max visual range, all vision-related checks have disadvantage.",
+                    "effects": [
+                        { "label": "Max visual range", "dice": "1d4", "multiplier": 10, "unit": "ft" }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "location",
+            "name": "Location",
+            "die": "1d20",
+            "entries": [
+                {
+                    "roll": 1,
+                    "name": "Tangled Roots Maze",
+                    "description": "A dense thicket of mangrove roots forms a nearly impassable natural labyrinth, possibly home to predators or hidden treasures."
+                },
+                {
+                    "roll": 2,
+                    "name": "Shifting Sandbar",
+                    "description": "A temporary island of sand and mud that appears at low tide but vanishes when the tide rises."
+                },
+                {
+                    "roll": 3,
+                    "name": "Brackish Water Pool",
+                    "description": "A stagnant, algae-covered pool where something lurks beneath the surface."
+                },
+                {
+                    "roll": 4,
+                    "name": "Bioluminescent Lagoon",
+                    "description": "A section of water that glows faintly at night due to bioluminescent plankton, creating an eerie and mesmerizing atmosphere."
+                },
+                {
+                    "roll": 5,
+                    "name": "Salt-Stained Dead Grove",
+                    "description": "A section of the swamp where all the trees have died, leaving only ghostly white trunks standing in the water."
+                },
+                {
+                    "roll": 6,
+                    "name": "Leech-Infested Bog",
+                    "description": "A knee-deep pool covered in reeds, where anyone stepping in may emerge covered in blood-draining parasites. DC 10 Con save each round or lose 1 hp."
+                },
+                {
+                    "roll": 7,
+                    "name": "Cave in the Roots",
+                    "description": "A hidden cavern formed beneath the tangled roots of an ancient mangrove tree, possibly containing old bones, a lost treasure chest, or something worse."
+                },
+                {
+                    "roll": 8,
+                    "name": "Old Shipwreck",
+                    "description": "The ruined husk of a once-proud vessel, now half-sunken and broken apart by the mangrove roots growing through it. Could be a pirate ship, merchant vessel, or colonial warship."
+                },
+                {
+                    "roll": 9,
+                    "name": "Abandoned Smuggler’s Den",
+                    "description": "A small wooden outpost on stilts, long deserted but still containing hidden compartments with contraband."
+                },
+                {
+                    "roll": 10,
+                    "name": "Ruined Stilt Village",
+                    "description": "The remains of an old settlement built on wooden stilts, now half-collapsed and reclaimed by nature. Signs of a struggle still linger."
+                },
+                {
+                    "roll": 11,
+                    "name": "Bridge to Nowhere",
+                    "description": "A partially collapsed wooden bridge leading to a missing section, hinting at an old road swallowed by the swamp."
+                },
+                {
+                    "roll": 12,
+                    "name": "Flooded Prison Cell",
+                    "description": "A rusting iron cage barely visible beneath the water, its bars warped and broken. Who was once kept here?"
+                },
+                {
+                    "roll": 13,
+                    "name": "Fallen Lighthouse",
+                    "description": "A ruined tower that once guided ships through the mangrove-lined waterways, now little more than rubble and overgrown vines."
+                },
+                {
+                    "roll": 14,
+                    "name": "Overgrown Watchtower",
+                    "description": "A crumbling wooden structure with faded colonial banners, still holding an old musket or spyglass inside."
+                },
+                {
+                    "roll": 15,
+                    "name": "Shrine of the Swamp Spirits",
+                    "description": "A small stone altar covered in offerings of shells, beads, and bones, dedicated to local swamp deities or spirits."
+                },
+                {
+                    "roll": 16,
+                    "name": "Witch’s Hut",
+                    "description": "A strange, crooked wooden house built above the water, covered in charms and talismans. A local healer or dangerous hermit might reside here."
+                },
+                {
+                    "roll": 17,
+                    "name": "Cursed Totem Grove",
+                    "description": "A circle of rotting wooden totems, depicting long-forgotten gods or monsters. Strange whispers fill the air."
+                },
+                {
+                    "roll": 18,
+                    "name": "Skeleton Dock",
+                    "description": "An ancient dock made of blackened wood and bones, long abandoned but eerily well-preserved."
+                },
+                {
+                    "roll": 19,
+                    "name": "Driftwood Raft Village",
+                    "description": "A nomadic settlement of scavengers living on rafts and floating platforms, wary of outsiders but open to trade."
+                },
+                {
+                    "roll": 20,
+                    "name": "Sunken Battlefield",
+                    "description": "A shallow stretch of water littered with rusting weapons, broken canoes, and bones from an old battle."
+                }
+            ]
+        }
+    ],
+    "tables": {
+        "storm": {
+            "name": "Storm Rolls",
+            "die": "1d6",
+            "usage": "Roll each round while the storm rages.",
+            "entries": [
+                { "roll": 1, "name": "Lightning", "description": "DC 12 Dex save or take 2d6 damage while out of cover." },
+                { "roll": 2, "name": "Wind", "description": "DC 12 Str save or be pushed 5 ft in a random direction." },
+                { "roll": [3, 4], "name": "Nothing" },
+                { "roll": 5, "name": "Rain", "description": "DC 12 Wis save or the grip on your weapon is loosened: disadvantage on your next weapon attack." },
+                { "roll": 6, "name": "Thunder", "description": "DC 12 Con save or be deafened for the duration of the round." }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Unarmored",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Mage Armor",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Padded",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Leather",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Studded Leather",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Hide",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Chain Shirt",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Scale Mail",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Breastplate",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Half Plate",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Ring Mail",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Chain Mail",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Splint",
+        "detailedIn": "Equipment/Armor.json"
+    },
+    {
+        "name": "Plate",
+        "detailedIn": "Equipment/Armor.json"
+    }
+]

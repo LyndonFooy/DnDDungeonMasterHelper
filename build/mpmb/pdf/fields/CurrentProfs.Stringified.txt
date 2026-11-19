@@ -1,0 +1,1 @@
+({skill:{}, armour:{}, weapon:{}, save:{}, resistance:{}, language:{}, tool:{}, savetxt:{}, vision:{}, speed:{}, specialarmour:{}, carryingcapacity:{}, advantage:{}})

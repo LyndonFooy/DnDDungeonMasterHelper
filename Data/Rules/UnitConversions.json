@@ -1,0 +1,23 @@
+{
+    "note": "Multiply imperial values by these factors: mass lb->kg, length ft->m, lengthInch in->cm, volume cu ft->m3, surface sq ft->m2, distance mi->km, liquid gal->L, liquidQuart qt->L",
+    "rounded": {
+        "mass": 0.5,
+        "length": 0.3,
+        "lengthInch": 2.5,
+        "volume": 0.03,
+        "surface": 0.1,
+        "distance": 1.6,
+        "liquid": 4,
+        "liquidQuart": 1
+    },
+    "exact": {
+        "mass": 0.45359237,
+        "length": 0.3048,
+        "lengthInch": 2.54,
+        "volume": 0.028316846592,
+        "surface": 0.09290304,
+        "distance": 1.609344,
+        "liquid": 3.785411784,
+        "liquidQuart": 0.94635295
+    }
+}

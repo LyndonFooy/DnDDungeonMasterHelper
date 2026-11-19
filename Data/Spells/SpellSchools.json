@@ -1,0 +1,54 @@
+[
+    {
+        "abbreviation": "Abjur",
+        "name": "Abjuration"
+    },
+    {
+        "abbreviation": "Conj",
+        "name": "Conjuration"
+    },
+    {
+        "abbreviation": "Div",
+        "name": "Divination"
+    },
+    {
+        "abbreviation": "Ench",
+        "name": "Enchantment"
+    },
+    {
+        "abbreviation": "Evoc",
+        "name": "Evocation"
+    },
+    {
+        "abbreviation": "Illus",
+        "name": "Illusion"
+    },
+    {
+        "abbreviation": "Necro",
+        "name": "Necromancy"
+    },
+    {
+        "abbreviation": "Trans",
+        "name": "Transmutation"
+    },
+    {
+        "abbreviation": "Avatar",
+        "name": "Avatar"
+    },
+    {
+        "abbreviation": "Awake",
+        "name": "Awakened"
+    },
+    {
+        "abbreviation": "Immor",
+        "name": "Immortal"
+    },
+    {
+        "abbreviation": "Nomad",
+        "name": "Nomad"
+    },
+    {
+        "abbreviation": "Wu Jen",
+        "name": "Wu Jen"
+    }
+]

@@ -1,0 +1,86 @@
+{
+    "_comment": "Expert NPC class, hand-written from ./outline. Armor follows the generator rules (light, medium and shields) rather than the outline's light armor only.",
+    "key": "expert",
+    "name": "Expert",
+    "source": "Generators/NpcGenerator/Expert/outline",
+    "hitDie": 8,
+    "savingThrows": [],
+    "skillChoice": { "count": 5, "from": "any" },
+    "armorProficiencies": ["light", "medium", "shields"],
+    "weaponProficiencies": { "simple": true, "martial": false, "specific": [] },
+    "weapons": { "category": "Simple", "exclude": [] },
+    "stealthy": true,
+    "abilityPriority": ["Wis", "Int", "Cha"],
+    "shuffleAbilityTail": true,
+    "asiLevels": [4, 8, 10, 12, 16, 19],
+    "excludedFeats": ["heavily armored", "Weapon Master", "Artificer Initiate", "Gunner", "Mounted Combatant"],
+    "attacksPerLevel": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "features": [
+        {
+            "key": "bonus proficiencies",
+            "name": "Bonus Proficiencies",
+            "level": 1,
+            "description": "Proficiency in one saving throw (Dexterity, Intelligence, or Charisma), five skills, light armor, all simple weapons, and two tools.",
+            "savingThrowChoice": { "count": 1, "from": ["Dex", "Int", "Cha"] },
+            "toolChoice": 2
+        },
+        {
+            "key": "helpful",
+            "name": "Helpful",
+            "level": 1,
+            "description": "The [MON] can take the Help action as a bonus action.",
+            "actions": [{ "type": "bonus action" }]
+        },
+        {
+            "key": "cunning action",
+            "name": "Cunning Action",
+            "level": 2,
+            "description": "On its turn in combat, the [MON] can take the Dash, Disengage, or Hide action as a bonus action.",
+            "actions": [{ "type": "bonus action" }]
+        },
+        {
+            "key": "expertise",
+            "name": "Expertise",
+            "level": 3,
+            "description": "The [MON]'s proficiency bonus is doubled for ability checks using two chosen skills (two more at 15th level).",
+            "extraChoices": {
+                "name": "Expertise",
+                "timesPerLevel": [0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4],
+                "options": "skills"
+            }
+        },
+        {
+            "key": "coordinated strike",
+            "name": "Coordinated Strike",
+            "level": 6,
+            "description": "When the [MON] uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the [MON], and the [MON] deals an extra 7 (2d6) damage to it the next time the [MON] hits it with an attack roll before the end of the current turn. The extra damage is the same type as the attack's damage."
+        },
+        {
+            "key": "evasion",
+            "name": "Evasion",
+            "level": 7,
+            "description": "If the [MON] is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the [MON] instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It doesn't benefit from this feature while incapacitated."
+        },
+        {
+            "key": "inspiring help",
+            "name": "Inspiring Help",
+            "level": 11,
+            "description": "When the [MON] takes the Help action, the creature who receives the help also gains a {additional} bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.",
+            "additional": ["1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "1d6", "2d6"]
+        },
+        {
+            "key": "reliable talent",
+            "name": "Reliable Talent",
+            "level": 14,
+            "description": "Whenever the [MON] makes an ability check that includes its whole proficiency bonus, it can treat a d20 roll of 9 or lower as a 10."
+        },
+        {
+            "key": "sharp mind",
+            "name": "Sharp Mind",
+            "level": 18,
+            "description": "Proficiency in one more saving throw: Intelligence, Wisdom, or Charisma.",
+            "savingThrowChoice": { "count": 1, "from": ["Int", "Wis", "Cha"] },
+            "omit": true
+        }
+    ]
+}

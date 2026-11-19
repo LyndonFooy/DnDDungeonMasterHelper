@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Aberrant Dragonmark",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Actor",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Adept of the Black Robes",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Adept of the Red Robes",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Adept of the White Robes",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Agent of Order",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Alert",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Artificer Initiate",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Athlete",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Baleful Scion",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Bountiful Luck",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Cartomancer",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Charger",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Chef",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Cohort of Chaos",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Crossbow Expert",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Crusher",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Defensive Duelist",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Divinely Favored",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Dragon Fear",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Dragon Hide",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Drow High Magic",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Dual Wielder",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Dungeon Delver",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Durable",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Dwarven Fortitude",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Eldritch Adept",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Elemental Adept",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Elven Accuracy",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Ember of the Fire Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Fade Away",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Fey Teleportation",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Fey Touched",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Fighting Initiate",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Flames of Phlegethos",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Fury of the Frost Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Gift of the Chromatic Dragon",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Gift of the Gem Dragon",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Gift of the Metallic Dragon",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Grappler",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Great Weapon Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Guile of the Cloud Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Gunner",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Healer",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Heavily Armored",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Heavy Armor Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Infernal Constitution",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Initiate of High Sorcery",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Inspiring Leader",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Keen Mind",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Keenness of the Stone Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Knight of the Crown",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Knight of the Rose",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Knight of the Sword",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Lightly Armored",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Linguist",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Lucky",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Mage Slayer",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Magic Initiate",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Martial Adept",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Medium Armor Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Metamagic Adept",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Mobile",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Moderately Armored",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Mounted Combatant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Observant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Orcish Fury",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Outlands Envoy",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Piercer",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Planar Wanderer",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Poisoner",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Polearm Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Prodigy",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Resilient",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Revenant Blade",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Righteous Heritor",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Ritual Caster",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Rune Shaper",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Savage Attacker",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Scion of the Outer Planes",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Second Chance",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Sentinel",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Shadow Touched",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Sharpshooter",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Shield Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Skill Expert",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Skilled",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Skulker",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Slasher",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Soul of the Storm Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Spell Sniper",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Squat Nimbleness",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Squire of Solamnia",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Strike of the Giants",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Strixhaven Initiate",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Strixhaven Mascot",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Svirfneblin Magic",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Tavern Brawler",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Telekinetic",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Telepathic",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Tough",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Vigor of the Hill Giant",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "War Caster",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Weapon Master",
+        "detailedIn": "Feats/Feats.json"
+    },
+    {
+        "name": "Wood Elf Magic",
+        "detailedIn": "Feats/Feats.json"
+    }
+]

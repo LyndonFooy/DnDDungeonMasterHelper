@@ -1,0 +1,76 @@
+{
+    "_comment": "Warrior NPC class, hand-written from ./outline. Same shape as Data/Classes/Classes.json plus the NPC fields documented in Generators/NpcGenerator/README.md. Descriptions are statblock prose; [MON] becomes 'the warrior' and {level} the NPC's level.",
+    "key": "warrior",
+    "name": "Warrior",
+    "source": "Generators/NpcGenerator/Warrior/outline",
+    "hitDie": 10,
+    "savingThrows": [],
+    "skillChoice": { "count": 2, "from": ["Acrobatics", "Animal Handling", "Athletics", "Intimidation", "Nature", "Perception", "Survival"] },
+    "armorProficiencies": ["light", "medium", "heavy", "shields"],
+    "weaponProficiencies": { "simple": true, "martial": true, "specific": [] },
+    "weapons": { "category": "Martial", "exclude": ["net", "lance"] },
+    "abilityPriority": ["Wis", "Cha", "Int"],
+    "asiLevels": [4, 8, 12, 14, 16, 19],
+    "excludedFeats": ["lightly armored", "moderately armored", "heavily armored", "Weapon Master", "Artificer Initiate", "Gunner", "Mounted Combatant"],
+    "attacksPerLevel": [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3],
+    "features": [
+        {
+            "key": "bonus proficiencies",
+            "name": "Bonus Proficiencies",
+            "level": 1,
+            "description": "Proficiency in one saving throw (Strength, Dexterity, or Constitution), two skills, all armor, shields, and all simple and martial weapons.",
+            "savingThrowChoice": { "count": 1, "from": ["Str", "Dex", "Con"] }
+        },
+        {
+            "key": "martial role",
+            "name": "Martial Role",
+            "level": 1,
+            "description": "",
+            "choicesFrom": { "class": "fighter", "feature": "fighting style" }
+        },
+        {
+            "key": "second wind",
+            "name": "Second Wind",
+            "level": 2,
+            "description": "As a bonus action, the [MON] regains 1d10 + {level} hit points.",
+            "usages": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+            "recovery": "short rest",
+            "actions": [{ "type": "bonus action" }]
+        },
+        {
+            "key": "improved critical",
+            "name": "Improved Critical",
+            "level": 3,
+            "description": "The [MON]'s attack rolls score a critical hit on a roll of 19 or 20 on the d20.",
+            "critRange": 19
+        },
+        {
+            "key": "extra attack",
+            "name": "Extra Attack",
+            "level": 6,
+            "description": "The [MON] can attack twice (three times from 15th level) whenever it takes the Attack action on its turn."
+        },
+        {
+            "key": "battle readiness",
+            "name": "Battle Readiness",
+            "level": 7,
+            "description": "The [MON] has advantage on initiative rolls."
+        },
+        {
+            "key": "improved defense",
+            "name": "Improved Defense",
+            "level": 10,
+            "description": "The [MON]'s Armor Class increases by 1.",
+            "acBonus": 1,
+            "omit": true
+        },
+        {
+            "key": "indomitable",
+            "name": "Indomitable",
+            "level": 11,
+            "description": "The [MON] can reroll a saving throw that it fails, but it must use the new roll.",
+            "usages": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2],
+            "recovery": "long rest"
+        }
+    ]
+}

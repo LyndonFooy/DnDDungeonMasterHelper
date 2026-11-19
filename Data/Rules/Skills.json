@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Acrobatics",
+        "ability": "Dex",
+        "abbreviation": "Acr"
+    },
+    {
+        "name": "Animal Handling",
+        "ability": "Wis",
+        "abbreviation": "Ani"
+    },
+    {
+        "name": "Arcana",
+        "ability": "Int",
+        "abbreviation": "Arc"
+    },
+    {
+        "name": "Athletics",
+        "ability": "Str",
+        "abbreviation": "Ath"
+    },
+    {
+        "name": "Deception",
+        "ability": "Cha",
+        "abbreviation": "Dec"
+    },
+    {
+        "name": "History",
+        "ability": "Int",
+        "abbreviation": "His"
+    },
+    {
+        "name": "Insight",
+        "ability": "Wis",
+        "abbreviation": "Ins"
+    },
+    {
+        "name": "Intimidation",
+        "ability": "Cha",
+        "abbreviation": "Inti"
+    },
+    {
+        "name": "Investigation",
+        "ability": "Int",
+        "abbreviation": "Inv"
+    },
+    {
+        "name": "Medicine",
+        "ability": "Wis",
+        "abbreviation": "Med"
+    },
+    {
+        "name": "Nature",
+        "ability": "Int",
+        "abbreviation": "Nat"
+    },
+    {
+        "name": "Perception",
+        "ability": "Wis",
+        "abbreviation": "Perc"
+    },
+    {
+        "name": "Performance",
+        "ability": "Cha",
+        "abbreviation": "Perf"
+    },
+    {
+        "name": "Persuasion",
+        "ability": "Cha",
+        "abbreviation": "Pers"
+    },
+    {
+        "name": "Religion",
+        "ability": "Int",
+        "abbreviation": "Rel"
+    },
+    {
+        "name": "Sleight of Hand",
+        "ability": "Dex",
+        "abbreviation": "Sle"
+    },
+    {
+        "name": "Stealth",
+        "ability": "Dex",
+        "abbreviation": "Ste"
+    },
+    {
+        "name": "Survival",
+        "ability": "Wis",
+        "abbreviation": "Sur"
+    }
+]

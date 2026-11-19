@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>NPC Generator</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="statblock.css">
+	<link rel="stylesheet" href="site.css">
+</head>
+<body>
+	<header class="toolbar">
+		<div class="title-group">
+			<a class="home-link" href="/">&larr; Home</a>
+			<h1 class="app-title">NPC Generator</h1>
+		</div>
+		<form id="controls">
+			<label>Level
+				<select name="level">
+					<option value="">Random</option>
+				</select>
+			</label>
+			<label>Type
+				<select name="type">
+					<option value="">Random</option>
+				</select>
+			</label>
+			<label>Magic items
+				<select name="items">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+				</select>
+			</label>
+			<label>Max rarity
+				<select name="rarity"></select>
+			</label>
+			<button type="submit" id="generate">Generate</button>
+		</form>
+	</header>
+
+	<main>
+		<p id="status" class="status">Press <b>Generate</b> to roll up an NPC.</p>
+		<div id="stat-block-wrapper"></div>
+		<p id="meta" class="meta"></p>
+		<section id="spellbook" class="spellbook" hidden></section>
+	</main>
+
+	<script src="statblock.js"></script>
+	<script src="npc-page.js"></script>
+</body>
+</html>

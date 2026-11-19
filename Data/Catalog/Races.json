@@ -1,0 +1,428 @@
+[
+    {
+        "name": "Aarakocra"
+    },
+    {
+        "name": "Aarakocra, Multiverse"
+    },
+    {
+        "name": "Aasimar"
+    },
+    {
+        "name": "Aasimar, Fallen"
+    },
+    {
+        "name": "Aasimar, Multiverse"
+    },
+    {
+        "name": "Aasimar, Protector"
+    },
+    {
+        "name": "Aasimar, Scourge"
+    },
+    {
+        "name": "Autognome"
+    },
+    {
+        "name": "Bugbear"
+    },
+    {
+        "name": "Bugbear, Multiverse"
+    },
+    {
+        "name": "Centaur"
+    },
+    {
+        "name": "Centaur, Multiverse"
+    },
+    {
+        "name": "Changeling"
+    },
+    {
+        "name": "Changeling, Multiverse"
+    },
+    {
+        "name": "Custom Lineage"
+    },
+    {
+        "name": "Dhampir"
+    },
+    {
+        "name": "Dragonborn",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Dragonborn, Chromatic"
+    },
+    {
+        "name": "Dragonborn, Draconblood"
+    },
+    {
+        "name": "Dragonborn, Gem"
+    },
+    {
+        "name": "Dragonborn, Metallic"
+    },
+    {
+        "name": "Dragonborn, Ravenite"
+    },
+    {
+        "name": "Dragonmark, Detection (Half-Elf)"
+    },
+    {
+        "name": "Dragonmark, Finding (Half-Orc)"
+    },
+    {
+        "name": "Dragonmark, Finding (Human)"
+    },
+    {
+        "name": "Dragonmark, Handling (Human)"
+    },
+    {
+        "name": "Dragonmark, Healing (Halfling)"
+    },
+    {
+        "name": "Dragonmark, Hospitality (Halfling)"
+    },
+    {
+        "name": "Dragonmark, Making (Human)"
+    },
+    {
+        "name": "Dragonmark, Passage (Human)"
+    },
+    {
+        "name": "Dragonmark, Scribing (Gnome)"
+    },
+    {
+        "name": "Dragonmark, Sentinel (Human)"
+    },
+    {
+        "name": "Dragonmark, Shadow (Elf)"
+    },
+    {
+        "name": "Dragonmark, Storm (Half-Elf)"
+    },
+    {
+        "name": "Dragonmark, Warding (Dwarf)"
+    },
+    {
+        "name": "Duergar, Multiverse"
+    },
+    {
+        "name": "Dwarf, Gray (Duergar)"
+    },
+    {
+        "name": "Dwarf, Hill",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Dwarf, Mountain"
+    },
+    {
+        "name": "Elf, Astral"
+    },
+    {
+        "name": "Elf, Dark (Drow)"
+    },
+    {
+        "name": "Elf, Fey (Eladrin)"
+    },
+    {
+        "name": "Elf, Fey (Eladrin), Multiverse"
+    },
+    {
+        "name": "Elf, High",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Elf, Pallid"
+    },
+    {
+        "name": "Elf, Sea"
+    },
+    {
+        "name": "Elf, Sea, Multiverse"
+    },
+    {
+        "name": "Elf, Shadow (Shadar-kai)"
+    },
+    {
+        "name": "Elf, Shadow (Shadar-kai), Multiverse"
+    },
+    {
+        "name": "Elf, Wood"
+    },
+    {
+        "name": "Fairy"
+    },
+    {
+        "name": "Firbolg"
+    },
+    {
+        "name": "Firbolg, Multiverse"
+    },
+    {
+        "name": "Genasi, Air"
+    },
+    {
+        "name": "Genasi, Air, Multiverse"
+    },
+    {
+        "name": "Genasi, Earth"
+    },
+    {
+        "name": "Genasi, Earth, Multiverse"
+    },
+    {
+        "name": "Genasi, Fire"
+    },
+    {
+        "name": "Genasi, Fire, Multiverse"
+    },
+    {
+        "name": "Genasi, Water"
+    },
+    {
+        "name": "Genasi, Water, Multiverse"
+    },
+    {
+        "name": "Giff"
+    },
+    {
+        "name": "Githyanki"
+    },
+    {
+        "name": "Githyanki, Multiverse"
+    },
+    {
+        "name": "Githzerai"
+    },
+    {
+        "name": "Githzerai, Multiverse"
+    },
+    {
+        "name": "Gnome, Deep (Svirfneblin)"
+    },
+    {
+        "name": "Gnome, Deep, Multiverse"
+    },
+    {
+        "name": "Gnome, Forest"
+    },
+    {
+        "name": "Gnome, Rock",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Goblin"
+    },
+    {
+        "name": "Goblin, Multiverse"
+    },
+    {
+        "name": "Goliath"
+    },
+    {
+        "name": "Goliath, Multiverse"
+    },
+    {
+        "name": "Hadozee"
+    },
+    {
+        "name": "Half-elf",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Half-orc",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Halfling, Ghostwise"
+    },
+    {
+        "name": "Halfling, Lightfoot",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Halfling, Lotusden"
+    },
+    {
+        "name": "Halfling, Stout"
+    },
+    {
+        "name": "Harengon"
+    },
+    {
+        "name": "Hexblood"
+    },
+    {
+        "name": "Hobgoblin"
+    },
+    {
+        "name": "Hobgoblin, Multiverse"
+    },
+    {
+        "name": "Human",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Kalashtar"
+    },
+    {
+        "name": "Kender"
+    },
+    {
+        "name": "Kenku"
+    },
+    {
+        "name": "Kenku, Multiverse"
+    },
+    {
+        "name": "Kobold"
+    },
+    {
+        "name": "Kobold, Multiverse"
+    },
+    {
+        "name": "Leonin"
+    },
+    {
+        "name": "Lizardfolk"
+    },
+    {
+        "name": "Lizardfolk, Multiverse"
+    },
+    {
+        "name": "Loxodon"
+    },
+    {
+        "name": "Minotaur"
+    },
+    {
+        "name": "Minotaur, Multiverse"
+    },
+    {
+        "name": "Orc"
+    },
+    {
+        "name": "Orc, Multiverse"
+    },
+    {
+        "name": "Owlin"
+    },
+    {
+        "name": "Plasmoid"
+    },
+    {
+        "name": "Reborn"
+    },
+    {
+        "name": "Satyr"
+    },
+    {
+        "name": "Satyr, Multiverse"
+    },
+    {
+        "name": "Shifter, Beasthide"
+    },
+    {
+        "name": "Shifter, Beasthide, Multiverse"
+    },
+    {
+        "name": "Shifter, Longtooth"
+    },
+    {
+        "name": "Shifter, Longtooth, Multiverse"
+    },
+    {
+        "name": "Shifter, Swiftstride"
+    },
+    {
+        "name": "Shifter, Swiftstride, Multiverse"
+    },
+    {
+        "name": "Shifter, Wildhunt"
+    },
+    {
+        "name": "Shifter, Wildhunt, Multiverse"
+    },
+    {
+        "name": "Simic Hybrid"
+    },
+    {
+        "name": "Tabaxi"
+    },
+    {
+        "name": "Thri-kreen"
+    },
+    {
+        "name": "Tiefling",
+        "detailedIn": "Races/Races.json"
+    },
+    {
+        "name": "Tiefling, Baalzebul"
+    },
+    {
+        "name": "Tiefling, Dispater"
+    },
+    {
+        "name": "Tiefling, Feral"
+    },
+    {
+        "name": "Tiefling, Fierna"
+    },
+    {
+        "name": "Tiefling, Glasya"
+    },
+    {
+        "name": "Tiefling, Levistus"
+    },
+    {
+        "name": "Tiefling, Mammon"
+    },
+    {
+        "name": "Tiefling, Mephistopheles"
+    },
+    {
+        "name": "Tiefling, Zariel"
+    },
+    {
+        "name": "Tortle"
+    },
+    {
+        "name": "Triton"
+    },
+    {
+        "name": "Triton, Multiverse"
+    },
+    {
+        "name": "Vedalken"
+    },
+    {
+        "name": "Verdan"
+    },
+    {
+        "name": "Warforged"
+    },
+    {
+        "name": "Werebear"
+    },
+    {
+        "name": "Wereboar"
+    },
+    {
+        "name": "Wererat"
+    },
+    {
+        "name": "Weretiger"
+    },
+    {
+        "name": "Werewolf"
+    },
+    {
+        "name": "Yuan-Ti Pureblood"
+    },
+    {
+        "name": "Yuan-Ti, Multiverse"
+    }
+]

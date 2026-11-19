@@ -1,0 +1,122 @@
+{
+    "_comment": "Tuning for the companion generator. Weapon keys match Data/Equipment/Weapons.json, fighting style keys match the Fighting Style choice keys in Data/Classes/Classes.json, spell names match Data/Spells/SpellsAll.json.",
+
+    "classes": {
+        "barbarian": {
+            "builds": [
+                { "name": "Great Weapon", "weight": 3, "abilityPriority": ["Str", "Con", "Dex", "Wis", "Cha", "Int"], "mainWeapons": ["greataxe", "greatsword", "maul"], "rangedWeapons": ["javelin", "handaxe"] },
+                { "name": "Shield Bearer", "weight": 1, "abilityPriority": ["Str", "Con", "Dex", "Wis", "Cha", "Int"], "mainWeapons": ["battleaxe", "warhammer", "flail"], "offHand": "shield", "rangedWeapons": ["javelin", "handaxe"] }
+            ]
+        },
+        "bard": {
+            "builds": [
+                { "name": "Swashbuckler", "weight": 2, "abilityPriority": ["Cha", "Dex", "Con", "Wis", "Int", "Str"], "mainWeapons": ["rapier"], "rangedWeapons": ["hand crossbow", "shortbow"] },
+                { "name": "Lorekeeper", "weight": 2, "abilityPriority": ["Cha", "Dex", "Con", "Int", "Wis", "Str"], "mainWeapons": ["dagger", "shortsword"], "rangedWeapons": ["light crossbow"] }
+            ],
+            "signatureSpells": ["Vicious Mockery", "Healing Word"],
+            "focus": "Musical instrument"
+        },
+        "cleric": {
+            "builds": [
+                { "name": "Battle Priest", "weight": 2, "abilityPriority": ["Wis", "Str", "Con", "Dex", "Cha", "Int"], "mainWeapons": ["mace", "warhammer", "spear"], "offHand": "shield", "rangedWeapons": ["light crossbow", "javelin"] },
+                { "name": "Healer", "weight": 2, "abilityPriority": ["Wis", "Con", "Dex", "Str", "Cha", "Int"], "mainWeapons": ["mace", "quarterstaff"], "offHand": "shield", "rangedWeapons": ["light crossbow", "sling"] }
+            ],
+            "signatureSpells": ["Sacred Flame", "Cure Wounds"],
+            "focus": "Holy symbol"
+        },
+        "druid": {
+            "builds": [
+                { "name": "Grove Warden", "weight": 1, "abilityPriority": ["Wis", "Con", "Dex", "Str", "Int", "Cha"], "mainWeapons": ["scimitar", "spear", "club"], "offHand": "shield", "rangedWeapons": ["sling", "dart"] },
+                { "name": "Elementalist", "weight": 2, "abilityPriority": ["Wis", "Dex", "Con", "Int", "Cha", "Str"], "mainWeapons": ["quarterstaff", "sickle"], "rangedWeapons": ["sling", "dart"] }
+            ],
+            "allowedArmor": ["padded", "leather", "studded leather", "hide"],
+            "signatureSpells": ["Produce Flame", "Cure Wounds"],
+            "focus": "Druidic focus"
+        },
+        "fighter": {
+            "builds": [
+                { "name": "Great Weapon", "weight": 3, "abilityPriority": ["Str", "Con", "Dex", "Wis", "Cha", "Int"], "mainWeapons": ["greatsword", "greataxe", "maul", "halberd", "glaive"], "rangedWeapons": ["javelin", "heavy crossbow"], "fightingStyles": ["great weapon fighting", "defense"] },
+                { "name": "Sword and Board", "weight": 3, "abilityPriority": ["Str", "Con", "Dex", "Wis", "Cha", "Int"], "mainWeapons": ["longsword", "battleaxe", "warhammer", "flail", "morningstar"], "offHand": "shield", "rangedWeapons": ["javelin", "handaxe"], "fightingStyles": ["defense", "dueling", "protection"] },
+                { "name": "Archer", "weight": 2, "abilityPriority": ["Dex", "Con", "Wis", "Str", "Int", "Cha"], "mainWeapons": ["shortsword", "rapier", "scimitar"], "rangedWeapons": ["longbow", "heavy crossbow"], "preferRanged": true, "fightingStyles": ["archery"] },
+                { "name": "Dual Wielder", "weight": 1, "abilityPriority": ["Dex", "Con", "Str", "Wis", "Int", "Cha"], "mainWeapons": ["shortsword", "scimitar"], "offHand": "weapon", "rangedWeapons": ["shortbow", "dagger"], "fightingStyles": ["two-weapon fighting", "defense"] }
+            ]
+        },
+        "monk": {
+            "builds": [
+                { "name": "Open Hand", "weight": 1, "abilityPriority": ["Dex", "Wis", "Con", "Str", "Int", "Cha"], "mainWeapons": ["shortsword", "quarterstaff", "spear"], "rangedWeapons": ["dart"] }
+            ]
+        },
+        "paladin": {
+            "builds": [
+                { "name": "Shield Knight", "weight": 3, "abilityPriority": ["Str", "Cha", "Con", "Wis", "Dex", "Int"], "mainWeapons": ["longsword", "warhammer", "battleaxe", "morningstar"], "offHand": "shield", "rangedWeapons": ["javelin"], "fightingStyles": ["defense", "dueling", "protection"] },
+                { "name": "Great Weapon", "weight": 2, "abilityPriority": ["Str", "Cha", "Con", "Wis", "Dex", "Int"], "mainWeapons": ["greatsword", "maul", "glaive"], "rangedWeapons": ["javelin"], "fightingStyles": ["great weapon fighting", "defense"] }
+            ],
+            "signatureSpells": ["Bless", "Cure Wounds"],
+            "focus": "Holy symbol"
+        },
+        "ranger": {
+            "builds": [
+                { "name": "Archer", "weight": 3, "abilityPriority": ["Dex", "Wis", "Con", "Str", "Int", "Cha"], "mainWeapons": ["shortsword", "scimitar"], "rangedWeapons": ["longbow"], "preferRanged": true, "fightingStyles": ["archery"] },
+                { "name": "Dual Blades", "weight": 2, "abilityPriority": ["Dex", "Wis", "Con", "Str", "Int", "Cha"], "mainWeapons": ["shortsword", "scimitar"], "offHand": "weapon", "rangedWeapons": ["longbow", "shortbow"], "fightingStyles": ["two-weapon fighting", "dueling"] }
+            ],
+            "signatureSpells": ["Hunter's Mark"]
+        },
+        "rogue": {
+            "builds": [
+                { "name": "Skirmisher", "weight": 2, "abilityPriority": ["Dex", "Con", "Wis", "Int", "Cha", "Str"], "mainWeapons": ["rapier", "shortsword"], "rangedWeapons": ["shortbow", "hand crossbow"], "stealthy": true },
+                { "name": "Sniper", "weight": 1, "abilityPriority": ["Dex", "Con", "Wis", "Int", "Cha", "Str"], "mainWeapons": ["shortsword", "dagger"], "rangedWeapons": ["shortbow", "hand crossbow", "light crossbow"], "preferRanged": true, "stealthy": true },
+                { "name": "Dual Daggers", "weight": 1, "abilityPriority": ["Dex", "Con", "Cha", "Wis", "Int", "Str"], "mainWeapons": ["shortsword", "dagger", "scimitar"], "offHand": "weapon", "rangedWeapons": ["dagger", "shortbow"], "stealthy": true }
+            ]
+        },
+        "sorcerer": {
+            "builds": [
+                { "name": "Blaster", "weight": 1, "abilityPriority": ["Cha", "Con", "Dex", "Wis", "Int", "Str"], "mainWeapons": ["dagger", "quarterstaff"], "rangedWeapons": ["light crossbow", "dart"] }
+            ],
+            "signatureSpells": ["Fire Bolt"],
+            "focus": "Arcane focus"
+        },
+        "warlock": {
+            "builds": [
+                { "name": "Hexblaster", "weight": 2, "abilityPriority": ["Cha", "Con", "Dex", "Wis", "Int", "Str"], "mainWeapons": ["dagger", "quarterstaff", "sickle"], "rangedWeapons": ["light crossbow"] },
+                { "name": "Pact Blade", "weight": 1, "abilityPriority": ["Cha", "Dex", "Con", "Wis", "Int", "Str"], "mainWeapons": ["dagger"], "rangedWeapons": ["light crossbow"], "pactBoon": "pact of the blade" }
+            ],
+            "signatureSpells": ["Eldritch Blast"],
+            "preferredOptions": ["agonizing blast (prereq: eldritch blast cantrip)", "armor of shadows", "devil's sight"],
+            "focus": "Arcane focus"
+        },
+        "wizard": {
+            "builds": [
+                { "name": "Evoker", "weight": 1, "abilityPriority": ["Int", "Con", "Dex", "Wis", "Cha", "Str"], "mainWeapons": ["quarterstaff", "dagger"], "rangedWeapons": ["light crossbow", "dart"] }
+            ],
+            "signatureSpells": ["Fire Bolt", "Mage Armor", "Shield"],
+            "focus": "Arcane focus"
+        }
+    },
+
+    "_armorUnlockLevel": "Minimum companion level at which a given armor shows up in their kit (stands in for wealth).",
+    "armorUnlockLevel": {
+        "padded": 1, "leather": 1, "hide": 1, "chain shirt": 1, "scale mail": 1, "ring mail": 1, "chain mail": 1,
+        "studded leather": 3, "breastplate": 4, "splint": 5, "half plate": 7, "plate": 9
+    },
+
+    "_hpPerLevelFeatures": "Race traits / class features that add 1 hit point per level.",
+    "hpPerLevelFeatures": ["Dwarven Toughness", "Draconic Resilience"],
+
+    "_omitFeatures": "Features that are folded into the statblock numbers (or are pure bookkeeping), so they don't get their own entry.",
+    "omitFeatures": [
+        "Ability Score Improvement", "Spellcasting", "Pact Magic", "Extra Attack", "Expertise", "Bard Expertise",
+        "Unarmored Defense", "Fast Movement", "Unarmored Movement", "Bonus Proficiency", "Bonus Proficiencies",
+        "Draconic Resilience", "Dwarven Toughness", "Bonus Cantrip", "Circle Spells", "Magical Secrets",
+        "Additional Magical Secrets", "Mystic Arcanum", "Ritual Casting", "Spellcasting Focus", "Cantrip",
+        "Infernal Legacy", "Skill Versatility", "Draconic Ancestry", "Breath Weapon"
+    ],
+
+    "languages": ["Common", "Dwarvish", "Elvish", "Giant", "Gnomish", "Goblin", "Halfling", "Orc", "Abyssal", "Celestial", "Draconic", "Deep Speech", "Infernal", "Primordial", "Sylvan", "Undercommon"],
+
+    "featChance": 0.2,
+
+    "pets": {
+        "Find Familiar": "familiar",
+        "Find Steed": "mount"
+    }
+}

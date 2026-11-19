@@ -1,0 +1,153 @@
+<div id="Expert-content">
+
+<h2 id="toc0"><span>Expert</span></h2>
+<p>The Expert is a master of certain tasks or knowledge, favoring cunning over brawn. It might be a scout, a musician, a librarian, a clever street kid, a wily merchant or a burglar.</p>
+<p>To gain the expert class, a creature must have at least one language in its stat block that it can speak.</p>
+<p>A NPC gains the following class features as it gains levels, as summarized on the Expert table.</p>
+<h4 id="toc1"><span>The expert</span></h4>
+<table class="wiki-content-table">
+<tbody><tr>
+<th colspan="5">The Expert</th>
+</tr>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Features</th>
+</tr>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>Bonus Proficiencies, Helpful</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td>Cunning Action</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>Expertise</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td></td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>Coordinated Strike</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td>Evasion</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td></td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td>Inspiring Help (1d6)</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td></td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>Reliable Talent</td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td>Expertise</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td></td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>Sharp Mind</td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>Inspiring Help</td>
+</tr>
+</tbody></table>
+<h3 id="toc2"><span>Bonus Proficiencies</span></h3>
+<p><em>1st-level Expert feature</em><br>
+The NPC gains proficiency in one saving throw of your choice: Dexterity, Intelligence, or Charisma.</p>
+<p>In addition, the NPC gains proficiency in 5 skills of your choice, and it gains proficiency in light armor. If it is a humanoid or has simple or martial weapons in its stat block, it also gains proficiency in all simple weapons and with two tools of your choice.</p>
+<h3 id="toc3"><span>Helpful</span></h3>
+<p><em>1st-level Expert feature</em><br>
+The NPC is adept at giving well-timed assistance; the NPC can take the Help action as a bonus action.</p>
+<h3 id="toc4"><span>Cunning Action</span></h3>
+<p><em>2nd-level Expert feature</em><br>
+The NPC's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the Dash, Disengage, or Hide action as a bonus action.</p>
+<h3 id="toc5"><span>Expertise</span></h3>
+<p><em>3rd-level Expert feature</em><br>
+Choose two of the NPC's skill proficiencies. The NPC's proficiency bonus is doubled for any ability check it makes that uses the chosen proficiencies.</p>
+<h3 id="toc6"><span>Ability Score Improvement</span></h3>
+<p><em>4th-level Expert feature</em><br>
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the NPC increases one ability score of your choice by 2, or the NPC increases two ability scores of your choice by 1. The NPC can't increase an ability score above 20 using this feature.</p>
+<h3 id="toc7"><span>Coordinated Strike</span></h3>
+<p><em>6th-level Expert feature</em><br>
+The NPC is adept at fighting in concert with a companion. When the NPC uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the NPC, and the NPC can deal an extra 2d6 damage to it the next time the NPC hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.</p>
+<h3 id="toc8"><span>Evasion</span></h3>
+<p><em>7th-level Expert feature</em><br>
+Because of extraordinary good luck, the NPC is skilled at avoiding danger. When the NPC is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The NPC doesn't benefit from this feature while incapacitated.</p>
+<h3 id="toc9"><span>Inspiring Help</span></h3>
+<p><em>11th-level Expert feature</em><br>
+When the NPC takes the Help action, the creature who receives the help also gains a 1d6 bonus to the d20 roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.</p>
+<p>At 20th level, the bonus increases to 2d6.</p>
+<h3 id="toc10"><span>Reliable Talent</span></h3>
+<p><em>14th-level Expert feature</em><br>
+The NPC has refined its skills to an exceptional degree. Whenever the NPC makes an ability check that includes its whole proficiency bonus, it can treat a d20 roll of 9 or lower as a 10.</p>
+<h3 id="toc11"><span>Sharp Mind</span></h3>
+<p><em>18th-level Expert feature</em><br>
+The NPC gains proficiency in one of the following saving throws of your choice: Intelligence, Wisdom, or Charisma.</p>
+<h3 id="toc12"><span>Inspiring Help Improvement</span></h3>
+<p><em>20th-level Expert feature</em><br>
+At 20th level, the bonus dice granted by the NPC's Inspiring Help increases to 2d6.</p>
+</div>

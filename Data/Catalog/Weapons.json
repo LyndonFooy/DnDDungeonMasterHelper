@@ -1,0 +1,285 @@
+[
+    {
+        "name": "Unarmed Strike",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Battleaxe",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Blowgun",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Club",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Dagger",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Dart",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Double-bladed Scimitar"
+    },
+    {
+        "name": "Flail",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Glaive",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Greataxe",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Greatclub",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Greatsword",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Halberd",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Hand Crossbow",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Handaxe",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Heavy Crossbow",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Hoopak, Melee"
+    },
+    {
+        "name": "Hoopak, Ranged"
+    },
+    {
+        "name": "Javelin",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Lance",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Light Crossbow",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Light Hammer",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Longbow",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Longsword",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Mace",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Maul",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Morningstar",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Net",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Pike",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Quarterstaff",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Rapier",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Scimitar",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Shortbow",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Shortsword",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Sickle",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Sling",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Spear",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Trident",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "War Pick",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Warhammer",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Whip",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Yklwa"
+    },
+    {
+        "name": "Improvised Weapon",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Alchemist's Fire",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Holy Water",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Torch, Burning",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Vial of Acid",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Spell Attack",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Acid Splash",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Booming Blade"
+    },
+    {
+        "name": "Chill Touch",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Create Bonfire"
+    },
+    {
+        "name": "Eldritch Blast",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Fire Bolt",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Frostbite"
+    },
+    {
+        "name": "Green-Flame Blade"
+    },
+    {
+        "name": "Infestation"
+    },
+    {
+        "name": "Lightning Lure"
+    },
+    {
+        "name": "Magic Stone"
+    },
+    {
+        "name": "Mind Sliver"
+    },
+    {
+        "name": "Poison Spray",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Primal Savagery"
+    },
+    {
+        "name": "Produce Flame",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Ray of Frost",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Sacred Flame",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Sapping Sting"
+    },
+    {
+        "name": "Shadow Blade"
+    },
+    {
+        "name": "Shillelagh",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Shocking Grasp",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Sword Burst"
+    },
+    {
+        "name": "Thorn Whip"
+    },
+    {
+        "name": "Thunderclap"
+    },
+    {
+        "name": "Toll the Dead"
+    },
+    {
+        "name": "Vicious Mockery",
+        "detailedIn": "Equipment/Weapons.json"
+    },
+    {
+        "name": "Word of Radiance"
+    },
+    {
+        "name": "Scimitar, Double-bladed"
+    }
+]

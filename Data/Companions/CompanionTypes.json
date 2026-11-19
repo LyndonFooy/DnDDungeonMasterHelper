@@ -1,0 +1,127 @@
+[
+    {
+        "key": "familiar",
+        "name": "Find Familiar",
+        "menuName": "Familiar (Find Familiar spell)",
+        "origin": "1st-level conjuration [ritual] spell",
+        "source": "SRD 143",
+        "masterActions": [
+            {
+                "type": "action",
+                "note": "Familiar (dismiss/reappear)"
+            },
+            {
+                "type": "action",
+                "note": "Use familiar's senses"
+            }
+        ],
+        "masterNotes": [
+            "Summon a spirit that serves as a familiar, appearing in an unoccupied space within 10 ft. It assumes a chosen form (can change at every casting): bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. It has the chosen form's statistics, but its type changes from beast to celestial, fey, or fiend. When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears when I cast this spell again (in a new form if so desired).",
+            "The familiar acts independently of me, but it always obeys my commands. In combat, it rolls its own initiative and acts on its own turn, but it can't attack.",
+            "While it is within 100 ft of me, I can communicate with it telepathically.",
+            "As an action, I see/hear what it does  (but not with my senses) until the start of my next turn.",
+            "As an action, I can temporarily dismiss it, having it disappear into a pocket dimension.",
+            "As an action, while it is temporarily dismissed, I can cause it to reappear within 30 ft.",
+            "I can't have more than one familiar bonded at a time; As an action, I can dismiss it forever.",
+            "When I cast a spell with a range of touch, my familiar can deliver the spell. It must be within 100 ft of me and it must use its reaction to deliver the spell when I cast it. It acts as if it cast the spell, but it can use my modifiers for any attack rolls the spell requires."
+        ],
+        "header": "Familiar",
+        "addedFeatures": [
+            {
+                "name": "Find Familiar",
+                "desc": "If dropped to 0 HP, the familiar disappears, leaving behind no physical form. The familiar must obey all commands of its master."
+            }
+        ]
+    },
+    {
+        "key": "pact_of_the_chain",
+        "name": "Pact of the Chain",
+        "menuName": "Pact of the Chain familiar (Warlock feature)",
+        "origin": "variant of the Find Familiar 1st-level conjuration [ritual] spell",
+        "source": "SRD 47",
+        "masterActions": [
+            {
+                "type": "action",
+                "note": "Familiar (dismiss/reappear)"
+            },
+            {
+                "type": "action",
+                "note": "Use familiar's senses"
+            }
+        ],
+        "masterNotes": [
+            "Summon a spirit that serves as a familiar, appearing in an unoccupied space within 10 ft. It assumes a chosen form (can change at every casting): bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, weasel, or one of the special forms: imp, pseudodragon, quasit, or sprite. It has the chosen form's statistics, but its type changes from beast to celestial, fey, or fiend. When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears when I cast this spell again (in a new form if so desired).",
+            "The familiar acts independently of me, but it always obeys my commands. In combat, it rolls its own initiative and acts on its own turn, but it can't attack on its turn.",
+            "While it is within 100 ft of me, I can communicate with it telepathically.",
+            "With my Attack action, I can forgo one attack to have the familiar make one with its reaction.",
+            "As an action, I see/hear what it does  (but not with my senses) until the start of my next turn.",
+            "As an action, I can temporarily dismiss it, having it disappear into a pocket dimension.",
+            "As an action, while it is temporarily dismissed, I can cause it to reappear within 30 ft.",
+            "I can't have more than one familiar bonded at a time; As an action, I can dismiss it forever.",
+            "When I cast a spell with a range of touch, my familiar can deliver the spell. It must be within 100 ft of me and it must use its reaction to deliver the spell when I cast it. It acts as if it cast the spell, but it can use my modifiers for any attack rolls the spell requires."
+        ],
+        "header": "Familiar",
+        "addedFeatures": [
+            {
+                "name": "Pact of the Chain",
+                "desc": "If dropped to 0 HP, the familiar disappears, leaving behind no physical form. The familiar must obey all commands of its master."
+            }
+        ]
+    },
+    {
+        "key": "mount",
+        "name": "Find Steed",
+        "menuName": "Steed (Find Steed spell)",
+        "origin": "2nd-level conjuration spell",
+        "source": "SRD 143",
+        "masterActions": [
+            {
+                "type": "action",
+                "note": "Find Steed (dismiss)"
+            }
+        ],
+        "masterNotes": [
+            "Summon a spirit in the form of a steed, appearing in an unoccupied space within 30 ft. It assumes a chosen form: warhorse, pony, camel, elk, or mastiff (DM can allow more forms). The steed has the statistics of the chosen form, though its type is celestial, fey, or fiend. If it has an Intelligence of 5 or less, its Intelligence becomes 6. It gains the ability to understand one language that I, the caster, can speak. When the steed drops to 0 hit points, it disappears, leaving behind no physical form.",
+            "The steed serves me as a mount. I have a bond with it that allows us to fight as a seamless unit.",
+            "While mounted on my steed, I can make any spell I cast that targets only me also target it.",
+            "While my steed is within 1 mile of me, I can communicate with it telepathically.",
+            "I can dismiss my steed at any time as an action, causing it to disappear.",
+            "Casting this spell again summons the same steed, restored to its max HP, without conditions.",
+            "I can't have more than one steed bonded at a time; As an action, I can release it from its bond."
+        ],
+        "header": "Mount",
+        "addedFeatures": [
+            {
+                "name": "Find Steed",
+                "desc": "If dropped to 0 HP, the steed disappears, leaving behind no physical form."
+            }
+        ],
+        "addedLanguages": "understands one language its master speaks (master's choice)"
+    },
+    {
+        "key": "companion",
+        "name": "Ranger's Companion",
+        "menuName": "Ranger's Companion (Beast Master feature)",
+        "origin": "Beast Master 3",
+        "source": "P 93",
+        "masterActions": [
+            {
+                "type": "action",
+                "note": "Ranger's Companion (command)"
+            }
+        ],
+        "masterNotes": [
+            "A beast no larger than Medium of challenge rating 1/4 or lower.",
+            "If the beast dies, I can spend 8 hours magically bonding with another that isn't hostile to me.",
+            "When moving in favored terrain with only the beast, we can move stealthily at a normal pace.",
+            "The beast adds my Proficiency Bonus to its AC, attack rolls, damage rolls, and saves/skills it is proficient with.",
+            "The beast's hit point maximum equals four times my ranger level if higher than its normal HP.",
+            "In Combat: The beast takes its turn on my initiative. I can verbally command the beast where to move (no action). As an action, I can have the beast do an Attack, Dash, Disengage, or Help action on its turn. If I don't command it to take an action, it takes the Dodge action instead.",
+            "Extra Attack (Ranger 5, PHB 89). If the beast takes the Attack action, I can use my Extra Attack feature to attack once myself.",
+            "Exceptional Training (Beast Master 7, PHB 93). The beast's attacks count as magical for the purpose of overcoming resistances and immunities. As a bonus action, I can command it to take the Dash, Disengage, or Help action on its turn.",
+            "Bestial Fury (Beast Master 11, PHB 93). The beast can make two attacks (or multiattack) when I command it to take an Attack action.",
+            "Share Spells (Beast Master 15, PHB 93). When I cast a spell on myself, I can have it also affect the beast if it is within 30 ft of me."
+        ],
+        "header": "Companion"
+    }
+]

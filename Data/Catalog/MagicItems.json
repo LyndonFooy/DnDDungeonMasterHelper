@@ -1,0 +1,2602 @@
+[
+    {
+        "name": "Abracadabrus"
+    },
+    {
+        "name": "Absorbing Tattoo"
+    },
+    {
+        "name": "Acheron Blade"
+    },
+    {
+        "name": "Adamantine Ammunition"
+    },
+    {
+        "name": "Adamantine Armor",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Adamantine Weapon"
+    },
+    {
+        "name": "Alchemical Compendium"
+    },
+    {
+        "name": "Alchemy Jug"
+    },
+    {
+        "name": "All-Purpose Tool"
+    },
+    {
+        "name": "Amethyst Lodestone"
+    },
+    {
+        "name": "Ammunition, +1, +2, or +3",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Amulet of Health",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Amulet of Proof against Detection and Location",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Amulet of Protection from Turning"
+    },
+    {
+        "name": "Amulet of the Black Skull"
+    },
+    {
+        "name": "Amulet of the Devout"
+    },
+    {
+        "name": "Amulet of the Drunkard"
+    },
+    {
+        "name": "Amulet of the Planes",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ancient Relic Boulder"
+    },
+    {
+        "name": "Animated Shield",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Antimagic Armor"
+    },
+    {
+        "name": "Apparatus of Kwalish",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Arcane Cannon"
+    },
+    {
+        "name": "Arcane Grimoire"
+    },
+    {
+        "name": "Arcane Propulsion Arm"
+    },
+    {
+        "name": "Arcane Propulsion Armor"
+    },
+    {
+        "name": "Armblade"
+    },
+    {
+        "name": "Armor of Fungal Spores"
+    },
+    {
+        "name": "Armor of Gleaming"
+    },
+    {
+        "name": "Armor of Invulnerability",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Armor of Magical Strength"
+    },
+    {
+        "name": "Armor of Resistance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Armor of Safeguarding"
+    },
+    {
+        "name": "Armor of Vulnerability",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Armor of Weightlessness"
+    },
+    {
+        "name": "Armor of the Fallen"
+    },
+    {
+        "name": "Armor, +1, +2, or +3",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Arrow-Catching Shield",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Arro w of Slaying"
+    },
+    {
+        "name": "Astral Shard"
+    },
+    {
+        "name": "Astromancy Archive"
+    },
+    {
+        "name": "Atlas of Endless Horizons"
+    },
+    {
+        "name": "Azuredge"
+    },
+    {
+        "name": "Badge of the Watch"
+    },
+    {
+        "name": "Bag of Beans",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bag of Devouring",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bag of Holding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bag of Tricks",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Balance of Harmony"
+    },
+    {
+        "name": "Baleful Talon"
+    },
+    {
+        "name": "Balloon Pack"
+    },
+    {
+        "name": "Banner of the Krig Rune"
+    },
+    {
+        "name": "Barrier Tattoo"
+    },
+    {
+        "name": "Battering Shield"
+    },
+    {
+        "name": "Battle Standard of Infernal Power"
+    },
+    {
+        "name": "Bead of Force",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bead of Nourishment"
+    },
+    {
+        "name": "Bead of Refreshment"
+    },
+    {
+        "name": "Belashyrra's Beholder Crown"
+    },
+    {
+        "name": "Bell Branch"
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Belt of Giant Strength",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Berserker Axe",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Berserker Battleaxe (Tamoachan)"
+    },
+    {
+        "name": "Black Crystal Tablet"
+    },
+    {
+        "name": "Blackrazor"
+    },
+    {
+        "name": "Blackstaff"
+    },
+    {
+        "name": "Blast Scepter"
+    },
+    {
+        "name": "Blasted Goggles"
+    },
+    {
+        "name": "Blod Stone"
+    },
+    {
+        "name": "Blood Fury Tattoo"
+    },
+    {
+        "name": "Blood Spear"
+    },
+    {
+        "name": "Bloodaxe"
+    },
+    {
+        "name": "Bloodrage Greataxe"
+    },
+    {
+        "name": "Bloodseeker Ammunition"
+    },
+    {
+        "name": "Bloodshed Blade"
+    },
+    {
+        "name": "Bloodwell Vial"
+    },
+    {
+        "name": "Bob"
+    },
+    {
+        "name": "Bobbing Lily Pad"
+    },
+    {
+        "name": "Bookmark"
+    },
+    {
+        "name": "Boomerang Shield"
+    },
+    {
+        "name": "Boots of Elvenkind",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Boots of False Tracks"
+    },
+    {
+        "name": "Boots of Levitation",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Boots of Speed",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Boots of Striding and Springing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Boots of the Winding Path"
+    },
+    {
+        "name": "Boots of the Winterlands",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bottle of Boundless Coffee"
+    },
+    {
+        "name": "Bottled Breath"
+    },
+    {
+        "name": "Bow of Conflagration"
+    },
+    {
+        "name": "Bow of Melodies"
+    },
+    {
+        "name": "Bowl of Commanding Water Elementals",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bracelet of Rock Magic"
+    },
+    {
+        "name": "Bracer of Flying Daggers"
+    },
+    {
+        "name": "Bracers of Archery",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Bracers of Celerity"
+    },
+    {
+        "name": "Bracers of Defense",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Brazier of Commanding Fire Elementals",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Breastplate of Balance"
+    },
+    {
+        "name": "Breathing Bubble"
+    },
+    {
+        "name": "Brooch of Living Essence"
+    },
+    {
+        "name": "Brooch of Shielding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Broom of Flying",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Butcher's Bib"
+    },
+    {
+        "name": "Candle Mace"
+    },
+    {
+        "name": "Candle of Invocation",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Candle of the Deep"
+    },
+    {
+        "name": "Cap of Water Breathing"
+    },
+    {
+        "name": "Cape of Enlargement"
+    },
+    {
+        "name": "Cape of the Mountebank",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Card Sharp's Deck"
+    },
+    {
+        "name": "Carpet of Flying",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cast-Off Armor"
+    },
+    {
+        "name": "Cauldron of Plenty"
+    },
+    {
+        "name": "Cauldron of Rebirth"
+    },
+    {
+        "name": "Censer of Controlling Air Elementals",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Charlatan's Die"
+    },
+    {
+        "name": "Charm of Plant Command"
+    },
+    {
+        "name": "Chest of Preserving"
+    },
+    {
+        "name": "Chime of Exile"
+    },
+    {
+        "name": "Chime of Opening",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Chromatic Rose"
+    },
+    {
+        "name": "Circlet of Blasting",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Circlet of Human Perfection"
+    },
+    {
+        "name": "Claw of the Wyrm Rune"
+    },
+    {
+        "name": "Claws of the Umber Hulk"
+    },
+    {
+        "name": "Cleansing Stone"
+    },
+    {
+        "name": "Cloak of Arachnida",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cloak of Billowing"
+    },
+    {
+        "name": "Cloak of Displacement",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cloak of Elvenkind",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cloak of Invisibility"
+    },
+    {
+        "name": "Cloak of Many Fashions"
+    },
+    {
+        "name": "Cloak of Protection",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cloak of the Bat",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cloak of the Manta Ray",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Clockwork Amulet"
+    },
+    {
+        "name": "Clockwork Armor"
+    },
+    {
+        "name": "Clothes of Mending"
+    },
+    {
+        "name": "Coiling Grasp Tattoo"
+    },
+    {
+        "name": "Coin of Delving"
+    },
+    {
+        "name": "Conch of Teleportation"
+    },
+    {
+        "name": "Constantori's Portrait"
+    },
+    {
+        "name": "Corpse Slayer"
+    },
+    {
+        "name": "Crown of Whirling Comets"
+    },
+    {
+        "name": "Crown of the Wrath Bringer"
+    },
+    {
+        "name": "Crystal Ball",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Crystal Blade"
+    },
+    {
+        "name": "Crystalline Chronicle"
+    },
+    {
+        "name": "Cube of Force",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cubic Gate",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Cuddly Strixhaven Mascot"
+    },
+    {
+        "name": "Cursed Luckstone"
+    },
+    {
+        "name": "Daern's Instant Fortress",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dagger of Blindsight"
+    },
+    {
+        "name": "Dagger of Venom",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dancing Sword",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Danoth's Visor"
+    },
+    {
+        "name": "Dark Shard Amulet"
+    },
+    {
+        "name": "Dawnbringer"
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Deck of Dimensions"
+    },
+    {
+        "name": "Deck of Illusions",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Deck of Many More Things"
+    },
+    {
+        "name": "Deck of Many Things",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Deck of Miscellany"
+    },
+    {
+        "name": "Deck of Oracles"
+    },
+    {
+        "name": "Deck of Wild Cards"
+    },
+    {
+        "name": "Deck of Wonder"
+    },
+    {
+        "name": "Defender",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Delver's Claws"
+    },
+    {
+        "name": "Demon Armor",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Devastation Orb"
+    },
+    {
+        "name": "Devotee's Censer"
+    },
+    {
+        "name": "Dimensional Shackles",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dispelling Stone"
+    },
+    {
+        "name": "Docent"
+    },
+    {
+        "name": "Dodecahedron of Doom"
+    },
+    {
+        "name": "Donjon's Sundering Sphere"
+    },
+    {
+        "name": "Dragon Mask"
+    },
+    {
+        "name": "Dragon Scale Mail",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dragon Slayer",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dragon Vessel"
+    },
+    {
+        "name": "Dragon Wing Bow"
+    },
+    {
+        "name": "Dragon's Wrath Weapon (ascendant)"
+    },
+    {
+        "name": "Dragon's Wrath Weapon (slumbering)"
+    },
+    {
+        "name": "Dragon's Wrath Weapon (stirring)"
+    },
+    {
+        "name": "Dragon's Wrath Weapon (wakened)"
+    },
+    {
+        "name": "Dragon-Touched Focus"
+    },
+    {
+        "name": "Dragongleam"
+    },
+    {
+        "name": "Dragonguard"
+    },
+    {
+        "name": "Dragonhide Belt, +1, +2, or +3"
+    },
+    {
+        "name": "Dragonlance"
+    },
+    {
+        "name": "Dragonstaff of Ahghairon"
+    },
+    {
+        "name": "Dragontooth Dagger"
+    },
+    {
+        "name": "Dread Helm"
+    },
+    {
+        "name": "Dried Leech"
+    },
+    {
+        "name": "Driftglobe"
+    },
+    {
+        "name": "Drown"
+    },
+    {
+        "name": "Duplicitous Manuscript"
+    },
+    {
+        "name": "Duskcrusher"
+    },
+    {
+        "name": "Dust of Corrosion"
+    },
+    {
+        "name": "Dust of Deliciousness"
+    },
+    {
+        "name": "Dust of Disappearance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dust of Dryness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dwarven Plate",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dwarven Thrower",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Dyrrn's Tentacle Whip"
+    },
+    {
+        "name": "Eagle Whistle"
+    },
+    {
+        "name": "Ear Horn of Hearing"
+    },
+    {
+        "name": "Earring of Message"
+    },
+    {
+        "name": "Earworm"
+    },
+    {
+        "name": "Efreeti Bottle",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Efreeti Chain"
+    },
+    {
+        "name": "Eldritch Claw Tattoo"
+    },
+    {
+        "name": "Eldritch Staff"
+    },
+    {
+        "name": "Elemental Essence Shard"
+    },
+    {
+        "name": "Elemental Gem",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Elixir of Health"
+    },
+    {
+        "name": "Elven Chain",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Elven Thrower"
+    },
+    {
+        "name": "Emerald Pen"
+    },
+    {
+        "name": "Enduring Spellbook"
+    },
+    {
+        "name": "Enhanced Arcane Focus, +1 or +2"
+    },
+    {
+        "name": "Ersatz Eye"
+    },
+    {
+        "name": "Euryale's Aegis"
+    },
+    {
+        "name": "Everbright Lantern"
+    },
+    {
+        "name": "Eversmoking Bottle",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Eyes of Charming",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Eyes of Minute Seeing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Eyes of the Eagle",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Fabulist Gem"
+    },
+    {
+        "name": "Faerie Dust"
+    },
+    {
+        "name": "Fane-Eater"
+    },
+    {
+        "name": "Far Realm Shard"
+    },
+    {
+        "name": "Fate Cutter Shears"
+    },
+    {
+        "name": "Fate Dealer's Deck"
+    },
+    {
+        "name": "Feather Token",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Feather of Diatryma Summoning"
+    },
+    {
+        "name": "Feywild Shard"
+    },
+    {
+        "name": "Feywrought Armor"
+    },
+    {
+        "name": "Figurine of Wondrous Power",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Finder's Goggles"
+    },
+    {
+        "name": "Fish Suit"
+    },
+    {
+        "name": "Flail of Tiamat"
+    },
+    {
+        "name": "Flame Tongue",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Flame Tongue Shortsword of Gem Detection"
+    },
+    {
+        "name": "Flayer Slayer"
+    },
+    {
+        "name": "Flying Chariot"
+    },
+    {
+        "name": "Flying Citadel Helm"
+    },
+    {
+        "name": "Folding Boat",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Fool's Blade"
+    },
+    {
+        "name": "Forcebreaker Weapon"
+    },
+    {
+        "name": "Frost Brand",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Fulminating Treatise"
+    },
+    {
+        "name": "Gauntlets of Flaming Fury"
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Gavel of the Venn Rune"
+    },
+    {
+        "name": "Gem of Brightness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Gem of Seeing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ghost Lantern"
+    },
+    {
+        "name": "Ghost Step Tattoo"
+    },
+    {
+        "name": "Giant Slayer",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Glamerweave"
+    },
+    {
+        "name": "Glamoured Studded Leather",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Glimmering Moonbow"
+    },
+    {
+        "name": "Gloomwrought Armor"
+    },
+    {
+        "name": "Gloves of Missile Snaring",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Gloves of Soul Catching"
+    },
+    {
+        "name": "Gloves of Swimming and Climbing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Gloves of Thievery"
+    },
+    {
+        "name": "Glowrune Pigment"
+    },
+    {
+        "name": "Goggles of Night",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Goggles of Object Reading"
+    },
+    {
+        "name": "Grasping Whip"
+    },
+    {
+        "name": "Greater Silver Sword"
+    },
+    {
+        "name": "Green Copper Ewer"
+    },
+    {
+        "name": "Grimoire Infinitus"
+    },
+    {
+        "name": "Guardian Emblem"
+    },
+    {
+        "name": "Guild Keyrune"
+    },
+    {
+        "name": "Guild Signet"
+    },
+    {
+        "name": "Gulthias Staff"
+    },
+    {
+        "name": "Gunpowder"
+    },
+    {
+        "name": "Gurt's Greataxe"
+    },
+    {
+        "name": "Hammer of Runic Focus"
+    },
+    {
+        "name": "Hammer of Thunderbolts",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Harkon's Bite"
+    },
+    {
+        "name": "Harp of Gilded Plenty"
+    },
+    {
+        "name": "Hat of Disguise",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Hat of Vermin"
+    },
+    {
+        "name": "Hat of Wizardry"
+    },
+    {
+        "name": "Hazirawn"
+    },
+    {
+        "name": "Headband of Intellect",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Heart Weaver's Primer"
+    },
+    {
+        "name": "Hell Hound Cloak"
+    },
+    {
+        "name": "Hellfire Weapon"
+    },
+    {
+        "name": "Helm of Awareness"
+    },
+    {
+        "name": "Helm of Brilliance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Helm of Comprehending Languages",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Helm of Devil Command"
+    },
+    {
+        "name": "Helm of Telepathy",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Helm of Teleportation",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Helm of Underwater Action"
+    },
+    {
+        "name": "Helm of the Gods"
+    },
+    {
+        "name": "Helm of the Scavenger"
+    },
+    {
+        "name": "Heretic"
+    },
+    {
+        "name": "Hew"
+    },
+    {
+        "name": "Heward's Handy Haversack",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Heward's Handy Spice Pouch"
+    },
+    {
+        "name": "Hide of the Feral Guardian"
+    },
+    {
+        "name": "Holy Avenger",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Holy Symbol of Ravenkind"
+    },
+    {
+        "name": "Hook of Fisher's Delight"
+    },
+    {
+        "name": "Horn of Blasting",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Horn of Silent Alarm"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Horseshoes of Speed",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Horseshoes of a Zephyr",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "House of Cards"
+    },
+    {
+        "name": "Hunter's Coat"
+    },
+    {
+        "name": "Icon of Ravenloft"
+    },
+    {
+        "name": "Illuminator's Tattoo"
+    },
+    {
+        "name": "Illusionist's Bracers"
+    },
+    {
+        "name": "Imbued Wood Focus"
+    },
+    {
+        "name": "Immovable Rod",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Infernal Puzzle Box"
+    },
+    {
+        "name": "Infernal Tack"
+    },
+    {
+        "name": "Infiltrator's Key"
+    },
+    {
+        "name": "Ingot of the Skold Rune"
+    },
+    {
+        "name": "Insignia of Claws"
+    },
+    {
+        "name": "Instrument of Illusions"
+    },
+    {
+        "name": "Instrument of Scribing"
+    },
+    {
+        "name": "Instrument of the Bards"
+    },
+    {
+        "name": "Ioun Stone",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Iron Bands of Bilarro",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Iron Flask",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ironfang"
+    },
+    {
+        "name": "Javelin of Backbiting"
+    },
+    {
+        "name": "Javelin of Lightning",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Jester's Mask"
+    },
+    {
+        "name": "Jewel of Three Prayers"
+    },
+    {
+        "name": "Kagonesti Forest Shroud"
+    },
+    {
+        "name": "Keoghtom's Ointment",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Keycharm"
+    },
+    {
+        "name": "Knave's Eye Patch"
+    },
+    {
+        "name": "Korolnor Scepter"
+    },
+    {
+        "name": "Kyrzin's Ooze"
+    },
+    {
+        "name": "Lantern of Revealing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Lantern of Tracking"
+    },
+    {
+        "name": "Lash of Immolation"
+    },
+    {
+        "name": "Last Stand Armor"
+    },
+    {
+        "name": "Libram of Souls and Flesh"
+    },
+    {
+        "name": "Lifewell Tattoo"
+    },
+    {
+        "name": "Lightbringer"
+    },
+    {
+        "name": "Living Armor"
+    },
+    {
+        "name": "Living Gloves"
+    },
+    {
+        "name": "Loadstone"
+    },
+    {
+        "name": "Lock of Trickery"
+    },
+    {
+        "name": "Longbow of the Healing Hearth"
+    },
+    {
+        "name": "Longsword of Speaking Draconic"
+    },
+    {
+        "name": "Lord's Ensemble"
+    },
+    {
+        "name": "Lorehold Primer"
+    },
+    {
+        "name": "Lost Crown of Besilmer"
+    },
+    {
+        "name": "Lost Sword"
+    },
+    {
+        "name": "Lucent Destroyer"
+    },
+    {
+        "name": "Luck Blade",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Luminous War Pick"
+    },
+    {
+        "name": "Luxon Beacon"
+    },
+    {
+        "name": "Lyre of Building"
+    },
+    {
+        "name": "Mace of Disruption",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mace of Smiting",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mace of Terror",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mantle of Spell Resistance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Manual of Bodily Health",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Manual of Gainful Exercise",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Manual of Golems",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Manual of Quickness of Action",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mariner's Armor"
+    },
+    {
+        "name": "Mask of the Beast"
+    },
+    {
+        "name": "Masque Charm"
+    },
+    {
+        "name": "Masquerade Tattoo"
+    },
+    {
+        "name": "Matalotok"
+    },
+    {
+        "name": "Medal of Muscle"
+    },
+    {
+        "name": "Medal of Wit"
+    },
+    {
+        "name": "Medal of the Conch"
+    },
+    {
+        "name": "Medal of the Horizonback"
+    },
+    {
+        "name": "Medal of the Maze"
+    },
+    {
+        "name": "Medal of the Meat Pie"
+    },
+    {
+        "name": "Medal of the Wetlands"
+    },
+    {
+        "name": "Medallion of Thoughts",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mimir"
+    },
+    {
+        "name": "Mind Blade"
+    },
+    {
+        "name": "Mind Carapace Armor"
+    },
+    {
+        "name": "Mind Crystal"
+    },
+    {
+        "name": "Mind Lash"
+    },
+    {
+        "name": "Mind Sharpener"
+    },
+    {
+        "name": "Mindblasting Cap"
+    },
+    {
+        "name": "Mindguard Crown"
+    },
+    {
+        "name": "Mirror of Life Trapping",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mirror of Reflected Pasts"
+    },
+    {
+        "name": "Mirror of the Past"
+    },
+    {
+        "name": "Mistral Mantle"
+    },
+    {
+        "name": "Mithral Armor",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Mizzium Apparatus"
+    },
+    {
+        "name": "Mizzium Armor"
+    },
+    {
+        "name": "Mizzium Mortar"
+    },
+    {
+        "name": "Molten Bronze Skin"
+    },
+    {
+        "name": "Moodmark Paint"
+    },
+    {
+        "name": "Moon Sickle"
+    },
+    {
+        "name": "Moon-Touched Sword"
+    },
+    {
+        "name": "Mudslick Tower"
+    },
+    {
+        "name": "Murgaxor's Orb"
+    },
+    {
+        "name": "Mystery Key"
+    },
+    {
+        "name": "Nature's Mantle"
+    },
+    {
+        "name": "Navigation Orb"
+    },
+    {
+        "name": "Necklace of Adaptation",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Necklace of Fireballs",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Necklace of Prayer Beads",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Needle of Mending"
+    },
+    {
+        "name": "Nepenthe"
+    },
+    {
+        "name": "Nether Scroll of Azumar"
+    },
+    {
+        "name": "Netherese Ring of Protection"
+    },
+    {
+        "name": "Night Caller"
+    },
+    {
+        "name": "Nightfall Pearl"
+    },
+    {
+        "name": "Nimbus Coronet"
+    },
+    {
+        "name": "Nine Lives Stealer",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Nolzur's Marvelous Pigments",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Oathbow",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Obsidian Flint Dragon Plate"
+    },
+    {
+        "name": "Oil of Etherealness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Oil of Sharpness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Oil of Slipperiness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Opal of the Ild Rune"
+    },
+    {
+        "name": "Orb of Direction"
+    },
+    {
+        "name": "Orb of Gonging"
+    },
+    {
+        "name": "Orb of Shielding"
+    },
+    {
+        "name": "Orb of Skoraeus"
+    },
+    {
+        "name": "Orb of Time"
+    },
+    {
+        "name": "Orb of the Stein Rune"
+    },
+    {
+        "name": "Orb of the Veil"
+    },
+    {
+        "name": "Orcsplitter"
+    },
+    {
+        "name": "Orcus Figurine"
+    },
+    {
+        "name": "Ornithopter of Flying"
+    },
+    {
+        "name": "Outer Essence Shard"
+    },
+    {
+        "name": "Paper Bird"
+    },
+    {
+        "name": "Pariah's Shield"
+    },
+    {
+        "name": "Pearl of Power",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Pennant of the Vind Rune"
+    },
+    {
+        "name": "Peregrine Mask"
+    },
+    {
+        "name": "Perfume of Bewitching"
+    },
+    {
+        "name": "Periapt of Health",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Periapt of Proof Against Poison",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Philter of Love",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Piercer"
+    },
+    {
+        "name": "Pipe of Remembrance"
+    },
+    {
+        "name": "Pipe of Smoke Monsters"
+    },
+    {
+        "name": "Pipes of Haunting",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Pipes of the Sewers",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Piwafwi"
+    },
+    {
+        "name": "Piwafwi of Fire Resistance"
+    },
+    {
+        "name": "Pixie Dust"
+    },
+    {
+        "name": "Planecaller's Codex"
+    },
+    {
+        "name": "Plantslayer Battleaxe"
+    },
+    {
+        "name": "Plantslayer Longsword"
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Plate of Knight's Fellowship"
+    },
+    {
+        "name": "Platinum Scarf"
+    },
+    {
+        "name": "Pole of Angling"
+    },
+    {
+        "name": "Pole of Collapsing"
+    },
+    {
+        "name": "Portable Hole",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Portal Compass"
+    },
+    {
+        "name": "Pot of Awakening"
+    },
+    {
+        "name": "Potion of Advantage"
+    },
+    {
+        "name": "Potion of Animal Friendship",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Aqueous Form"
+    },
+    {
+        "name": "Potion of Clairvoyance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Climbing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Comprehension"
+    },
+    {
+        "name": "Potion of Diminution",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Dragon's Majesty"
+    },
+    {
+        "name": "Potion of Fire Breath"
+    },
+    {
+        "name": "Potion of Flying",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Gaseous Form",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Giant Size"
+    },
+    {
+        "name": "Potion of Giant Strength",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Growth",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Healing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Heroism",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Invisibility",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Invulnerability"
+    },
+    {
+        "name": "Potion of Longevity"
+    },
+    {
+        "name": "Potion of Maximum Power"
+    },
+    {
+        "name": "Potion of Mind Control"
+    },
+    {
+        "name": "Potion of Mind Reading",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Poison",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Possibility"
+    },
+    {
+        "name": "Potion of Psionic Fortitude"
+    },
+    {
+        "name": "Potion of Resistance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Speed",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Potion of Vitality"
+    },
+    {
+        "name": "Potion of Watchful Rest"
+    },
+    {
+        "name": "Potion of Water Breathing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power"
+    },
+    {
+        "name": "Pressure Capsule"
+    },
+    {
+        "name": "Prismari Primer"
+    },
+    {
+        "name": "Professor Orb"
+    },
+    {
+        "name": "Professor Skant"
+    },
+    {
+        "name": "Propeller Helm"
+    },
+    {
+        "name": "Prosthetic Limb"
+    },
+    {
+        "name": "Protective Verses"
+    },
+    {
+        "name": "Psi Crystal"
+    },
+    {
+        "name": "Pyroconverger"
+    },
+    {
+        "name": "Pyxis of Pandemonium"
+    },
+    {
+        "name": "Quaal's Feather Token",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Quandrix Primer"
+    },
+    {
+        "name": "Quiver of Ehlonna",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Radiance (wand)"
+    },
+    {
+        "name": "Radiant Weapon"
+    },
+    {
+        "name": "Rakdos Riteknife"
+    },
+    {
+        "name": "Reaper's Scream"
+    },
+    {
+        "name": "Red Dragon's Thighbone"
+    },
+    {
+        "name": "Reincarnation Dust"
+    },
+    {
+        "name": "Repeating Shot"
+    },
+    {
+        "name": "Repulsion Shield"
+    },
+    {
+        "name": "Reszur"
+    },
+    {
+        "name": "Returning Weapon"
+    },
+    {
+        "name": "Reveler's Concertina"
+    },
+    {
+        "name": "Rhythm Maker's Drum"
+    },
+    {
+        "name": "Ring of Amity"
+    },
+    {
+        "name": "Ring of Animal Influence",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Djinni Summoning",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Elemental Command",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Evasion",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Feather Falling",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Free Action",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Hardened Magma"
+    },
+    {
+        "name": "Ring of Invisibility",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Jumping",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Mind Shielding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Obscuring"
+    },
+    {
+        "name": "Ring of Protection",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Puzzler's Wit"
+    },
+    {
+        "name": "Ring of Red Fury"
+    },
+    {
+        "name": "Ring of Regeneration",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Resistance",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Shooting Stars",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Spell Storing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Spell Turning",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Swimming",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Telekinesis",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Temporal Salvation"
+    },
+    {
+        "name": "Ring of Three Wishes",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Truth Telling"
+    },
+    {
+        "name": "Ring of Warmth",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of Water Walking",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of X-ray Vision",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ring of the Orator"
+    },
+    {
+        "name": "Ring of the Ram",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Robe of Eyes",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Robe of Scintillating Colors",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Robe of Serpents"
+    },
+    {
+        "name": "Robe of Stars",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Robe of Summer"
+    },
+    {
+        "name": "Robe of Useful Items",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Robe of the Archmagi",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of Absorption",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of Alertness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of Hellish Flames"
+    },
+    {
+        "name": "Rod of Lordly Might",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of Resurrection"
+    },
+    {
+        "name": "Rod of Retribution"
+    },
+    {
+        "name": "Rod of Rulership",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of Security",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rod of the Pact Keeper, +1, +2, or +3"
+    },
+    {
+        "name": "Rod of the Vonindod"
+    },
+    {
+        "name": "Rogue's Mantle"
+    },
+    {
+        "name": "Rope of Climbing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rope of Entanglement",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Rope of Mending"
+    },
+    {
+        "name": "Ruby Weave Gem"
+    },
+    {
+        "name": "Ruby of the War Mage"
+    },
+    {
+        "name": "Ruidium Armor"
+    },
+    {
+        "name": "Ruidium Shield"
+    },
+    {
+        "name": "Ruidium Weapon"
+    },
+    {
+        "name": "Ruinous Flail"
+    },
+    {
+        "name": "Saddle of the Cavalier"
+    },
+    {
+        "name": "Sage's Signet"
+    },
+    {
+        "name": "Saint Markovia's Thighbone"
+    },
+    {
+        "name": "Sanctum Amulet"
+    },
+    {
+        "name": "Sapphire Buckler"
+    },
+    {
+        "name": "Scaled Ornament"
+    },
+    {
+        "name": "Scarab of Protection",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Scimitar of Speed",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Scissors of Shadow Snipping"
+    },
+    {
+        "name": "Scorpion Armor"
+    },
+    {
+        "name": "Scribe's Pen"
+    },
+    {
+        "name": "Scroll of Protection"
+    },
+    {
+        "name": "Scroll of Tarrasque Summoning"
+    },
+    {
+        "name": "Scroll of the Comet"
+    },
+    {
+        "name": "Seeker Dart"
+    },
+    {
+        "name": "Sekolahian Worshiping Statuette"
+    },
+    {
+        "name": "Sending Stones"
+    },
+    {
+        "name": "Sensory Stone"
+    },
+    {
+        "name": "Sentinel Shield"
+    },
+    {
+        "name": "Serpent Scale Armor"
+    },
+    {
+        "name": "Serpent's Fang"
+    },
+    {
+        "name": "Shadowfell Brand Tattoo"
+    },
+    {
+        "name": "Shadowfell Shard"
+    },
+    {
+        "name": "Shard Solitaire"
+    },
+    {
+        "name": "Shard of Xeluan"
+    },
+    {
+        "name": "Shard of the Ise Rune"
+    },
+    {
+        "name": "Shatterspike"
+    },
+    {
+        "name": "Shield Guardian Amulet"
+    },
+    {
+        "name": "Shield of Expression"
+    },
+    {
+        "name": "Shield of Far Sight"
+    },
+    {
+        "name": "Shield of Missile Attraction",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Shield of the Blazing Dreadnought"
+    },
+    {
+        "name": "Shield of the Hidden Lord"
+    },
+    {
+        "name": "Shield of the Tortoise"
+    },
+    {
+        "name": "Shield of the Uven Rune"
+    },
+    {
+        "name": "Shield, +1, +2, or +3",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Shiftweave"
+    },
+    {
+        "name": "Shrieking Greaves"
+    },
+    {
+        "name": "Silver Dragon Shield +2"
+    },
+    {
+        "name": "Silverquill Primer"
+    },
+    {
+        "name": "Siren Song Lyre"
+    },
+    {
+        "name": "Skull Helm"
+    },
+    {
+        "name": "Skyblinder Staff"
+    },
+    {
+        "name": "Sling Bullets of Althemone"
+    },
+    {
+        "name": "Sling of Giant Felling"
+    },
+    {
+        "name": "Slippers of Spider Climbing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Smokepowder"
+    },
+    {
+        "name": "Smoldering Armor"
+    },
+    {
+        "name": "Snicker-Snack"
+    },
+    {
+        "name": "Soul Coin"
+    },
+    {
+        "name": "Sovereign Glue",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Speaking Stone"
+    },
+    {
+        "name": "Spear of Backbiting"
+    },
+    {
+        "name": "Spell Bottle"
+    },
+    {
+        "name": "Spell Gem"
+    },
+    {
+        "name": "Spell Scroll",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Spell-Refueling Ring"
+    },
+    {
+        "name": "Spellcasting Bolts"
+    },
+    {
+        "name": "Spellguard Shield",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Spelljamming Helm"
+    },
+    {
+        "name": "Spellshard"
+    },
+    {
+        "name": "Spellwrought Tattoo"
+    },
+    {
+        "name": "Sphere of Annihilation",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Spider Staff"
+    },
+    {
+        "name": "Spies' Murmur"
+    },
+    {
+        "name": "Spindle of Fate"
+    },
+    {
+        "name": "Staff of Adornment"
+    },
+    {
+        "name": "Staff of Birdcalls"
+    },
+    {
+        "name": "Staff of Charming",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Defense"
+    },
+    {
+        "name": "Staff of Dunamancy"
+    },
+    {
+        "name": "Staff of Fate"
+    },
+    {
+        "name": "Staff of Fire",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Flowers"
+    },
+    {
+        "name": "Staff of Frost",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Healing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Power",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Ruling"
+    },
+    {
+        "name": "Staff of Striking",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Swarming Insects",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Thunder and Lightning",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of Withering",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of the Adder"
+    },
+    {
+        "name": "Staff of the Ivory Claw"
+    },
+    {
+        "name": "Staff of the Magi",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of the Python",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Staff of the Rooted Hills"
+    },
+    {
+        "name": "Staff of the Woodlands",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Starshot Crossbow"
+    },
+    {
+        "name": "Statuette of Augury"
+    },
+    {
+        "name": "Statuette of Saint Markovia"
+    },
+    {
+        "name": "Steel"
+    },
+    {
+        "name": "Stone of Controlling Earth Elementals",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Stone of Good Luck",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Stone of Ill Luck"
+    },
+    {
+        "name": "Stonebreaker's Breastplate"
+    },
+    {
+        "name": "Stonemaker War Pick"
+    },
+    {
+        "name": "Stonespeaker Crystal"
+    },
+    {
+        "name": "Storm Boomerang"
+    },
+    {
+        "name": "Stormgirdle"
+    },
+    {
+        "name": "Strixhaven Pennant"
+    },
+    {
+        "name": "Sun Blade",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Sun Staff"
+    },
+    {
+        "name": "Sunforger"
+    },
+    {
+        "name": "Sunsword"
+    },
+    {
+        "name": "Survival Mantle"
+    },
+    {
+        "name": "Sword of Answering"
+    },
+    {
+        "name": "Sword of Life Stealing",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Sword of Sharpness",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Sword of Vengeance"
+    },
+    {
+        "name": "Sword of Wounding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Sword of the Paruns"
+    },
+    {
+        "name": "Sword of the Planes"
+    },
+    {
+        "name": "Talisman of Pure Good",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Talisman of Ultimate Evil",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Talisman of the Sphere",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Talking Doll"
+    },
+    {
+        "name": "Tankard of Plenty"
+    },
+    {
+        "name": "Tankard of Sobriety"
+    },
+    {
+        "name": "Tearulai"
+    },
+    {
+        "name": "Teleportation Tablet"
+    },
+    {
+        "name": "Telescopic Transporter"
+    },
+    {
+        "name": "Tentacle Rod"
+    },
+    {
+        "name": "The Codicil of White"
+    },
+    {
+        "name": "Thermal Cube"
+    },
+    {
+        "name": "Thunderbuss"
+    },
+    {
+        "name": "Tidecaller Trident"
+    },
+    {
+        "name": "Tinderstrike"
+    },
+    {
+        "name": "Tome of Clear Thought",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Tome of Leadership and Influence",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Tome of Understanding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Tome of the Stilled Tongue"
+    },
+    {
+        "name": "Topaz Annihilator"
+    },
+    {
+        "name": "Trident of Fish Command",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Two-Birds Sling"
+    },
+    {
+        "name": "Unbreakable Arrow"
+    },
+    {
+        "name": "Universal Solvent",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Ventilating Lungs"
+    },
+    {
+        "name": "Verminshroud"
+    },
+    {
+        "name": "Veteran's Cane"
+    },
+    {
+        "name": "Vial of Stardust"
+    },
+    {
+        "name": "Vicious Weapon",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Voidwalker Armor"
+    },
+    {
+        "name": "Vorpal Sword",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Vox Seeker"
+    },
+    {
+        "name": "Voyager Staff"
+    },
+    {
+        "name": "Walloping Ammunition"
+    },
+    {
+        "name": "Wand Sheath"
+    },
+    {
+        "name": "Wand of Binding",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Conducting"
+    },
+    {
+        "name": "Wand of Enemy Detection",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Entangle"
+    },
+    {
+        "name": "Wand of Fear",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Fireballs",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Lightning Bolts",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Magic Detection",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Magic Missiles",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Paralysis",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Polymorph",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Pyrotechnics"
+    },
+    {
+        "name": "Wand of Scowls"
+    },
+    {
+        "name": "Wand of Secrets",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Smiles"
+    },
+    {
+        "name": "Wand of Viscid Globs"
+    },
+    {
+        "name": "Wand of Web",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of Winter"
+    },
+    {
+        "name": "Wand of Wonder",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "War Horn of Valor"
+    },
+    {
+        "name": "Warrior's Passkey"
+    },
+    {
+        "name": "Watchful Helm"
+    },
+    {
+        "name": "Wave"
+    },
+    {
+        "name": "Wayfarer's Boots"
+    },
+    {
+        "name": "Waythe"
+    },
+    {
+        "name": "Weapon of Certain Death"
+    },
+    {
+        "name": "Weapon of Throne's Command"
+    },
+    {
+        "name": "Weapon of Warning"
+    },
+    {
+        "name": "Weapon, +1, +2, or +3",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Weird Tank"
+    },
+    {
+        "name": "Well of Many Worlds",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wheel of Wind and Water"
+    },
+    {
+        "name": "Whelm"
+    },
+    {
+        "name": "White Dragonhide Cape"
+    },
+    {
+        "name": "Wildspace Orrery"
+    },
+    {
+        "name": "Wind Fan",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Windvane"
+    },
+    {
+        "name": "Winged Ammunition"
+    },
+    {
+        "name": "Winged Boots",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wings of Flying",
+        "detailedIn": "MagicItems/MagicItems.json"
+    },
+    {
+        "name": "Wingwear"
+    },
+    {
+        "name": "Witchlight Vane"
+    },
+    {
+        "name": "Witchlight Watch"
+    },
+    {
+        "name": "Witherbloom Primer"
+    },
+    {
+        "name": "Woodcutter's Axe"
+    },
+    {
+        "name": "Wraps of Unarmed Prowess, +1, +2, or +3"
+    },
+    {
+        "name": "Wreath of the Prism"
+    },
+    {
+        "name": "Wyrmreaver Gauntlets"
+    },
+    {
+        "name": "Ythryn Mythallar"
+    },
+    {
+        "name": "Zephyr Armor"
+    }
+]

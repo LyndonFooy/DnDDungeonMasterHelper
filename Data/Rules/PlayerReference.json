@@ -1,0 +1,356 @@
+{
+    "Area of Effect": {
+        "shapes": [
+            "Cube",
+            "Sphere",
+            "Cylinder",
+            "Line",
+            "Cone"
+        ],
+        "note": "Diagram shows each shape's point of origin."
+    },
+    "Environment": {
+        "source": "PHB 183",
+        "entries": [
+            {
+                "name": "Forced march",
+                "description": "Marching more than 8 hours per day requires a Con saving throw at DC 10 + 1 per additional hour, at the end of each additional hour. If failed, suffer one level of exhaustion (see conditions)."
+            },
+            {
+                "name": "Food",
+                "timing": "one pound per day",
+                "description": "Go without food for 3 + Con modifier of consecutive days (1 day minimum). At the end of each day beyond that, suffer one level of exhaustion (see conditions)."
+            },
+            {
+                "name": "Water",
+                "timing": "one gallon per day",
+                "description": "If only half a gallon is consumed, DC 15 Con saving throw at end of day. If failed or consumed less than half, suffer one level of exhaustion, or two levels of exhaustion if currently already exhausted (see conditions)."
+            },
+            {
+                "name": "Falling",
+                "description": "1d6 bludgeoning damage per 10 feet fallen, to a maximum of 20d6. End prone if taken any damage from the fall."
+            },
+            {
+                "name": "Suffocating",
+                "description": "Hold breath for 1 + Con modifier in minutes (30 seconds minimum). After that, survive for Con modifier in rounds, after which drop to 0 hit points and dying."
+            },
+            {
+                "name": "Short rest",
+                "description": "A short rest takes 1 hour of doing nothing too strenuous. At the end of the rest, spend hit dice to regain hit points."
+            },
+            {
+                "name": "Long rest",
+                "description": "A long rest takes 8 hours with nothing too strenuous for more than 1 hour of that. Regain all hit points and half hit dice at end. If food and water are consumed, reduce exhaustion level by 1. Maximum of 1 long rest per 24 hours."
+            }
+        ]
+    },
+    "Attack Action": {
+        "source": "PHB 195",
+        "entries": [
+            {
+                "name": "Melee attack",
+                "timing": "one attack",
+                "description": "Normal attack on target within 5 ft. If attacking with a light melee weapon in one hand, allowed to make an attack with a light melee weapon in other hand as a bonus action, see ‘Two-Weapon Fighting’. If either weapon has the thrown property, it may be thrown as part of this action."
+            },
+            {
+                "name": "Ranged attack",
+                "timing": "one attack",
+                "description": "Normal attack if up to normal range (first number). Disadvantage on the attack if up to long range (second number). Disadvantage on the attack if a hostile that is not incapacitated is within 5 ft and can see the attacker."
+            },
+            {
+                "name": "Two-weapon fighting",
+                "timing": "bonus action with attack action",
+                "description": "If making an attack with a light melee weapon in one hand, allowed to make an attack with a light melee weapon in other hand as a bonus action. This off-hand attack can’t add a positive ability score modifier to the damage roll. If the weapon has the thrown property, it may be thrown as part of this action."
+            },
+            {
+                "name": "Disarm",
+                "timing": "instead of one attack",
+                "source": "DMG 271",
+                "description": "Knock an item from grasp by winning weapon attack roll vs. opponent’s Str (Athletics) or Dex (Acrobatics) check. Disadvantage on the weapon attack roll if the item is being held with two or more hands. Larger opponents have advantage and smaller have disadvantage."
+            },
+            {
+                "name": "Grapple",
+                "timing": "instead of one attack",
+                "description": "With a free hand, give the grappled condition to an opponent that is within reach and up to one size larger than you by winning Str (Athletics) check vs. opponent’s Str (Athletics) or Dex (Acrobatics) check."
+            },
+            {
+                "name": "Mark",
+                "timing": "with melee attack",
+                "source": "DMG 271",
+                "description": "With a melee attack you can mark the target of that attack. The next opportunity attack against the marked target before the end of your next turn has advantage and doesn’t cost you your reaction."
+            },
+            {
+                "name": "Shove",
+                "timing": "instead of one attack",
+                "description": "Move opponent 5 ft or make prone by winning opposing Str (Athletics) check. Disadvantage if trying to move the opponent to a side rather than to directly away from you."
+            }
+        ]
+    },
+    "Conditions": {
+        "source": "PHB 290",
+        "entries": [
+            {
+                "name": "Blinded",
+                "description": "Fail checks involving sight. Attacks have disadvantage. Enemy attacks have advantage."
+            },
+            {
+                "name": "Charmed",
+                "description": "Can’t harm/attack charmer. Charmer has advantage on ability checks to interact socially."
+            },
+            {
+                "name": "Deafened",
+                "description": "Fail checks involving hearing."
+            },
+            {
+                "name": "Frightened",
+                "description": "Disadvantage to checks/attacks while the source of fear is in sight. Can’t willingly move closer to the source of fear."
+            },
+            {
+                "name": "Grappled",
+                "description": "Speed 0, regardless of bonus. Ends when grappler is incapacitated or when moved out of grappler’s reach by an effect."
+            },
+            {
+                "name": "Incapacitated",
+                "description": "Can’t take actions or reactions."
+            },
+            {
+                "name": "Invisible",
+                "description": "Can’t be seen (normally), but still make noise and tracks. Attacks have advantage. Enemy attacks have disadvantage."
+            },
+            {
+                "name": "Paralyzed",
+                "description": "Incapacitated. Can’t move or speak. Fail Str and Dex saving throws. Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits."
+            },
+            {
+                "name": "Petrified",
+                "description": "Incapacitated. Can’t move or speak. Unaware of surroundings. Resistance to all damage. Immune to poison / disease. Fail Str and Dex saving throws. Enemy attacks have advantage. Stop aging. Weight increases by factor 10."
+            },
+            {
+                "name": "Poisoned",
+                "description": "Disadvantage on attack rolls and ability checks."
+            },
+            {
+                "name": "Prone",
+                "description": "Crawl (at ½ speed) or stand up (costs ½ speed). Attacks have disadvantage. Enemy attacks have advantage within 5 ft and disadvantage if further away."
+            },
+            {
+                "name": "Restrained",
+                "description": "Speed 0, regardless of bonus. Disadvantage on Dex saving throws. Attacks have disadvantage. Enemy attacks have advantage."
+            },
+            {
+                "name": "Stunned",
+                "description": "Incapacitated. Can’t move. Can speak only falteringly. Fail Str and Dex saving throws. Enemy attacks have advantage."
+            },
+            {
+                "name": "Unconscious",
+                "description": "Incapacitated. Can’t move or speak. Unaware of surroundings. Drop everything. Fail Str and Dex saving throws. Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits."
+            }
+        ]
+    },
+    "Exhaustion": {
+        "source": "PHB 291",
+        "levels": [
+            {
+                "level": 1,
+                "effect": "Disadvantage on ability checks"
+            },
+            {
+                "level": 2,
+                "effect": "Speed halved"
+            },
+            {
+                "level": 3,
+                "effect": "Disadvantage on attacks / saves"
+            },
+            {
+                "level": 4,
+                "effect": "Hit Point maximum halved"
+            },
+            {
+                "level": 5,
+                "effect": "Speed reduced to 0"
+            },
+            {
+                "level": 6,
+                "effect": "Death"
+            }
+        ],
+        "cumulative": true
+    },
+    "Travel Pace": {
+        "source": "PHB 182",
+        "paces": [
+            {
+                "pace": "Fast",
+                "perMinuteFeet": 400,
+                "perHourMiles": 4,
+                "perDayMiles": 30,
+                "effect": "-5 passive Perception"
+            },
+            {
+                "pace": "Normal",
+                "perMinuteFeet": 300,
+                "perHourMiles": 3,
+                "perDayMiles": 24,
+                "effect": null
+            },
+            {
+                "pace": "Slow",
+                "perMinuteFeet": 200,
+                "perHourMiles": 2,
+                "perDayMiles": 18,
+                "effect": "Able to use stealth"
+            }
+        ]
+    },
+    "Cover": {
+        "source": "PHB 196",
+        "degrees": [
+            {
+                "cover": "Half",
+                "effect": "+2 AC and Dex saving throws"
+            },
+            {
+                "cover": "Three-quarters",
+                "effect": "+5 AC and Dex saving throws"
+            },
+            {
+                "cover": "Total",
+                "effect": "Can’t be targeted directly by attack or spell"
+            }
+        ]
+    },
+    "Light & Vision": {
+        "source": "PHB 183",
+        "entries": [
+            {
+                "name": "Lightly obscured",
+                "condition": "dim light",
+                "effect": "Disadvantage on sight Perception checks"
+            },
+            {
+                "name": "Heavily obscured",
+                "condition": "darkness",
+                "effect": "Effectively blinded (see conditions)"
+            },
+            {
+                "name": "Blindsight",
+                "effect": "Out to range, perceive without sight."
+            },
+            {
+                "name": "Darkvision",
+                "effect": "Out to range, treat dim light as bright light. Can’t see colors."
+            },
+            {
+                "name": "Truesight",
+                "effect": "Out to range, perceive everything regardless of (magical) darkness, invisibility, illusions, shapechanging, or etherealness."
+            }
+        ]
+    },
+    "Combat Actions": {
+        "source": "PHB 192",
+        "entries": [
+            {
+                "name": "Attack",
+                "timing": "action",
+                "description": "Make one melee or ranged attack with a weapon, or multiple attacks with the ‘Extra Attack’ class feature. (See the ‘Attack Action’ section below.)"
+            },
+            {
+                "name": "Cast a spell",
+                "timing": "casting time of the spell",
+                "description": "Effect depends on the spell being cast."
+            },
+            {
+                "name": "Dash",
+                "timing": "action",
+                "description": "Gain your speed as extra movement for this turn."
+            },
+            {
+                "name": "Disengage",
+                "timing": "action",
+                "description": "Your movement doesn’t provoke opportunity attacks for the rest of the turn."
+            },
+            {
+                "name": "Dodge",
+                "timing": "action",
+                "description": "Attack rolls from attackers you can see have disadvantage and you have advantage on Dex saving throws until the start of your next turn, until you become incapacitated or your speed drops to 0."
+            },
+            {
+                "name": "Escape",
+                "timing": "action",
+                "description": "Escape a grapple by winning a Str (Athletics) or Dex (Acrobatics) check vs. grappler’s Str (Athletics) check."
+            },
+            {
+                "name": "Help",
+                "timing": "action",
+                "description": "Give an ally advantage on next ability check or attack roll vs. an opponent within 5 ft of you, if done before the start of your next turn."
+            },
+            {
+                "name": "Hide",
+                "timing": "action",
+                "description": "Hide from those that can’t perceive you. Your Dex (Stealth) check is the DC for anybody’s Wis (Perception) check to discover you."
+            },
+            {
+                "name": "Overrun",
+                "timing": "action or bonus action",
+                "source": "DMG 272",
+                "description": "Move through hostile’s space once by winning opposing Str (Athletics) check. Advantage if you are larger or disadvantage if you are smaller than the opponent."
+            },
+            {
+                "name": "Ready",
+                "timing": "action",
+                "description": "Choose an action that you will take in response to a set trigger. Taking the action uses your reaction. Readying a spell requires concentration and expends the spell slot."
+            },
+            {
+                "name": "Search",
+                "timing": "action",
+                "description": "Search for something, possibly with a Wis (Perception) or Int (Investigation) check."
+            },
+            {
+                "name": "Tumble",
+                "timing": "action or bonus action",
+                "source": "DMG 272",
+                "description": "Move through hostile’s space once by winning opposing Dex (Acrobatics) check."
+            },
+            {
+                "name": "Use object",
+                "timing": "action",
+                "description": "You can interact with an object once per turn for free. A second interaction and special cases take an action to complete (e.g. draw a second weapon, equip a shield, drink a potion, retrieve an item from a backpack)."
+            }
+        ]
+    },
+    "Movement": {
+        "source": "PHB 182",
+        "entries": [
+            {
+                "name": "Move",
+                "timing": "limited by movement speed",
+                "description": "You can move your movement speed every turn. You can break up your movement between actions. You can switch back and forth between different types (e.g. from flying to walking), by subtracting the distance already moved from the new speed. You can freely move through a nonhostile’s space, and through a hostile’s space if it is two sizes larger or smaller than you. Another creature’s space counts as difficult terrain."
+            },
+            {
+                "name": "Climb / swim",
+                "timing": "at ½ speed",
+                "description": "May involve a Str (Athletics) check if the climb / swim is difficult."
+            },
+            {
+                "name": "Crawl",
+                "timing": "at ½ speed",
+                "description": "Crawl while prone (see conditions). Dropping prone costs no movement speed."
+            },
+            {
+                "name": "Difficult terrain",
+                "timing": "at ½ speed",
+                "description": "Moving through difficult terrain costs twice as much speed. Another creature’s space counts as difficult terrain."
+            },
+            {
+                "name": "Jump",
+                "description": "After moving at least 10 feet on foot, you can jump your Str score in feet straight forward, or 3 + your Str modifier in feet up. The jump distance is halved when performing a standing jump."
+            },
+            {
+                "name": "Stand up",
+                "timing": "costs ½ speed",
+                "description": "Standing up from being prone costs half your movement speed for this turn."
+            }
+        ]
+    }
+}

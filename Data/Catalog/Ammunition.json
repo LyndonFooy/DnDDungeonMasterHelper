@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Alchemist's Fire, flasks",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Arrows",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Bolts",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Bullets",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Daggers",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Darts",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Flasks (1 pint)",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Handaxes",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Holy Water, flasks",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Javelins",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Light Hammers",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Needles",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Spears",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Tridents",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Vials (4 ounces)",
+        "detailedIn": "Equipment/Ammunition.json"
+    },
+    {
+        "name": "Vials of Acid",
+        "detailedIn": "Equipment/Ammunition.json"
+    }
+]

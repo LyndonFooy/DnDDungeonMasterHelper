@@ -1,0 +1,324 @@
+[
+    {
+        "key": "burglar",
+        "name": "Burglar's pack (16 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Bag of 1000 ball bearings",
+                "amount": 1,
+                "weight": 2
+            },
+            {
+                "name": "String, feet of",
+                "amount": 10
+            },
+            {
+                "name": "Bell"
+            },
+            {
+                "name": "Candles",
+                "amount": 5
+            },
+            {
+                "name": "Crowbar",
+                "weight": 5
+            },
+            {
+                "name": "Hammer",
+                "weight": 3
+            },
+            {
+                "name": "Pitons",
+                "amount": 10,
+                "weight": 0.25
+            },
+            {
+                "name": "Hooded lantern",
+                "weight": 2
+            },
+            {
+                "name": "Oil, flasks of",
+                "amount": 2,
+                "weight": 1
+            },
+            {
+                "name": "Rations, days of",
+                "amount": 5,
+                "weight": 2
+            },
+            {
+                "name": "Tinderbox",
+                "weight": 1
+            },
+            {
+                "name": "Waterskin",
+                "weight": 5
+            },
+            {
+                "name": "Hempen rope, feet of",
+                "amount": 50,
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "key": "diplomat",
+        "name": "Diplomat's pack (39 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Chest, with:",
+                "weight": 25
+            },
+            {
+                "name": "Map or scroll case",
+                "amount": 2,
+                "weight": 1
+            },
+            {
+                "name": "Fine clothes",
+                "weight": 6
+            },
+            {
+                "name": "Ink, 1 ounce bottle of"
+            },
+            {
+                "name": "Ink pen"
+            },
+            {
+                "name": "Lamp",
+                "weight": 1
+            },
+            {
+                "name": "Oil, flasks of",
+                "amount": 2,
+                "weight": 1
+            },
+            {
+                "name": "Paper, sheets of",
+                "amount": 5
+            },
+            {
+                "name": "Perfume, vial of"
+            },
+            {
+                "name": "Sealing Wax"
+            },
+            {
+                "name": "Soap"
+            }
+        ]
+    },
+    {
+        "key": "dungeoneer",
+        "name": "Dungeoneer's pack (12 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Crowbar",
+                "weight": 5
+            },
+            {
+                "name": "Hammer",
+                "weight": 3
+            },
+            {
+                "name": "Pitons",
+                "amount": 10,
+                "weight": 0.25
+            },
+            {
+                "name": "Torches",
+                "amount": 10,
+                "weight": 1
+            },
+            {
+                "name": "Tinderbox",
+                "weight": 1
+            },
+            {
+                "name": "Rations, days of",
+                "amount": 10,
+                "weight": 2
+            },
+            {
+                "name": "Waterskin",
+                "weight": 5
+            },
+            {
+                "name": "Hempen rope, feet of",
+                "amount": 50,
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "key": "entertainer",
+        "name": "Entertainer's pack (40 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Bedroll",
+                "weight": 7
+            },
+            {
+                "name": "Costumes",
+                "amount": 2,
+                "weight": 4
+            },
+            {
+                "name": "Candles",
+                "amount": 5
+            },
+            {
+                "name": "Rations, days of",
+                "amount": 5,
+                "weight": 2
+            },
+            {
+                "name": "Waterskin",
+                "weight": 5
+            },
+            {
+                "name": "Disguise kit",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "key": "explorer",
+        "name": "Explorer's pack (10 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Bedroll",
+                "weight": 7
+            },
+            {
+                "name": "Mess kit",
+                "weight": 1
+            },
+            {
+                "name": "Tinderbox",
+                "weight": 1
+            },
+            {
+                "name": "Torches",
+                "amount": 10,
+                "weight": 1
+            },
+            {
+                "name": "Rations, days of",
+                "amount": 10,
+                "weight": 2
+            },
+            {
+                "name": "Waterskin",
+                "weight": 5
+            },
+            {
+                "name": "Hempen rope, feet of",
+                "amount": 50,
+                "weight": 0.2
+            }
+        ]
+    },
+    {
+        "key": "priest",
+        "name": "Priest's pack (19 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Blanket",
+                "weight": 3
+            },
+            {
+                "name": "Candles",
+                "amount": 10
+            },
+            {
+                "name": "Tinderbox",
+                "weight": 1
+            },
+            {
+                "name": "Alms box",
+                "weight": 1
+            },
+            {
+                "name": "Incense, blocks of",
+                "amount": 2
+            },
+            {
+                "name": "Censer",
+                "weight": 1
+            },
+            {
+                "name": "Vestments",
+                "weight": 4
+            },
+            {
+                "name": "Rations, days of",
+                "amount": 2,
+                "weight": 2
+            },
+            {
+                "name": "Waterskin",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "key": "scholar",
+        "name": "Scholar's pack (40 gp)",
+        "source": "SRD 70",
+        "items": [
+            {
+                "name": "Backpack, with:",
+                "weight": 5
+            },
+            {
+                "name": "Book of lore",
+                "weight": 5
+            },
+            {
+                "name": "Ink, 1 ounce bottle of"
+            },
+            {
+                "name": "Ink pen"
+            },
+            {
+                "name": "Parchment, sheets of",
+                "amount": 10
+            },
+            {
+                "name": "Little bag of sand",
+                "weight": 1
+            },
+            {
+                "name": "Small knife",
+                "weight": 0.25
+            }
+        ]
+    }
+]

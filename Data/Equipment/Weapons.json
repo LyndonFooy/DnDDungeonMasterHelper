@@ -1,0 +1,1355 @@
+[
+    {
+        "key": "unarmed strike",
+        "name": "Unarmed strike",
+        "source": "SRD 66",
+        "category": "Natural",
+        "ability": "Str",
+        "damage": {
+            "flat": 1,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "monkWeapon": true,
+        "addAbilityToDamage": true
+    },
+    {
+        "key": "club",
+        "name": "Club",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Light"
+        ],
+        "description": "Light",
+        "light": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "dagger",
+        "name": "Dagger",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "piercing"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Finesse",
+            "light",
+            "thrown"
+        ],
+        "description": "Finesse, light, thrown",
+        "finesse": true,
+        "light": true,
+        "thrown": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 1
+    },
+    {
+        "key": "greatclub",
+        "name": "Greatclub",
+        "alternateNames": [
+            "Club, Great"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Two-handed"
+        ],
+        "description": "Two-handed",
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 10
+    },
+    {
+        "key": "handaxe",
+        "name": "Handaxe",
+        "alternateNames": [
+            "Axe, Hand"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "slashing"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Light",
+            "thrown"
+        ],
+        "description": "Light, thrown",
+        "light": true,
+        "thrown": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "javelin",
+        "name": "Javelin",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "Melee, 30/120 ft",
+        "reach": 5,
+        "rangeNormal": 30,
+        "rangeLong": 120,
+        "properties": [
+            "Thrown"
+        ],
+        "description": "Thrown",
+        "thrown": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "light hammer",
+        "name": "Light hammer",
+        "alternateNames": [
+            "Hammer, Light"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "bludgeoning"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Light",
+            "thrown"
+        ],
+        "description": "Light, thrown",
+        "light": true,
+        "thrown": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "mace",
+        "name": "Mace",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 4
+    },
+    {
+        "key": "quarterstaff",
+        "name": "Quarterstaff",
+        "alternateNames": [
+            "Staff"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Versatile (1d8)"
+        ],
+        "description": "Versatile (1d8)",
+        "versatileDamage": "1d8",
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 4
+    },
+    {
+        "key": "sickle",
+        "name": "Sickle",
+        "alternateNames": [
+            "Kama"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Light"
+        ],
+        "description": "Light",
+        "light": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "spear",
+        "name": "Spear",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Thrown",
+            "versatile (1d8)"
+        ],
+        "description": "Thrown, versatile (1d8)",
+        "thrown": true,
+        "versatileDamage": "1d8",
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 3
+    },
+    {
+        "key": "light crossbow",
+        "name": "Light crossbow",
+        "alternateNames": [
+            "Crossbow, Light"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "piercing"
+        },
+        "range": "80/320 ft",
+        "rangeNormal": 80,
+        "rangeLong": 320,
+        "properties": [
+            "Ammunition",
+            "loading",
+            "two-handed"
+        ],
+        "description": "Ammunition, loading, two-handed",
+        "twoHanded": true,
+        "loading": true,
+        "ammunition": "bolt",
+        "addAbilityToDamage": true,
+        "weight": 5
+    },
+    {
+        "key": "dart",
+        "name": "Dart",
+        "alternateNames": [
+            "Shuriken"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "piercing"
+        },
+        "range": "20/60 ft",
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Finesse",
+            "thrown"
+        ],
+        "description": "Finesse, thrown",
+        "finesse": true,
+        "thrown": true,
+        "addAbilityToDamage": true,
+        "weight": 0.25
+    },
+    {
+        "key": "shortbow",
+        "name": "Shortbow",
+        "alternateNames": [
+            "Bow, Short"
+        ],
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "80/320 ft",
+        "rangeNormal": 80,
+        "rangeLong": 320,
+        "properties": [
+            "Ammunition",
+            "two-handed"
+        ],
+        "description": "Ammunition, two-handed",
+        "twoHanded": true,
+        "ammunition": "arrow",
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "sling",
+        "name": "Sling",
+        "source": "SRD 66",
+        "category": "Simple",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "bludgeoning"
+        },
+        "range": "30/120 ft",
+        "rangeNormal": 30,
+        "rangeLong": 120,
+        "properties": [
+            "Ammunition"
+        ],
+        "description": "Ammunition",
+        "ammunition": "bullet",
+        "addAbilityToDamage": true,
+        "weight": 0.001
+    },
+    {
+        "key": "battleaxe",
+        "name": "Battleaxe",
+        "alternateNames": [
+            "Axe, Battle"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Versatile (1d10)"
+        ],
+        "description": "Versatile (1d10)",
+        "versatileDamage": "1d10",
+        "addAbilityToDamage": true,
+        "weight": 4
+    },
+    {
+        "key": "flail",
+        "name": "Flail",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "glaive",
+        "name": "Glaive",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d10",
+            "count": 1,
+            "die": 10,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 10,
+        "properties": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "description": "Heavy, reach, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 6
+    },
+    {
+        "key": "greataxe",
+        "name": "Greataxe",
+        "alternateNames": [
+            "Axe, Great"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d12",
+            "count": 1,
+            "die": 12,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Heavy",
+            "two-handed"
+        ],
+        "description": "Heavy, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 7
+    },
+    {
+        "key": "greatsword",
+        "name": "Greatsword",
+        "alternateNames": [
+            "Sword, Great"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "2d6",
+            "count": 2,
+            "die": 6,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Heavy",
+            "two-handed"
+        ],
+        "description": "Heavy, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 6
+    },
+    {
+        "key": "halberd",
+        "name": "Halberd",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d10",
+            "count": 1,
+            "die": 10,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 10,
+        "properties": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "description": "Heavy, reach, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 6
+    },
+    {
+        "key": "lance",
+        "name": "Lance",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d12",
+            "count": 1,
+            "die": 12,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 10,
+        "properties": [
+            "Reach",
+            "disadvantage to attack within 5 ft",
+            "two-handed when not mounted"
+        ],
+        "description": "Reach, disadvantage to attack within 5 ft, two-handed when not mounted",
+        "addAbilityToDamage": true,
+        "weight": 6,
+        "special": true
+    },
+    {
+        "key": "longsword",
+        "name": "Longsword",
+        "alternateNames": [
+            "Sword, Long",
+            "Katana"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Versatile (1d10)"
+        ],
+        "description": "Versatile (1d10)",
+        "versatileDamage": "1d10",
+        "addAbilityToDamage": true,
+        "weight": 3
+    },
+    {
+        "key": "maul",
+        "name": "Maul",
+        "alternateNames": [
+            "Greathammer",
+            "Hammer, Heavy"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "2d6",
+            "count": 2,
+            "die": 6,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Heavy",
+            "two-handed"
+        ],
+        "description": "Heavy, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 10
+    },
+    {
+        "key": "morningstar",
+        "name": "Morningstar",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "addAbilityToDamage": true,
+        "weight": 4
+    },
+    {
+        "key": "pike",
+        "name": "Pike",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d10",
+            "count": 1,
+            "die": 10,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 10,
+        "properties": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "description": "Heavy, reach, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "addAbilityToDamage": true,
+        "weight": 18
+    },
+    {
+        "key": "rapier",
+        "name": "Rapier",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Finesse"
+        ],
+        "description": "Finesse",
+        "finesse": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "scimitar",
+        "name": "Scimitar",
+        "alternateNames": [
+            "Wakizashi"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Finesse",
+            "light"
+        ],
+        "description": "Finesse, light",
+        "finesse": true,
+        "light": true,
+        "addAbilityToDamage": true,
+        "weight": 3
+    },
+    {
+        "key": "shortsword",
+        "name": "Shortsword",
+        "alternateNames": [
+            "Sword, Short"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Finesse",
+            "light"
+        ],
+        "description": "Finesse, light",
+        "finesse": true,
+        "light": true,
+        "monkWeapon": true,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "trident",
+        "name": "Trident",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Thrown",
+            "versatile (1d8)"
+        ],
+        "description": "Thrown, versatile (1d8)",
+        "thrown": true,
+        "versatileDamage": "1d8",
+        "addAbilityToDamage": true,
+        "weight": 4
+    },
+    {
+        "key": "war pick",
+        "name": "War pick",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "piercing"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "warhammer",
+        "name": "Warhammer",
+        "alternateNames": [
+            "Hammer, War"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Versatile (1d10)"
+        ],
+        "description": "Versatile (1d10)",
+        "versatileDamage": "1d10",
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "whip",
+        "name": "Whip",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "melee",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "slashing"
+        },
+        "range": "Melee",
+        "reach": 10,
+        "properties": [
+            "Finesse",
+            "reach"
+        ],
+        "description": "Finesse, reach",
+        "finesse": true,
+        "addAbilityToDamage": true,
+        "weight": 3
+    },
+    {
+        "key": "blowgun",
+        "name": "Blowgun",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "flat": 1,
+            "type": "piercing"
+        },
+        "range": "25/100 ft",
+        "rangeNormal": 25,
+        "rangeLong": 100,
+        "properties": [
+            "Ammunition",
+            "loading"
+        ],
+        "description": "Ammunition, loading",
+        "loading": true,
+        "ammunition": "needle",
+        "addAbilityToDamage": true,
+        "weight": 1
+    },
+    {
+        "key": "hand crossbow",
+        "name": "Hand crossbow",
+        "alternateNames": [
+            "Crossbow, Hand"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d6",
+            "count": 1,
+            "die": 6,
+            "type": "piercing"
+        },
+        "range": "30/120 ft",
+        "rangeNormal": 30,
+        "rangeLong": 120,
+        "properties": [
+            "Ammunition",
+            "light",
+            "loading"
+        ],
+        "description": "Ammunition, light, loading",
+        "light": true,
+        "loading": true,
+        "ammunition": "bolt",
+        "addAbilityToDamage": true,
+        "weight": 3
+    },
+    {
+        "key": "heavy crossbow",
+        "name": "Heavy crossbow",
+        "alternateNames": [
+            "Crossbow, Heavy"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d10",
+            "count": 1,
+            "die": 10,
+            "type": "piercing"
+        },
+        "range": "100/400 ft",
+        "rangeNormal": 100,
+        "rangeLong": 400,
+        "properties": [
+            "Ammunition",
+            "heavy",
+            "loading",
+            "two-handed"
+        ],
+        "description": "Ammunition, heavy, loading, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "loading": true,
+        "ammunition": "bolt",
+        "addAbilityToDamage": true,
+        "weight": 18
+    },
+    {
+        "key": "longbow",
+        "name": "Longbow",
+        "alternateNames": [
+            "Bow, Long"
+        ],
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "piercing"
+        },
+        "range": "150/600 ft",
+        "rangeNormal": 150,
+        "rangeLong": 600,
+        "properties": [
+            "Ammunition",
+            "heavy",
+            "two-handed"
+        ],
+        "description": "Ammunition, heavy, two-handed",
+        "heavy": true,
+        "twoHanded": true,
+        "ammunition": "arrow",
+        "addAbilityToDamage": true,
+        "weight": 2
+    },
+    {
+        "key": "net",
+        "name": "Net",
+        "source": "SRD 66",
+        "category": "Martial",
+        "list": "ranged",
+        "ability": "Dex",
+        "damage": {
+            "special": "―",
+            "type": "Restrained"
+        },
+        "range": "5/15 ft",
+        "rangeNormal": 5,
+        "rangeLong": 15,
+        "properties": [
+            "Thrown",
+            "only 1 attack",
+            "up to large creature hit is restrained"
+        ],
+        "description": "Thrown, only 1 attack, up to large creature hit is restrained",
+        "thrown": true,
+        "addAbilityToDamage": false,
+        "weight": 3,
+        "special": true
+    },
+    {
+        "key": "improvised weapon",
+        "name": "Improvised weapon",
+        "source": "SRD 65",
+        "category": "Improvised Weapons",
+        "ability": "Str",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "bludgeoning"
+        },
+        "range": "Melee, 20/60 ft",
+        "reach": 5,
+        "rangeNormal": 20,
+        "rangeLong": 60,
+        "properties": [
+            "Damage die",
+            "type",
+            "range",
+            "etc. are at the DM's discretion"
+        ],
+        "description": "Damage die, type, range, etc. are at the DM's discretion",
+        "addAbilityToDamage": true
+    },
+    {
+        "key": "alchemist fire",
+        "name": "Alchemist's Fire",
+        "source": "SRD 66",
+        "category": "Improvised Weapons",
+        "list": "improvised",
+        "ability": "Dex",
+        "damage": {
+            "dice": "1d4",
+            "count": 1,
+            "die": 4,
+            "type": "fire"
+        },
+        "range": "20 ft",
+        "properties": [
+            "Target +1d4 damage at the start of each of its turn"
+        ],
+        "description": "Target +1d4 damage at the start of each of its turn; Can end it as an action with a DC 10 Dex check",
+        "ammunition": "alchemist fire",
+        "addAbilityToDamage": false,
+        "isNotWeapon": true,
+        "weight": 1
+    },
+    {
+        "key": "vials of acid",
+        "name": "Vial of Acid",
+        "source": "SRD 66",
+        "category": "Improvised Weapons",
+        "list": "improvised",
+        "ability": "Dex",
+        "damage": {
+            "dice": "2d6",
+            "count": 2,
+            "die": 6,
+            "type": "acid"
+        },
+        "range": "20 ft",
+        "ammunition": "vials of acid",
+        "addAbilityToDamage": false,
+        "isNotWeapon": true,
+        "weight": 1
+    },
+    {
+        "key": "holy water",
+        "name": "Holy Water",
+        "source": "SRD 67",
+        "category": "Improvised Weapons",
+        "list": "improvised",
+        "ability": "Dex",
+        "damage": {
+            "dice": "2d6",
+            "count": 2,
+            "die": 6,
+            "type": "radiant"
+        },
+        "range": "20 ft",
+        "properties": [
+            "Only does damage against fiends and undead"
+        ],
+        "description": "Only does damage against fiends and undead; Comes in flasks",
+        "ammunition": "holy water",
+        "addAbilityToDamage": false,
+        "isNotWeapon": true,
+        "weight": 1
+    },
+    {
+        "key": "burning torch",
+        "name": "Torch, Burning",
+        "source": "SRD 68",
+        "category": "Improvised Weapons",
+        "list": "improvised",
+        "ability": "Str",
+        "damage": {
+            "flat": 1,
+            "type": "fire"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Only does damage while burning"
+        ],
+        "description": "Only does damage while burning",
+        "addAbilityToDamage": false,
+        "isNotWeapon": true,
+        "weight": 1
+    },
+    {
+        "key": "spell attack",
+        "name": "Spell attack",
+        "source": "SRD 103",
+        "category": "Spell",
+        "damage": {
+            "special": "",
+            "type": ""
+        },
+        "range": "",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "acid splash",
+        "name": "Acid Splash",
+        "source": "SRD 114",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d6",
+            "die": 6,
+            "type": "acid",
+            "scalesWithCantripDie": true
+        },
+        "range": "60 ft",
+        "properties": [
+            "Dex save",
+            "success - no damage"
+        ],
+        "description": "Dex save, success - no damage; 1 or 2 creatures within 5 ft of each other",
+        "savingThrow": "Dex",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "chill touch",
+        "name": "Chill Touch",
+        "source": "SRD 124",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "die": 8,
+            "type": "necrotic",
+            "scalesWithCantripDie": true
+        },
+        "range": "120 ft",
+        "properties": [
+            "Target can't regain HP"
+        ],
+        "description": "Target can't regain HP; Undead dis. on attacks vs. me until my next turn",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "eldritch blast",
+        "name": "Eldritch Blast",
+        "source": "SRD 139",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d10",
+            "die": 10,
+            "type": "force",
+            "scalesWithCantripDie": true,
+            "perBeam": true
+        },
+        "range": "120 ft",
+        "properties": [
+            "Each d10 is a separate beam requiring separate rolls"
+        ],
+        "description": "Each d10 is a separate beam requiring separate rolls",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "fire bolt",
+        "name": "Fire Bolt",
+        "source": "SRD 144",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d10",
+            "die": 10,
+            "type": "fire",
+            "scalesWithCantripDie": true
+        },
+        "range": "120 ft",
+        "properties": [
+            "Unattended flammable objects ignite"
+        ],
+        "description": "Unattended flammable objects ignite",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "poison spray",
+        "name": "Poison Spray",
+        "source": "SRD 169",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d12",
+            "die": 12,
+            "type": "poison",
+            "scalesWithCantripDie": true
+        },
+        "range": "10 ft",
+        "properties": [
+            "Con save",
+            "success - no damage"
+        ],
+        "description": "Con save, success - no damage; 1 creature",
+        "savingThrow": "Con",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "produce flame",
+        "name": "Produce Flame",
+        "source": "SRD 172",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "die": 8,
+            "type": "fire",
+            "scalesWithCantripDie": true
+        },
+        "range": "30 ft",
+        "properties": [
+            "10-ft radius bright light and 10-ft radius dim light until thrown"
+        ],
+        "description": "10-ft radius bright light and 10-ft radius dim light until thrown",
+        "light": true,
+        "thrown": true,
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "ray of frost",
+        "name": "Ray of Frost",
+        "source": "SRD 174",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "die": 8,
+            "type": "cold",
+            "scalesWithCantripDie": true
+        },
+        "range": "60 ft",
+        "properties": [
+            "Target -10 ft speed until start of my next turn"
+        ],
+        "description": "Target -10 ft speed until start of my next turn",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "sacred flame",
+        "name": "Sacred Flame",
+        "source": "SRD 176",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "die": 8,
+            "type": "radiant",
+            "scalesWithCantripDie": true
+        },
+        "range": "60 ft",
+        "properties": [
+            "Dex save",
+            "no bonus from cover",
+            "success - no damage"
+        ],
+        "description": "Dex save, no bonus from cover, success - no damage; 1 creature",
+        "savingThrow": "Dex",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "shillelagh",
+        "name": "Shillelagh",
+        "source": "SRD 179",
+        "category": "Simple",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "count": 1,
+            "die": 8,
+            "type": "bludgeoning"
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Imbued club or quarterstaff"
+        ],
+        "description": "Imbued club or quarterstaff; Counts as a magical weapon",
+        "monkWeapon": true,
+        "addAbilityToDamage": true
+    },
+    {
+        "key": "shocking grasp",
+        "name": "Shocking Grasp",
+        "source": "SRD 179",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d8",
+            "die": 8,
+            "type": "lightning",
+            "scalesWithCantripDie": true
+        },
+        "range": "Melee",
+        "reach": 5,
+        "properties": [
+            "Advantage if target is wearing metal armor",
+            "target cannot take reactions until its next turn"
+        ],
+        "description": "Advantage if target is wearing metal armor, target cannot take reactions until its next turn",
+        "addAbilityToDamage": false
+    },
+    {
+        "key": "vicious mockery",
+        "name": "Vicious Mockery",
+        "source": "SRD 189",
+        "category": "Cantrip",
+        "list": "spell",
+        "ability": "spellcasting",
+        "damage": {
+            "dice": "1d4",
+            "die": 4,
+            "type": "psychic",
+            "scalesWithCantripDie": true
+        },
+        "range": "60 ft",
+        "properties": [
+            "Wis save",
+            "success - no damage",
+            "fail - also disadv. on next attack roll in next turn"
+        ],
+        "description": "Wis save, success - no damage, fail - also disadv. on next attack roll in next turn; 1 creature",
+        "savingThrow": "Wis",
+        "addAbilityToDamage": false
+    }
+]

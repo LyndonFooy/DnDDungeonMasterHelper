@@ -1,0 +1,1000 @@
+[
+    {
+        "key": "abacus",
+        "name": "Abacus",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "acid (vial)",
+        "name": "Acid, vials of",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "alchemist's fire (flask)",
+        "name": "Alchemist's fire, flasks of",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "animal feed (1 day)",
+        "name": "Animal feed, days of",
+        "cost": {
+            "amount": 5,
+            "unit": "cp"
+        },
+        "amount": 1,
+        "weight": 10
+    },
+    {
+        "key": "arrows (20)",
+        "name": "Arrows",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 20,
+        "weight": 0.05,
+        "type": "ammunition"
+    },
+    {
+        "key": "blowgun needles (50)",
+        "name": "Blowgun needles",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 50,
+        "weight": 0.02,
+        "type": "ammunition"
+    },
+    {
+        "key": "crossbow bolts (20)",
+        "name": "Crossbow bolts",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 20,
+        "weight": 0.075,
+        "type": "ammunition"
+    },
+    {
+        "key": "sling bullets (20)",
+        "name": "Sling bullets",
+        "cost": {
+            "amount": 4,
+            "unit": "cp"
+        },
+        "amount": 20,
+        "weight": 0.075,
+        "type": "ammunition"
+    },
+    {
+        "key": "antitoxin (vial)",
+        "name": "Antitoxin, vials of",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "crystal",
+        "name": "Crystal arcane focus",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "arcane focus"
+    },
+    {
+        "key": "orb",
+        "name": "Orb arcane focus",
+        "cost": {
+            "amount": 20,
+            "unit": "gp"
+        },
+        "weight": 3,
+        "type": "arcane focus"
+    },
+    {
+        "key": "rod",
+        "name": "Rod arcane focus",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "arcane focus"
+    },
+    {
+        "key": "staff",
+        "name": "Staff arcane focus",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 4,
+        "type": "arcane focus"
+    },
+    {
+        "key": "wand",
+        "name": "Wand arcane focus",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "arcane focus"
+    },
+    {
+        "key": "backpack",
+        "name": "Backpack",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "ball bearings (bag of 1,000)",
+        "name": "Bag of 1000 ball bearings",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "barrel",
+        "name": "Barrel",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 70
+    },
+    {
+        "key": "basket",
+        "name": "Basket",
+        "cost": {
+            "amount": 4,
+            "unit": "sp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "bedroll",
+        "name": "Bedroll",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 7
+    },
+    {
+        "key": "bell",
+        "name": "Bell",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "bit and bridle",
+        "name": "Bit and bridle",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "blanket",
+        "name": "Blanket",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "block and tackle",
+        "name": "Block and tackle",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "book",
+        "name": "Book",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "bottle, glass",
+        "name": "Glass bottle",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "bucket",
+        "name": "Bucket",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "caltrops",
+        "name": "Caltrops",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 20,
+        "weight": 0.1
+    },
+    {
+        "key": "candle",
+        "name": "Candle",
+        "cost": {
+            "amount": 1,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "case, crossbow bolt",
+        "name": "Crossbow bolt case",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "case, map or scroll",
+        "name": "Map or scroll case",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "chain (10 feet)",
+        "name": "Chain, feet of",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "amount": 10,
+        "weight": 1
+    },
+    {
+        "key": "chalk (1 piece)",
+        "name": "Chalk, pieces of",
+        "cost": {
+            "amount": 1,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "chest",
+        "name": "Chest",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 25
+    },
+    {
+        "key": "climber's kit",
+        "name": "Climber's kit",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 12
+    },
+    {
+        "key": "common",
+        "name": "Common clothes",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 3,
+        "type": "clothes"
+    },
+    {
+        "key": "costume",
+        "name": "Costume clothes",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 4,
+        "type": "clothes"
+    },
+    {
+        "key": "fine",
+        "name": "Fine clothes",
+        "cost": {
+            "amount": 15,
+            "unit": "gp"
+        },
+        "weight": 6,
+        "type": "clothes"
+    },
+    {
+        "key": "traveler's",
+        "name": "Traveler's clothes",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 4,
+        "type": "clothes"
+    },
+    {
+        "key": "component pouch",
+        "name": "Component pouch",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "crowbar",
+        "name": "Crowbar",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "sprig of mistletoe",
+        "name": "Sprig of mistletoe druidic focus",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": "",
+        "type": "druidic focus"
+    },
+    {
+        "key": "totem",
+        "name": "Totem druidic focus",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": "",
+        "type": "druidic focus"
+    },
+    {
+        "key": "wooden staff",
+        "name": "Wooden staff druidic focus",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 4,
+        "type": "druidic focus"
+    },
+    {
+        "key": "yew wand",
+        "name": "Yew wand druidic focus",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "druidic focus"
+    },
+    {
+        "key": "fishing tackle",
+        "name": "Fishing tackle",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 4
+    },
+    {
+        "key": "flask or tankard",
+        "name": "Flask or tankard",
+        "cost": {
+            "amount": 2,
+            "unit": "cp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "grappling hook",
+        "name": "Grappling hook",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 4
+    },
+    {
+        "key": "hammer",
+        "name": "Hammer",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "hammer, sledge",
+        "name": "Sledge hammer",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 10
+    },
+    {
+        "key": "healer's kit",
+        "name": "Healer's kit",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "amulet",
+        "name": "Amulet holy symbol",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "holy symbol"
+    },
+    {
+        "key": "emblem",
+        "name": "Emblem holy symbol",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": "",
+        "type": "holy symbol"
+    },
+    {
+        "key": "reliquary",
+        "name": "Reliquary holy symbol",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "holy symbol"
+    },
+    {
+        "key": "holy water (flask)",
+        "name": "Holy water, flasks of",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "hourglass",
+        "name": "Hourglass",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "hunting trap",
+        "name": "Hunting trap",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 25
+    },
+    {
+        "key": "ink (1 ounce bottle)",
+        "name": "Ink, 1 ounce bottle of",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "ink pen",
+        "name": "Ink pen",
+        "cost": {
+            "amount": 2,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "jug or pitcher",
+        "name": "Jug or pitcher",
+        "cost": {
+            "amount": 2,
+            "unit": "cp"
+        },
+        "weight": 4
+    },
+    {
+        "key": "small knife",
+        "name": "Small Knife",
+        "cost": {
+            "amount": 1,
+            "unit": "sp"
+        },
+        "weight": 0.25
+    },
+    {
+        "key": "ladder (10-foot)",
+        "name": "10-foot ladder",
+        "cost": {
+            "amount": 1,
+            "unit": "sp"
+        },
+        "weight": 25
+    },
+    {
+        "key": "lamp",
+        "name": "Lamp",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "lantern, bullseye",
+        "name": "Bullseye lantern",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "lantern, hooded",
+        "name": "Hooded lantern",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "lock",
+        "name": "Lock",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "magnifying glass",
+        "name": "Magnifying glass",
+        "cost": {
+            "amount": 100,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "manacles",
+        "name": "Manacles",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 6
+    },
+    {
+        "key": "mess kit",
+        "name": "Mess kit",
+        "cost": {
+            "amount": 2,
+            "unit": "sp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "mirror, steel",
+        "name": "Steel mirror",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 0.5
+    },
+    {
+        "key": "oil (flask)",
+        "name": "Oil, flasks of",
+        "cost": {
+            "amount": 1,
+            "unit": "sp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "paper (one sheet)",
+        "name": "Paper, sheets of",
+        "cost": {
+            "amount": 2,
+            "unit": "sp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "parchment (one sheet)",
+        "name": "Parchment, sheets of",
+        "cost": {
+            "amount": 1,
+            "unit": "sp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "perfume (vial)",
+        "name": "Perfume, vials of",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "pick, miner's",
+        "name": "Miner's pick",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 10
+    },
+    {
+        "key": "piton",
+        "name": "Piton",
+        "cost": {
+            "amount": 5,
+            "unit": "cp"
+        },
+        "weight": 0.25
+    },
+    {
+        "key": "poison, basic (vial)",
+        "name": "Basic poison, vials of",
+        "cost": {
+            "amount": 100,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "pole (10-foot)",
+        "name": "10-foot pole",
+        "cost": {
+            "amount": 5,
+            "unit": "cp"
+        },
+        "weight": 7
+    },
+    {
+        "key": "pot, iron",
+        "name": "Iron pot",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 10
+    },
+    {
+        "key": "potion of healing",
+        "name": "Potion of healing",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 0.5
+    },
+    {
+        "key": "pouch",
+        "name": "Pou﻿ch",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "quiver",
+        "name": "Quiver",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "ram, portable",
+        "name": "Portable ram",
+        "cost": {
+            "amount": 4,
+            "unit": "gp"
+        },
+        "weight": 35
+    },
+    {
+        "key": "rations (1 day)",
+        "name": "Rations, days of",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "amount": 1,
+        "weight": 2
+    },
+    {
+        "key": "robes",
+        "name": "Robes",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 4
+    },
+    {
+        "key": "rope, hempen (50 feet)",
+        "name": "Hempen rope, feet of",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 50,
+        "weight": 0.2
+    },
+    {
+        "key": "rope, silk (50 feet)",
+        "name": "Silk rope, feet of",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "amount": 50,
+        "weight": 0.1
+    },
+    {
+        "key": "sack",
+        "name": "Sack",
+        "cost": {
+            "amount": 1,
+            "unit": "cp"
+        },
+        "weight": 0.5
+    },
+    {
+        "key": "exotic",
+        "name": "Exotic saddle",
+        "cost": {
+            "amount": 60,
+            "unit": "gp"
+        },
+        "weight": 40,
+        "type": "saddle"
+    },
+    {
+        "key": "military",
+        "name": "Military saddle",
+        "cost": {
+            "amount": 20,
+            "unit": "gp"
+        },
+        "weight": 30,
+        "type": "saddle"
+    },
+    {
+        "key": "pack",
+        "name": "Pack saddle",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 15,
+        "type": "saddle"
+    },
+    {
+        "key": "riding",
+        "name": "Riding saddle",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 25,
+        "type": "saddle"
+    },
+    {
+        "key": "saddlebags",
+        "name": "Saddlebags",
+        "cost": {
+            "amount": 4,
+            "unit": "gp"
+        },
+        "weight": 8
+    },
+    {
+        "key": "scale, merchant's",
+        "name": "Merchant's scale",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "sealing wax",
+        "name": "Sealing wax",
+        "cost": {
+            "amount": 5,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "shovel",
+        "name": "Shovel",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "signal whistle",
+        "name": "Signal whistle",
+        "cost": {
+            "amount": 5,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "signet ring",
+        "name": "Signet ring",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "soap",
+        "name": "Soap",
+        "cost": {
+            "amount": 2,
+            "unit": "cp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "spellbook",
+        "name": "Spellbook",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "spikes, iron (10)",
+        "name": "Iron spike",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "amount": 10,
+        "weight": 0.5
+    },
+    {
+        "key": "spyglass",
+        "name": "Spyglass",
+        "cost": {
+            "amount": 1000,
+            "unit": "gp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "tent, two-person",
+        "name": "Two-person tent",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 20
+    },
+    {
+        "key": "tinderbox",
+        "name": "Tinderbox",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "torch",
+        "name": "Torch",
+        "cost": {
+            "amount": 1,
+            "unit": "cp"
+        },
+        "weight": 1
+    },
+    {
+        "key": "vial",
+        "name": "Vial",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": ""
+    },
+    {
+        "key": "waterskin",
+        "name": "Waterskin",
+        "cost": {
+            "amount": 2,
+            "unit": "sp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "whetstone",
+        "name": "Whetstone",
+        "cost": {
+            "amount": 1,
+            "unit": "cp"
+        },
+        "weight": 1
+    }
+]

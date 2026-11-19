@@ -1,0 +1,159 @@
+<div id="Martial-content">
+
+<h2 id="toc0"><span>The Martial</span></h2>
+<p>A Martial NPC is a catch-all for combat-focused creatures with no natural access to magic, striking again and again with relentless speed. It might be a martial adventurer, a bandit, a knight, a duelist or any other skilled fighter. It has no equipment preferences: the armor and weapons it trains with are picked up at random as it gains levels. It can still gain magic through feats and magic items.</p>
+<p>A NPC gains the following class features as it gains levels, as summarized on the Martial table.</p>
+<h4 id="toc1"><span>The Martial</span></h4>
+<table class="wiki-content-table">
+<tbody><tr>
+<th colspan="4">The Martial</th>
+</tr>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Attacks</th>
+<th>Features</th>
+</tr>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>1</td>
+<td>Bonus Proficiencies, Tenacity</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td>1</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>1</td>
+<td>Combat Training</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td>2</td>
+<td>Extra Attack</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>2</td>
+<td>Tenacity</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td>2</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>2</td>
+<td>Combat Training</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td>3</td>
+<td>Extra Attack Improvement</td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td>3</td>
+<td>Tenacity</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>3</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td>3</td>
+<td>Combat Training</td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>3</td>
+<td></td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td>4</td>
+<td>Extra Attack Improvement</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>4</td>
+<td>Tenacity</td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>4</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td>4</td>
+<td>Combat Training</td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>5</td>
+<td>Extra Attack Improvement</td>
+</tr>
+</tbody></table>
+<h3 id="toc2"><span>Bonus Proficiencies</span></h3>
+<p><em>1st-level Martial feature</em></p>
+<p>The NPC gains proficiency in two skills of your choice from the following list: Acrobatics, Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.</p>
+<p>The NPC gains no armor proficiency. If it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with all simple weapons.</p>
+<p><strong>Hit Dice.</strong> The NPC uses a d8 for its hit dice.</p>
+<h3 id="toc3"><span>Tenacity</span></h3>
+<p><em>1st-level Martial feature</em><br>
+The NPC gains proficiency in one saving throw, chosen at random from those it isn't already proficient in.</p>
+<p>The NPC gains proficiency in another random saving throw at 6th, 11th, and 16th level, for four in total.</p>
+<h3 id="toc4"><span>Combat Training</span></h3>
+<p><em>3rd-level Martial feature</em><br>
+The NPC gains proficiency with one of the following, chosen at random from those it isn't already proficient with: light armor, medium armor, heavy armor, shields, or martial weapons.</p>
+<p>The NPC gains another of these proficiencies at 8th, 13th, and 19th level. A proficiency the NPC already has, for example from a feat such as Lightly Armored or Moderately Armored, is never chosen again. If the NPC already has all of them, this feature grants nothing.</p>
+<h3 id="toc5"><span>Ability Score Improvement</span></h3>
+<p><em>2nd-level Martial feature</em></p>
+<p>At 2nd level and again at 7th, 12th, and 18th level, the NPC increases one ability score of your choice by 2, or the NPC increases two ability scores of your choice by 1. The NPC can't increase an ability score above 20 using this feature. Alternatively, the NPC can take a feat of your choice for which it qualifies.</p>
+<h3 id="toc6"><span>Extra Attack</span></h3>
+<p><em>5th-level Martial feature</em><br>
+The NPC can attack twice, instead of once, whenever it takes the Attack action on its turn.</p>
+<p>The number of attacks increases to three when the NPC reaches 10th level, to four at 15th level, and to five at 20th level.</p>
+<p>If the NPC has the Multiattack action, it can use Extra Attack or Multiattack on a turn, not both.</p>
+</div>

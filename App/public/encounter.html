@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Random Encounter</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="statblock.css">
+	<link rel="stylesheet" href="site.css">
+</head>
+<body class="encounter-page">
+	<header class="toolbar">
+		<div class="title-group">
+			<a class="home-link" href="/">&larr; Home</a>
+			<h1 class="app-title">Random Encounter</h1>
+		</div>
+	</header>
+
+	<div class="encounter-layout">
+	<aside class="env-panel" aria-labelledby="env-title">
+		<h2 id="env-title" class="env-title">Environment</h2>
+		<form id="env-form" class="env-form">
+			<label>Environment
+				<select name="env" id="env-select" disabled><option>Loading…</option></select>
+			</label>
+			<button type="submit" id="env-roll" disabled>Roll</button>
+		</form>
+		<p id="env-status" class="env-status"></p>
+		<div id="env-result" class="env-result" aria-live="polite"></div>
+	</aside>
+
+	<main>
+		<div class="encounter-bar">
+			<details class="filters" open>
+				<summary>Filters</summary>
+				<form id="filters">
+					<label>Faction
+						<select name="faction" id="faction-select" disabled><option value="">Loading…</option></select>
+					</label>
+					<label>Number of enemies
+						<input type="number" name="count" min="1" max="20" step="1" placeholder="Random">
+					</label>
+					<label>Sum of NPC levels
+						<input type="number" name="levels" min="1" max="400" step="1" placeholder="Random">
+					</label>
+					<label>Total magic items
+						<input type="number" name="items" min="0" max="60" step="1" placeholder="Random">
+					</label>
+					<button type="submit" id="generate">Generate</button>
+				</form>
+			</details>
+			<button type="button" id="track-player" class="secondary-btn">+ Track player</button>
+		</div>
+
+		<p id="status" class="status">Set the filters (or leave them random) and press <b>Generate</b>.</p>
+		<p id="summary" class="meta encounter-summary"></p>
+		<div id="initiative" class="initiative"></div>
+	</main>
+	</div>
+
+	<div class="turn-controls">
+		<button type="button" id="next-turn">Next character</button>
+		<span id="round" class="round"></span>
+	</div>
+
+	<dialog id="player-dialog">
+		<form id="player-form" method="dialog">
+			<h2>Track player</h2>
+			<label>Name
+				<input type="text" name="name" required maxlength="60" autocomplete="off">
+			</label>
+			<label>Initiative
+				<input type="number" name="initiative" required step="1" min="-10" max="99">
+			</label>
+			<div class="dialog-buttons">
+				<button type="button" value="cancel" class="secondary-btn" id="player-cancel">Cancel</button>
+				<button type="submit" value="add" id="player-add">Add</button>
+			</div>
+		</form>
+	</dialog>
+
+	<script src="statblock.js"></script>
+	<script src="encounter-page.js"></script>
+	<script src="environment-panel.js"></script>
+</body>
+</html>

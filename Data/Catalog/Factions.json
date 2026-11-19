@@ -1,0 +1,62 @@
+[
+    {
+        "name": "The Emerald Enclave",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "The Harpers",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "The Lords' Alliance",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "The Order of the Gauntlet",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "The Zhentarim",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Azorius Senate",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Boros Legion",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "House Dimir",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Golgari Swarm",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Gruul Clans",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Izzet League",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Orzhov Syndicate",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Cult of Rakdos",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Selesnya Conclave",
+        "detailedIn": "Rules/Factions.json"
+    },
+    {
+        "name": "Simic Combine",
+        "detailedIn": "Rules/Factions.json"
+    }
+]

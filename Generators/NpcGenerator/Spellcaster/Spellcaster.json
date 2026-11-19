@@ -1,0 +1,69 @@
+{
+    "_comment": "Spellcaster NPC class, hand-written from ./outline. 'slots' rows are the 1st-5th level slot counts per NPC level; each role's 'lists' are the class spell lists it draws from (and counts as for magic item attunement).",
+    "key": "spellcaster",
+    "name": "Spellcaster",
+    "source": "Generators/NpcGenerator/Spellcaster/outline",
+    "hitDie": 8,
+    "savingThrows": [],
+    "skillChoice": { "count": 2, "from": ["Arcana", "History", "Insight", "Investigation", "Medicine", "Performance", "Persuasion", "Religion"] },
+    "armorProficiencies": [],
+    "weaponProficiencies": { "simple": true, "martial": false, "specific": [] },
+    "weapons": { "category": "Simple", "exclude": [] },
+    "abilityPriority": ["Dex", "Wis", "Cha", "Int", "Str"],
+    "asiLevels": [4, 8, 12, 16, 18],
+    "excludedFeats": ["moderately armored", "heavily armored", "Weapon Master", "Artificer Initiate", "Gunner"],
+    "attacksPerLevel": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "spellcasting": {
+        "progression": "table",
+        "preparation": "known",
+        "maxSpellLevel": 5,
+        "cantripsKnown": [2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+        "spellsKnown": [1, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11],
+        "slots": [
+            [2], [2], [3], [3], [4, 2], [4, 2], [4, 3], [4, 3], [4, 3, 2], [4, 3, 2],
+            [4, 3, 3], [4, 3, 3], [4, 3, 3, 1], [4, 3, 3, 1], [4, 3, 3, 2], [4, 3, 3, 2],
+            [4, 3, 3, 3, 1], [4, 3, 3, 3, 1], [4, 3, 3, 3, 2], [4, 3, 3, 3, 2]
+        ],
+        "roles": [
+            { "key": "mage", "name": "Mage", "lists": ["wizard"], "ability": "Int", "focus": "Arcane focus", "signatureSpells": ["Fire Bolt", "Mage Armor"] },
+            { "key": "healer", "name": "Healer", "lists": ["cleric", "druid"], "ability": "Wis", "focus": "Holy symbol", "signatureSpells": ["Sacred Flame", "Cure Wounds"] },
+            { "key": "prodigy", "name": "Prodigy", "lists": ["bard", "warlock"], "ability": "Cha", "focus": "Arcane focus", "signatureSpells": ["Eldritch Blast", "Healing Word"] }
+        ]
+    },
+    "features": [
+        {
+            "key": "bonus proficiencies",
+            "name": "Bonus Proficiencies",
+            "level": 1,
+            "description": "Proficiency in one saving throw (Wisdom, Intelligence, or Charisma), two skills, light armor and all simple weapons.",
+            "savingThrowChoice": { "count": 1, "from": ["Wis", "Int", "Cha"] }
+        },
+        {
+            "key": "spellcasting",
+            "name": "Spellcasting",
+            "level": 1,
+            "description": ""
+        },
+        {
+            "key": "potent cantrips",
+            "name": "Potent Cantrips",
+            "level": 6,
+            "description": "The [MON] adds its spellcasting ability modifier to the damage it deals with any cantrip.",
+            "potentCantrips": true,
+            "omit": true
+        },
+        {
+            "key": "empowered spells",
+            "name": "Empowered Spells",
+            "level": 14,
+            "description": "Whenever the [MON] casts a spell of the {school} school by expending a spell slot, it can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.",
+            "schoolChoice": true
+        },
+        {
+            "key": "focused casting",
+            "name": "Focused Casting",
+            "level": 20,
+            "description": "Taking damage can't break the [MON]'s concentration on a spell."
+        }
+    ]
+}

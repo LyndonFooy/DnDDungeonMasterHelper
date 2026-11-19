@@ -1,0 +1,47 @@
+[
+    {
+        "table": "A",
+        "tier": 1,
+        "points": 8
+    },
+    {
+        "table": "B",
+        "tier": 1,
+        "points": 8
+    },
+    {
+        "table": "C",
+        "tier": 1,
+        "points": 8
+    },
+    {
+        "table": "D",
+        "tier": 2,
+        "points": 16
+    },
+    {
+        "table": "E",
+        "tier": 3,
+        "points": 16
+    },
+    {
+        "table": "F",
+        "tier": 1,
+        "points": 16
+    },
+    {
+        "table": "G",
+        "tier": 2,
+        "points": 20
+    },
+    {
+        "table": "H",
+        "tier": 3,
+        "points": 20
+    },
+    {
+        "table": "I",
+        "tier": 3,
+        "points": 24
+    }
+]

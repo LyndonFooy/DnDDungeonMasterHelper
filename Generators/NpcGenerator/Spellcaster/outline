@@ -1,0 +1,317 @@
+<div id="Spellcaster-content">
+
+<h2 id="toc0"><span>The Spellcaster</span></h2>
+<p>A NPC who becomes a Spellcaster walks the paths of magic. The NPC might be a hedge wizard, a priest, a soothsayer, a magical performer, or a person with magic in their veins.</p>
+<p>To gain the Spellcaster class, a creature must have at least one language in its stat block that it can speak.</p>
+<p>A NPC gains the following class features as it gains levels, as summarized on the Spellcaster table.</p>
+<h4 id="toc1"><span>The Spellcaster</span></h4>
+<table class="wiki-content-table">
+<tbody><tr>
+<th colspan="5">The Spellcaster</th>
+<th colspan="5">Spell Slots per Spell Level</th>
+</tr>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Features</th>
+<th>Cantrips Known</th>
+<th>Spells Known</th>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+</tr>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>Bonus Proficiencies, Spellcasting</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td></td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>Ability Score Improvement</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td></td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>Potent Cantrips</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td></td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>Ability Score Improvement</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td></td>
+<td>3</td>
+<td>6</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td></td>
+<td>4</td>
+<td>6</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td></td>
+<td>4</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>Ability Score Improvement</td>
+<td>4</td>
+<td>7</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td></td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>Empowered Spells</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td></td>
+<td>4</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>Ability Score Improvement</td>
+<td>4</td>
+<td>9</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td></td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>Ability Score Improvement</td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td></td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>Focused Casting</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+</tbody></table>
+<h3 id="toc2"><span>Bonus Proficiencies</span></h3>
+<p><em>1st-level Spellcaster feature</em><br>
+The NPC gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.</p>
+<p>In addition, the NPC gains proficiency in two skills of your choice from the following list: Arcana, History, Insight, Investigation, Medicine, Performance, Persuasion, and Religion.</p>
+<p>The NPC gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.</p>
+<h3 id="toc3"><span>Spellcasting</span></h3>
+<p><em>1st-level Spellcaster feature</em><br>
+The NPC gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose the Spellcaster's role: Mage, Healer, or Prodigy. This choice determines the spell list and spellcasting ability used by the NPC, as shown on the Spellcasting table.</p>
+<table class="wiki-content-table">
+<tbody><tr>
+<th>Role</th>
+<th>Spell List</th>
+<th>Ability</th>
+</tr>
+<tr>
+<td>Mage</td>
+<td><a href="http://dnd5e.wikidot.com/spells:wizard">Wizard</a></td>
+<td>Intelligence</td>
+</tr>
+<tr>
+<td>Healer</td>
+<td><a href="http://dnd5e.wikidot.com/spells:cleric">Cleric</a> and <a href="http://dnd5e.wikidot.com/spells:druid">Druid</a></td>
+<td>Wisdom</td>
+</tr>
+<tr>
+<td>Prodigy</td>
+<td><a href="http://dnd5e.wikidot.com/spells:Bard">Bard</a> and <a href="http://dnd5e.wikidot.com/spells:warlock">Warlock</a></td>
+<td>Charisma</td>
+</tr>
+</tbody></table>
+<p><strong>Spell Slots.</strong> The Spellcaster table shows how many spell slots the NPC has to cast its Spellcaster spells of 1st level and higher. To cast one of these spells, the NPC must expend a slot of the spell's level or higher. The NPC regains all expended spell slots when it finishes a long rest.</p>
+<p><strong>Spells Known.</strong> The NPC knows two cantrips and one 1st-level spell of your choice from its spell list.</p>
+<p>The Cantrips Known and Spells Known columns of the Spellcaster table shows when the NPC learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the NPC has spell slots, as shown on the table. For instance, when the NPC reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.</p>
+<p>Additionally, when the NPC gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the NPC has spell slots.</p>
+<p><strong>Spellcasting Ability.</strong> The NPC's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.</p>
+<p>The NPC uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.</p>
+<p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your spellcasting modifier</p>
+<p><strong>Spell attack modifier</strong> = your proficiency bonus + your spellcasting modifier</p>
+<p><strong>Spellcasting Focus.</strong> The NPC can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Priest can use a holy symbol, and a Prodigy can use an arcane focus or a musical instrument.</p>
+<h3 id="toc4"><span>Ability Score Improvement</span></h3>
+<p><em>4th-level Spellcaster feature</em><br>
+At 4th level and again at 8th, 12th, 16th, and 18th level, the NPC increases one ability score of your choice by 2, or the NPC increases two ability scores of your choice by 1. The NPC can't increase an ability score above 20 using this feature.</p>
+<h3 id="toc5"><span>Potent Cantrips</span></h3>
+<p><em>6th-level Spellcaster feature</em><br>
+The NPC can add its spellcasting ability modifier to the damage it deals with any cantrip.</p>
+<h3 id="toc6"><span>Empowered Spells</span></h3>
+<p><em>14th-level Spellcaster feature</em><br>
+Choose one school of magic. Whenever the NPC casts a spell of that school by expending a spell slot, the NPC can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.</p>
+<h3 id="toc7"><span>Focused Casting</span></h3>
+<p><em>20th-level Spellcaster feature</em></p>
+<p>Taking damage can't break the NPC's concentration on a spell.</p>
+</div>

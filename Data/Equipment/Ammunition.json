@@ -1,0 +1,138 @@
+[
+    {
+        "key": "arrow",
+        "name": "Arrows",
+        "source": "SRD 69",
+        "weight": 0.05,
+        "icon": "Arrows"
+    },
+    {
+        "key": "bolt",
+        "name": "Bolts",
+        "source": "SRD 69",
+        "weight": 0.075,
+        "icon": "Arrows",
+        "inventoryName": "Crossbow bolts"
+    },
+    {
+        "key": "bullet",
+        "name": "Bullets",
+        "source": "SRD 69",
+        "weight": 0.075,
+        "icon": "Bullets",
+        "inventoryName": "Sling bullets",
+        "alternateNames": [
+            {}
+        ]
+    },
+    {
+        "key": "dagger",
+        "name": "Daggers",
+        "source": "SRD 66",
+        "weight": 1,
+        "icon": "Daggers"
+    },
+    {
+        "key": "dart",
+        "name": "Darts",
+        "source": "SRD 66",
+        "weight": 0.25,
+        "icon": "Arrows"
+    },
+    {
+        "key": "flask",
+        "name": "Flasks (1 pint)",
+        "source": "SRD 69",
+        "weight": 1,
+        "icon": "Flasks"
+    },
+    {
+        "key": "handaxe",
+        "name": "Handaxes",
+        "source": "SRD 66",
+        "weight": 2,
+        "icon": "Axes",
+        "alternateNames": [
+            "axe"
+        ]
+    },
+    {
+        "key": "javelin",
+        "name": "Javelins",
+        "source": "SRD 66",
+        "weight": 2,
+        "icon": "Spears"
+    },
+    {
+        "key": "light hammer",
+        "name": "Light Hammers",
+        "source": "SRD 66",
+        "weight": 2,
+        "icon": "Hammers",
+        "alternateNames": [
+            "hammer"
+        ]
+    },
+    {
+        "key": "needle",
+        "name": "Needles",
+        "source": "SRD 66",
+        "weight": 0.02,
+        "icon": "Bullets",
+        "inventoryName": "Blowgun needles"
+    },
+    {
+        "key": "spear",
+        "name": "Spears",
+        "source": "SRD 66",
+        "weight": 3,
+        "icon": "Spears"
+    },
+    {
+        "key": "trident",
+        "name": "Tridents",
+        "source": "SRD 66",
+        "weight": 4,
+        "icon": "Spears"
+    },
+    {
+        "key": "vial",
+        "name": "Vials (4 ounces)",
+        "source": "SRD 69",
+        "weight": 0.25,
+        "icon": "Vials"
+    },
+    {
+        "key": "alchemist fire",
+        "name": "Alchemist's Fire, flasks",
+        "source": "SRD 66",
+        "weight": 1,
+        "icon": "Flasks",
+        "inventoryName": "Alchemist's fire, flasks of",
+        "alternateNames": [
+            {}
+        ]
+    },
+    {
+        "key": "vials of acid",
+        "name": "Vials of Acid",
+        "source": "SRD 66",
+        "weight": 1,
+        "icon": "Vials",
+        "inventoryName": "Acid, vials of",
+        "alternateNames": [
+            {}
+        ]
+    },
+    {
+        "key": "holy water",
+        "name": "Holy Water, flasks",
+        "source": "SRD 67",
+        "weight": 1,
+        "icon": "Flasks",
+        "inventoryName": "Holy Water, flasks of",
+        "alternateNames": [
+            {}
+        ]
+    }
+]

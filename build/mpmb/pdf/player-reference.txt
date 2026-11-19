@@ -1,0 +1,197 @@
+AREA OF EFFECT
+CUBE
+ SPHERE CYLINDER
+LINE
+Point of Origin CONE
+PLAYER REFERENCE
+FORCED MARCH
+Marching more than 8 hours per day requires a Con 
+saving throw at DC 10 + 1 per additional hour, at the 
+end of each additional hour. If failed, suffer one level 
+of exhaustion (see conditions).
+FOOD (one pound per day)
+Go without food for 3 + Con modifier of consecutive 
+days (1 day minimum). At the end of each day beyond that, suffer one level of exhaustion (see conditions).
+WATER (one gallon per day)
+If only half a gallon is consumed, DC 15 Con saving throw at end of day. If failed or consumed less than half, suffer 
+one level of exhaustion, or two levels of exhaustion if currently already exhausted (see conditions).
+FALLING
+1d6 bludgeoning damage per 10 feet fallen, to a maximum of 20d6. End prone if taken any damage from the fall.
+SUFFOCATING
+Hold breath for 1 + Con modifier in minutes (30 seconds minimum). After that, survive for Con modifier in 
+rounds, after which drop to 0 hit points and dying.
+SHORT REST
+A short rest takes 1 hour of doing nothing too strenuous. At the end of the rest, spend hit dice to regain hit points.
+LONG REST
+A long rest takes 8 hours with nothing too strenuous for more than 1 hour of that. Regain all hit points and half hit 
+dice at end. If food and water are consumed, reduce exhaustion level by 1. Maximum of 1 long rest per 24 hours.
+ENVIRONMENT
+(PHB 183)
+MELEE ATTACK (one attack)
+Normal attack on target within 5 ft. If attacking with a light 
+melee weapon in one hand, allowed to make an attack with a 
+light melee weapon in other hand as a bonus action, see ‘Two-
+Weapon Fighting’. If either weapon has the thrown property, it 
+may be thrown as part of this action.
+RANGED ATTACK (one attack)
+Normal attack if up to normal range (first number). Disadvantage on the attack if up to long range (second number). 
+Disadvantage on the attack if a hostile that is not incapacitated is within 5 ft and can see the attacker.
+TWO-WEAPON FIGHTING (bonus action with attack action)
+If making an attack with a light melee weapon in one hand, allowed to make an attack with a light melee weapon in 
+other hand as a bonus action. This off-hand attack can’t add a positive ability score modifier to the damage roll. If the 
+weapon has the thrown property, it may be thrown as part of this action. 
+DISARM (instead of one attack) (DMG 271)
+Knock an item from grasp by winning weapon attack roll vs. opponent’s Str (Athletics) or Dex (Acrobatics) check. 
+Disadvantage on the weapon attack roll if the item is being held with two or more hands. Larger opponents have 
+advantage and smaller have disadvantage.
+GRAPPLE (instead of one attack)
+With a free hand, give the grappled condition to an opponent that is within reach and up to one size larger than you 
+by winning Str (Athletics) check vs. opponent’s Str (Athletics) or Dex (Acrobatics) check.
+MARK (with melee attack) (DMG 271)
+With a melee attack you can mark the target of that attack. The next opportunity attack against the marked target 
+before the end of your next turn has advantage and doesn’t cost you your reaction.
+SHOVE (instead of one attack)
+Move opponent 5 ft or make prone by winning opposing Str (Athletics) check. Disadvantage if trying to move the 
+opponent to a side rather than to directly away from you.
+ATTACK ACTION
+(PHB 195)
+BLINDED
+Fail checks involving sight. 
+Attacks have disadvantage. 
+Enemy attacks have advantage.
+CHARMED
+Can’t harm/attack charmer. 
+Charmer has advantage on 
+ability checks to interact socially. 
+DEAFENED
+Fail checks involving hearing.
+FRIGHTENED
+Disadvantage to checks/attacks while the source of fear is in sight. 
+Can’t willingly move closer to the source of fear.
+GRAPPLED
+Speed 0, regardless of bonus. Ends when grappler is incapacitated or when 
+moved out of grappler’s reach by an effect.
+INCAPACITATED
+Can’t take actions or reactions.
+INVISIBLE
+Can’t be seen (normally), but still make noise and tracks. 
+Attacks have advantage. Enemy attacks have disadvantage.
+PARALYZED
+Incapacitated. Can’t move or speak. Fail Str and Dex saving throws. 
+Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits.
+PETRIFIED
+Incapacitated. Can’t move or speak. Unaware of surroundings. Resistance 
+to all damage. Immune to poison / disease. Fail Str and Dex saving throws. 
+Enemy attacks have advantage. Stop aging. Weight increases by factor 10.
+POISONED
+Disadvantage on attack rolls and ability checks.
+PRONE
+Crawl (at ½ speed) or stand up (costs ½ speed). Attacks have disadvantage. 
+Enemy attacks have advantage within 5 ft and disadvantage if further away.
+RESTRAINED
+Speed 0, regardless of bonus. Disadvantage on Dex saving throws. 
+Attacks have disadvantage. Enemy attacks have advantage.
+STUNNED
+Incapacitated. Can’t move. Can speak only falteringly. 
+Fail Str and Dex saving throws. Enemy attacks have advantage.
+UNCONSCIOUS
+Incapacitated. Can’t move or speak. Unaware of surroundings. 
+Drop everything. Fail Str and Dex saving throws. 
+Enemy attacks have advantage. Enemy attacks within 5 ft are critical hits.
+CONDITIONS
+(PHB 290)
+LEVEL EFFECT (cumulative)
+1 Disadvantage on ability checks
+2 Speed halved
+3 Disadvantage on attacks / saves
+4 Hit Point maximum halved
+5 Speed reduced to 0
+6 Death
+ EXHAUSTION  (PHB 291)
+PACE MINUTE HOUR DAY EFFECT
+Fast 400 feet 4 miles 30 miles -5 passive Perception
+Normal 300 feet 3 miles 24 miles ––
+Slow 200 feet 2 miles 18 miles Able to use stealth
+TRAVEL PACE (PHB 182)
+HALF +2 AC and Dex saving throws
+3/4 +5 AC and Dex saving throws
+TOTAL Can’t be targeted directly by attack or spell
+COVER (PHB 196)
+LIGHTLY OBSCURED (dim light) Disadvantage on sight Perception checks
+HEAVILY OBSCURED (darkness) Effectively blinded (see conditions)
+BLINDSIGHT Out to range, perceive without sight.
+DARKVISION Out to range, treat dim light as bright light. Can’t see colors.
+TRUESIGHT Out to range, perceive everything regardless of (magical) darkness, 
+invisibility, illusions, shapechanging, or etherealness.
+LIGHT & VISION
+(PHB 183)
+ATTACK (action)
+Make one melee or ranged attack with a weapon, or 
+multiple attacks with the ‘Extra Attack’ class feature. 
+(See the ‘Attack Action’ section below.)
+CAST A SPELL (casting time of the spell)
+Effect depends on the spell being cast.
+DASH (action)
+Gain your speed as extra movement for this turn.
+DISENGAGE (action)
+Your movement doesn’t provoke opportunity attacks for 
+the rest of the turn.
+DODGE (action)
+Attack rolls from attackers you can see have disadvantage 
+and you have advantage on Dex saving throws until the 
+start of your next turn, until you become incapacitated or 
+your speed drops to 0.
+ESCAPE (action)
+Escape a grapple by winning a Str (Athletics) or Dex 
+(Acrobatics) check vs. grappler’s Str (Athletics) check.
+HELP (action)
+Give an ally advantage on next ability check or attack roll 
+vs. an opponent within 5 ft of you, if done before the 
+start of your next turn.
+HIDE (action)
+Hide from those that can’t perceive you. Your Dex 
+(Stealth) check is the DC for anybody’s Wis (Perception) 
+check to discover you.
+OVERRUN (action or bonus action) (DMG 272)
+Move through hostile’s space once by winning opposing 
+Str (Athletics) check. Advantage if you are larger or 
+disadvantage if you are smaller than the opponent.
+READY (action)
+Choose an action that you will take in response to a set 
+trigger. Taking the action uses your reaction. Readying a 
+spell requires concentration and expends the spell slot.
+SEARCH (action)
+Search for something, possibly with a Wis (Perception) 
+or Int (Investigation) check.
+TUMBLE (action or bonus action) (DMG 272)
+Move through hostile’s space once by winning opposing 
+Dex (Acrobatics) check.
+USE OBJECT (action)
+You can interact with an object once per turn for free. A 
+second interaction and special cases take an action to 
+complete (e.g. draw a second weapon, equip a shield, 
+drink a potion, retrieve an item from a backpack).
+ COMBAT ACTIONS 
+(PHB 192)
+MOVE (limited by movement speed)
+You can move your movement speed every turn. You can break up your 
+movement between actions. You can switch back and forth between different 
+types (e.g. from flying to walking), by subtracting the distance already moved 
+from the new speed.
+You can freely move through a nonhostile’s space, and through a hostile’s 
+space if it is two sizes larger or smaller than you. Another creature’s space 
+counts as difficult terrain.
+CLIMB / SWIM (at ½ speed)
+May involve a Str (Athletics) check if the climb / swim is difficult.
+CRAWL (at ½ speed)
+Crawl while prone (see conditions). Dropping prone costs no movement speed. 
+DIFFICULT TERRAIN (at ½ speed)
+Moving through difficult terrain costs twice as much speed. Another creature’s 
+space counts as difficult terrain.
+JUMP
+After moving at least 10 feet on foot, you can jump your Str score in feet straight 
+forward, or 3 + your Str modifier in feet up. The jump distance is halved when 
+performing a standing jump.
+STAND UP (costs ½ speed)
+Standing up from being prone costs half your movement speed for this turn.
+MOVEMENT (PHB 182)

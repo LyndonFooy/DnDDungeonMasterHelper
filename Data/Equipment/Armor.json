@@ -1,0 +1,148 @@
+[
+    {
+        "key": "unarmored",
+        "name": "Unarmored",
+        "source": "SRD 62",
+        "type": "none",
+        "ac": 10,
+        "addDexModifier": true
+    },
+    {
+        "key": "mage armor",
+        "name": "Mage armor",
+        "source": "SRD 160",
+        "type": "magic",
+        "ac": 13,
+        "addDexModifier": true
+    },
+    {
+        "key": "padded",
+        "name": "Padded",
+        "inventoryName": "Padded armor",
+        "source": "SRD 63",
+        "type": "light",
+        "ac": 11,
+        "addDexModifier": true,
+        "stealthDisadvantage": true,
+        "weight": 8
+    },
+    {
+        "key": "leather",
+        "name": "Leather",
+        "inventoryName": "Leather armor",
+        "source": "SRD 63",
+        "type": "light",
+        "ac": 11,
+        "addDexModifier": true,
+        "weight": 10
+    },
+    {
+        "key": "studded leather",
+        "name": "Studded leather",
+        "inventoryName": "Studded leather armor",
+        "source": "SRD 63",
+        "type": "light",
+        "ac": 12,
+        "addDexModifier": true,
+        "weight": 13
+    },
+    {
+        "key": "hide",
+        "name": "Hide",
+        "inventoryName": "Hide armor",
+        "source": "SRD 63",
+        "type": "medium",
+        "ac": 12,
+        "addDexModifier": true,
+        "maxDexModifier": 2,
+        "weight": 12
+    },
+    {
+        "key": "chain shirt",
+        "name": "Chain shirt",
+        "source": "SRD 63",
+        "type": "medium",
+        "ac": 13,
+        "addDexModifier": true,
+        "maxDexModifier": 2,
+        "weight": 20
+    },
+    {
+        "key": "scale mail",
+        "name": "Scale mail",
+        "source": "SRD 63",
+        "type": "medium",
+        "ac": 14,
+        "addDexModifier": true,
+        "maxDexModifier": 2,
+        "stealthDisadvantage": true,
+        "weight": 45
+    },
+    {
+        "key": "breastplate",
+        "name": "Breastplate",
+        "source": "SRD 63",
+        "type": "medium",
+        "ac": 14,
+        "addDexModifier": true,
+        "maxDexModifier": 2,
+        "weight": 20
+    },
+    {
+        "key": "half plate",
+        "name": "Half plate",
+        "inventoryName": "Half plate armor",
+        "source": "SRD 63",
+        "type": "medium",
+        "ac": 15,
+        "addDexModifier": true,
+        "maxDexModifier": 2,
+        "stealthDisadvantage": true,
+        "weight": 40
+    },
+    {
+        "key": "ring mail",
+        "name": "Ring mail",
+        "source": "SRD 63",
+        "type": "heavy",
+        "ac": 14,
+        "addDexModifier": false,
+        "stealthDisadvantage": true,
+        "weight": 40
+    },
+    {
+        "key": "chain mail",
+        "name": "Chain mail",
+        "source": "SRD 63",
+        "type": "heavy",
+        "ac": 16,
+        "addDexModifier": false,
+        "strengthRequirement": 13,
+        "stealthDisadvantage": true,
+        "weight": 55
+    },
+    {
+        "key": "splint",
+        "name": "Splint",
+        "inventoryName": "Splint armor",
+        "source": "SRD 63",
+        "type": "heavy",
+        "ac": 17,
+        "addDexModifier": false,
+        "strengthRequirement": 15,
+        "stealthDisadvantage": true,
+        "weight": 60
+    },
+    {
+        "key": "plate",
+        "name": "Plate",
+        "inventoryName": "Plate armor",
+        "source": "SRD 63",
+        "type": "heavy",
+        "ac": 18,
+        "addDexModifier": false,
+        "strengthRequirement": 15,
+        "stealthDisadvantage": true,
+        "weight": 65
+    }
+]

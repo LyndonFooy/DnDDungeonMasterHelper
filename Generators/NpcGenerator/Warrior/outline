@@ -1,0 +1,150 @@
+<div id="Warrior-content">
+
+<h2 id="toc0"><span>The Warrior</span></h2>
+<p>A Warrior NPC grows in martial prowess as it fights by your side. It might be a soldier, a town guard, a battle-trained beast, or any other creature honed for combat.</p>
+<p>A NPC gains the following class features as it gains levels, as summarized on the Warrior table.</p>
+<h4 id="toc1"><span>The Warrior</span></h4>
+<table class="wiki-content-table">
+<tbody><tr>
+<th colspan="5">The Warrior</th>
+</tr>
+<tr>
+<th>Level</th>
+<th>Proficiency Bonus</th>
+<th>Features</th>
+</tr>
+<tr>
+<td>1st</td>
+<td>+2</td>
+<td>Bonus Proficiencies, Martial Role</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>+2</td>
+<td>Second Wind</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>+2</td>
+<td>Improved Critical</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>+2</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>+3</td>
+<td></td>
+</tr>
+<tr>
+<td>6th</td>
+<td>+3</td>
+<td>Extra Attack</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>+3</td>
+<td>Battle Readiness</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>+3</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>+4</td>
+<td></td>
+</tr>
+<tr>
+<td>10th</td>
+<td>+4</td>
+<td>Improved Defense</td>
+</tr>
+<tr>
+<td>11th</td>
+<td>+4</td>
+<td>Indomitable</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>+4</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>13th</td>
+<td>+5</td>
+<td></td>
+</tr>
+<tr>
+<td>14th</td>
+<td>+5</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>15th</td>
+<td>+5</td>
+<td>Extra Attack Improvement</td>
+</tr>
+<tr>
+<td>16th</td>
+<td>+5</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>17th</td>
+<td>+6</td>
+<td></td>
+</tr>
+<tr>
+<td>18th</td>
+<td>+6</td>
+<td>Indomitable Improvement</td>
+</tr>
+<tr>
+<td>19th</td>
+<td>+6</td>
+<td>Ability Score Improvement</td>
+</tr>
+<tr>
+<td>20th</td>
+<td>+6</td>
+<td>Second Wind Improvement</td>
+</tr>
+</tbody></table>
+<h3 id="toc2"><span>Bonus Proficiencies</span></h3>
+<p><em>1st-level Warrior feature</em></p>
+<p>The NPC gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.</p>
+<p>In addition, the NPC gains proficiency in two skills of your choice from the following list: Acrobatics, Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival.</p>
+<p>The NPC gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.</p>
+<h3 id="toc3"><span>Martial Role</span></h3>
+<p><em>1st-level Warrior feature</em></p>
+<p>Each warrior learns a fighting style. Choose a fighting style from the fighting styles list.
+<h3 id="toc4"><span>Second Wind</span></h3>
+<p><em>2nd-level Warrior feature</em><br>
+The NPC can use a bonus action on its turn to regain hit points equal to 1d10 + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.</p>
+<p>The NPC can use this feature twice between rests starting at 20th level</p>
+<h3 id="toc5"><span>Improved Critical</span></h3>
+<p><em>3rd-level Warrior feature</em><br>
+The NPC's attack rolls score a critical hit on a roll of 19 or 20 on the d20.</p>
+<h3 id="toc6"><span>Ability Score Improvement</span></h3>
+<p><em>4th-level Warrior feature</em></p>
+<p>At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the NPC increases one ability score of your choice by 2, or the NPC increases two ability scores of your choice by 1. The NPC can't increase an ability score above 20 using this feature.</p>
+<h3 id="toc7"><span>Extra Attack</span></h3>
+<p><em>6th-level Warrior feature</em><br>
+The NPC can attack twice, instead of once, whenever it takes the Attack action on its turn.</p>
+<p>The number of attacks increases to three when the NPC reaches 15th level.</p>
+<p>If the NPC has the Multiattack action, it can use Extra Attack or Multiattack on a turn, not both.</p>
+<h3 id="toc8"><span>Battle Readiness</span></h3>
+<p><em>7th-level Warrior feature</em></p>
+<p>The NPC has advantage on initiative rolls.</p>
+<h3 id="toc9"><span>Improved Defense</span></h3>
+<p><em>10th-level Warrior feature</em></p>
+<p>The NPC's Armor Class increases by 1.</p>
+<h3 id="toc10"><span>Indomitable</span></h3>
+<p><em>11th-level Warrior feature</em></p>
+<p>The NPC can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again until it finishes a long rest.</p>
+<p>The NPC can use this feature twice between long rests starting at 18th level.</p>
+</div>

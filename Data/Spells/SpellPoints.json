@@ -1,0 +1,85 @@
+{
+    "note": "Spell points variant (DMG): total spell points by spellcaster level",
+    "levels": [
+        {
+            "casterLevel": 1,
+            "spellPoints": 4
+        },
+        {
+            "casterLevel": 2,
+            "spellPoints": 6
+        },
+        {
+            "casterLevel": 3,
+            "spellPoints": 14
+        },
+        {
+            "casterLevel": 4,
+            "spellPoints": 17
+        },
+        {
+            "casterLevel": 5,
+            "spellPoints": 27
+        },
+        {
+            "casterLevel": 6,
+            "spellPoints": 32
+        },
+        {
+            "casterLevel": 7,
+            "spellPoints": 38
+        },
+        {
+            "casterLevel": 8,
+            "spellPoints": 44
+        },
+        {
+            "casterLevel": 9,
+            "spellPoints": 57
+        },
+        {
+            "casterLevel": 10,
+            "spellPoints": 64
+        },
+        {
+            "casterLevel": 11,
+            "spellPoints": 73
+        },
+        {
+            "casterLevel": 12,
+            "spellPoints": 73
+        },
+        {
+            "casterLevel": 13,
+            "spellPoints": 83
+        },
+        {
+            "casterLevel": 14,
+            "spellPoints": 83
+        },
+        {
+            "casterLevel": 15,
+            "spellPoints": 94
+        },
+        {
+            "casterLevel": 16,
+            "spellPoints": 94
+        },
+        {
+            "casterLevel": 17,
+            "spellPoints": 107
+        },
+        {
+            "casterLevel": 18,
+            "spellPoints": 114
+        },
+        {
+            "casterLevel": 19,
+            "spellPoints": 123
+        },
+        {
+            "casterLevel": 20,
+            "spellPoints": 133
+        }
+    ]
+}

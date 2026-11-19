@@ -1,0 +1,30 @@
+{
+    "Size": "Medium",
+    "HitPoints":"0",
+    "Armor": null,
+    "Speed": 0,
+    "Stats": {
+        "Str": 0,
+        "Dex": 0,
+        "Con": 0,
+        "Int": 0,
+        "Wis": 0,
+        "Cha": 0
+    },
+    "Skills": [],
+    "Proficiency Bonus": 0,
+    "DamageVulnerabilities": [],
+    "DamageResistances": [],
+    "DamageImmunities": [],
+    "ConditionImmunities":[],
+    "Languages":[""],
+    "Senses":[],
+    "Abilities": [],
+    "Actions": [],
+    "Reactions": [],
+    "Spellcasting":{
+        "SpellcastingAbility":null,
+        "SpellSlots":[],
+        "Spells": []
+    }
+}

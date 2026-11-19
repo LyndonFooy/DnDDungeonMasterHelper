@@ -1,0 +1,30 @@
+{
+    "Size": null,
+    "HitPoints":"1d20",
+    "Armor": null,
+    "Speed": null,
+    "Stats": {
+        "Str": 0,
+        "Dex": -2,
+        "Con": 2,
+        "Int": -2,
+        "Wis": -2,
+        "Cha": -4
+    },
+    "Proficiency Bonus": null,
+    "DamageVulnerabilities": [],
+    "DamageResistances": [],
+    "DamageImmunities": [],
+    "ConditionResistances":[],
+    "ConditionImmunities":[],
+    "Languages":[],
+    "Senses":[],
+    "Abilities": [{"Undead Fortitude":"If damage reduces the [Mon] to 0 hit points, it must make a Constitution saving throw with a DC of 5+ the damage taken, unless the damage is radiant or from a critical hit. On a success, the [Mon] drops to 1 hit point instead."}],
+    "Actions": [],
+    "Reactions": [],
+    "Spellcasting":{
+        "SpellcastingAbility":null,
+        "SpellSlots":[],
+        "Spells": []
+    }
+}

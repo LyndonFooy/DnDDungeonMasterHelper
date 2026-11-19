@@ -1,0 +1,53 @@
+[
+    {
+        "key": "archery",
+        "name": "Archery Fighting Style",
+        "description": "+2 bonus to attack rolls I make with ranged weapons",
+        "mechanicsNotes": [
+            "My ranged weapons get a +2 bonus on the To Hit."
+        ]
+    },
+    {
+        "key": "defense",
+        "name": "Defense Fighting Style",
+        "description": "+1 bonus to AC when I'm wearing armor",
+        "extraAC": {
+            "mod": 1,
+            "text": "I gain a +1 bonus to AC while wearing armor."
+        }
+    },
+    {
+        "key": "dueling",
+        "name": "Dueling Fighting Style",
+        "description": "+2 to damage rolls when wielding a melee weapon in one hand and no other weapons",
+        "mechanicsNotes": [
+            "When I'm wielding a melee weapon in one hand and no weapon in my other hand, I do +2 damage with that melee weapon. This condition will always be false if the bonus action 'Off-hand Attack' exists."
+        ]
+    },
+    {
+        "key": "great_weapon",
+        "name": "Great Weapon Fighting Style",
+        "description": "Reroll 1 or 2 on damage if wielding two-handed/versatile melee weapon in both hands",
+        "mechanicsNotes": [
+            "While wielding a two-handed or versatile melee weapon in two hands, I can re-roll a 1 or 2 on any damage die once."
+        ]
+    },
+    {
+        "key": "protection",
+        "name": "Protection Fighting Style",
+        "description": "As a reaction, I can give disadv. on an attack made vs. someone within 5 ft of me\nI need to be wielding a shield and be able to see the attacker to do this",
+        "actions": [
+            {
+                "type": "reaction"
+            }
+        ]
+    },
+    {
+        "key": "two_weapon",
+        "name": "Two-Weapon Fighting Style",
+        "description": "I can add my ability modifier to the damage of my off-hand attacks",
+        "mechanicsNotes": [
+            "When engaging in two-weapon fighting, I can add my ability modifier to the damage of my off-hand attacks. If a melee weapon includes 'off-hand' or 'secondary' in its name or description, it is considered an off-hand attack."
+        ]
+    }
+]

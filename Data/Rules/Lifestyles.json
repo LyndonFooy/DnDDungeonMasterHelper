@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Wretched",
+        "dailyCost": null
+    },
+    {
+        "name": "Squalid",
+        "dailyCost": "1 sp"
+    },
+    {
+        "name": "Poor",
+        "dailyCost": "2 sp"
+    },
+    {
+        "name": "Modest",
+        "dailyCost": "1 gp"
+    },
+    {
+        "name": "Comfortable",
+        "dailyCost": "2 gp"
+    },
+    {
+        "name": "Wealthy",
+        "dailyCost": "4 gp"
+    },
+    {
+        "name": "Aristocratic",
+        "dailyCost": "10 gp min."
+    }
+]

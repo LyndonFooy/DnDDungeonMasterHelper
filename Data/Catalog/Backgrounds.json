@@ -1,0 +1,369 @@
+[
+    {
+        "name": "Acolyte",
+        "detailedIn": "Backgrounds/Backgrounds.json"
+    },
+    {
+        "name": "Agent of House Cannith"
+    },
+    {
+        "name": "Agent of House Deneith"
+    },
+    {
+        "name": "Agent of House Ghallanda"
+    },
+    {
+        "name": "Agent of House Jorasco"
+    },
+    {
+        "name": "Agent of House Kundarak"
+    },
+    {
+        "name": "Agent of House Lyrandar"
+    },
+    {
+        "name": "Agent of House Medani"
+    },
+    {
+        "name": "Agent of House Orien"
+    },
+    {
+        "name": "Agent of House Phiarlan"
+    },
+    {
+        "name": "Agent of House Sivis"
+    },
+    {
+        "name": "Agent of House Tharashk"
+    },
+    {
+        "name": "Agent of House Thuranni"
+    },
+    {
+        "name": "Agent of House Vadalis"
+    },
+    {
+        "name": "Anthropologist"
+    },
+    {
+        "name": "Archaeologist"
+    },
+    {
+        "name": "Astral Drifter"
+    },
+    {
+        "name": "Athlete"
+    },
+    {
+        "name": "Augen Trust"
+    },
+    {
+        "name": "Azorius Functionary"
+    },
+    {
+        "name": "Black Fist Double Agent"
+    },
+    {
+        "name": "Boros Legionnaire"
+    },
+    {
+        "name": "Caravan Specialist"
+    },
+    {
+        "name": "Celebrity Adventurer's Scion"
+    },
+    {
+        "name": "Charlatan"
+    },
+    {
+        "name": "City Watch"
+    },
+    {
+        "name": "Clan Crafter"
+    },
+    {
+        "name": "Cloistered Scholar"
+    },
+    {
+        "name": "Cobalt Scholar"
+    },
+    {
+        "name": "Cormanthor Refugee"
+    },
+    {
+        "name": "Courtier"
+    },
+    {
+        "name": "Criminal"
+    },
+    {
+        "name": "Dimir Operative"
+    },
+    {
+        "name": "Dragon Casualty"
+    },
+    {
+        "name": "Earthspur Miner"
+    },
+    {
+        "name": "Entertainer"
+    },
+    {
+        "name": "Faceless"
+    },
+    {
+        "name": "Faction Agent"
+    },
+    {
+        "name": "Failed Merchant"
+    },
+    {
+        "name": "Far Traveler"
+    },
+    {
+        "name": "Feylost"
+    },
+    {
+        "name": "Fisher"
+    },
+    {
+        "name": "Folk Hero"
+    },
+    {
+        "name": "Gambler"
+    },
+    {
+        "name": "Gate Urchin"
+    },
+    {
+        "name": "Gate Warden"
+    },
+    {
+        "name": "Giant Foundling"
+    },
+    {
+        "name": "Gladiator"
+    },
+    {
+        "name": "Golgari Agent"
+    },
+    {
+        "name": "Grinner"
+    },
+    {
+        "name": "Gruul Anarch"
+    },
+    {
+        "name": "Guild Artisan"
+    },
+    {
+        "name": "Guild Merchant"
+    },
+    {
+        "name": "Harborfolk"
+    },
+    {
+        "name": "Haunted One"
+    },
+    {
+        "name": "Hermit"
+    },
+    {
+        "name": "Hillsfar Merchant"
+    },
+    {
+        "name": "Hillsfar Smuggler"
+    },
+    {
+        "name": "Inheritor"
+    },
+    {
+        "name": "Investigator"
+    },
+    {
+        "name": "Investigator (VRGtR)"
+    },
+    {
+        "name": "Iron Route Bandit"
+    },
+    {
+        "name": "Izzet Engineer"
+    },
+    {
+        "name": "Knight"
+    },
+    {
+        "name": "Knight of Solamnia"
+    },
+    {
+        "name": "Knight of the Order"
+    },
+    {
+        "name": "Lorehold Student"
+    },
+    {
+        "name": "Luxonborn"
+    },
+    {
+        "name": "Mage of High Sorcery"
+    },
+    {
+        "name": "Marine"
+    },
+    {
+        "name": "Mercenary Veteran"
+    },
+    {
+        "name": "Mulmaster Aristocrat"
+    },
+    {
+        "name": "Myriad Operative"
+    },
+    {
+        "name": "Noble"
+    },
+    {
+        "name": "Orzhov Representative"
+    },
+    {
+        "name": "Outlander"
+    },
+    {
+        "name": "Phlan Insurgent"
+    },
+    {
+        "name": "Phlan Refugee"
+    },
+    {
+        "name": "Pirate"
+    },
+    {
+        "name": "Plaintiff"
+    },
+    {
+        "name": "Planar Philosopher"
+    },
+    {
+        "name": "Planar Philosopher of Athar"
+    },
+    {
+        "name": "Planar Philosopher of Bleak Cabal"
+    },
+    {
+        "name": "Planar Philosopher of Doomguard"
+    },
+    {
+        "name": "Planar Philosopher of Fated"
+    },
+    {
+        "name": "Planar Philosopher of Fraternity of Order"
+    },
+    {
+        "name": "Planar Philosopher of Hands of Havoc"
+    },
+    {
+        "name": "Planar Philosopher of Harmonium"
+    },
+    {
+        "name": "Planar Philosopher of Heralds of Dust"
+    },
+    {
+        "name": "Planar Philosopher of Mercykillers"
+    },
+    {
+        "name": "Planar Philosopher of Mind's Eye"
+    },
+    {
+        "name": "Planar Philosopher of Society of Sensation"
+    },
+    {
+        "name": "Planar Philosopher of Transcendent Order"
+    },
+    {
+        "name": "Prismari Student"
+    },
+    {
+        "name": "Quandrix Student"
+    },
+    {
+        "name": "Rakdos Cultist"
+    },
+    {
+        "name": "Revelry Pirate"
+    },
+    {
+        "name": "Rewarded"
+    },
+    {
+        "name": "Rival Intern"
+    },
+    {
+        "name": "Ruined"
+    },
+    {
+        "name": "Rune Carver"
+    },
+    {
+        "name": "Sage"
+    },
+    {
+        "name": "Sailor"
+    },
+    {
+        "name": "Secret Identity"
+    },
+    {
+        "name": "Selesnya Initiate"
+    },
+    {
+        "name": "Shade Fanatic"
+    },
+    {
+        "name": "Shipwright"
+    },
+    {
+        "name": "Silverquill Student"
+    },
+    {
+        "name": "Simic Scientist"
+    },
+    {
+        "name": "Smuggler"
+    },
+    {
+        "name": "Soldier"
+    },
+    {
+        "name": "Stojanow Prisoner"
+    },
+    {
+        "name": "Ticklebelly Nomad"
+    },
+    {
+        "name": "Trade Sheriff"
+    },
+    {
+        "name": "Urban Bounty Hunter"
+    },
+    {
+        "name": "Urchin"
+    },
+    {
+        "name": "Uthgardt Tribe Member"
+    },
+    {
+        "name": "Volstrucker Agent"
+    },
+    {
+        "name": "Waterdhavian Noble"
+    },
+    {
+        "name": "Wildspacer"
+    },
+    {
+        "name": "Witchlight Hand"
+    },
+    {
+        "name": "Witherbloom Student"
+    }
+]

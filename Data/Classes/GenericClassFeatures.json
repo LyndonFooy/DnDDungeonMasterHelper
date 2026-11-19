@@ -1,0 +1,10 @@
+[
+    {
+        "key": "potent spellcasting",
+        "name": "Potent Spellcasting",
+        "description": "I add my Wisdom modifier to the damage I deal with my cleric cantrips",
+        "mechanicsNotes": [
+            "My cleric cantrips get my Wisdom modifier added to their damage."
+        ]
+    }
+]

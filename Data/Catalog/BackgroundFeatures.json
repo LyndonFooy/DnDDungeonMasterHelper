@@ -1,0 +1,351 @@
+[
+    {
+        "name": "Adept Linguist"
+    },
+    {
+        "name": "All Eyes on You"
+    },
+    {
+        "name": "Are You Entertained?"
+    },
+    {
+        "name": "At Home in the Wild"
+    },
+    {
+        "name": "Backstage Pass"
+    },
+    {
+        "name": "Bad Reputation"
+    },
+    {
+        "name": "Ballad of the Grinning Fool"
+    },
+    {
+        "name": "Black-market Breeder"
+    },
+    {
+        "name": "By Popular Demand"
+    },
+    {
+        "name": "Carnival Fixture"
+    },
+    {
+        "name": "City Guard: Lower City (the Flaming Fists)"
+    },
+    {
+        "name": "City Guard: Upper City (the Watch)"
+    },
+    {
+        "name": "City Secrets"
+    },
+    {
+        "name": "Conclave's Shelter"
+    },
+    {
+        "name": "Conviction"
+    },
+    {
+        "name": "Court Functionary"
+    },
+    {
+        "name": "Criminal Connections"
+    },
+    {
+        "name": "Criminal Contact"
+    },
+    {
+        "name": "Cult of the Dragon Infiltrator"
+    },
+    {
+        "name": "Deep Delver"
+    },
+    {
+        "name": "Deep Miner"
+    },
+    {
+        "name": "Discovery"
+    },
+    {
+        "name": "Divine Contact"
+    },
+    {
+        "name": "Double Agent"
+    },
+    {
+        "name": "Down Low"
+    },
+    {
+        "name": "Dragon Scholar"
+    },
+    {
+        "name": "Dragonscarred"
+    },
+    {
+        "name": "Dual Personalities"
+    },
+    {
+        "name": "Ear to the Ground"
+    },
+    {
+        "name": "Echoes of Victory"
+    },
+    {
+        "name": "Ex-convict"
+    },
+    {
+        "name": "Factor"
+    },
+    {
+        "name": "False Guild Identity"
+    },
+    {
+        "name": "False Identity"
+    },
+    {
+        "name": "Fearsome Reputation"
+    },
+    {
+        "name": "Feywild Connection"
+    },
+    {
+        "name": "Fortune's Favor"
+    },
+    {
+        "name": "Gateguide Connection"
+    },
+    {
+        "name": "Guerilla"
+    },
+    {
+        "name": "Guild Membership"
+    },
+    {
+        "name": "Harborfolk"
+    },
+    {
+        "name": "Harvest the Water"
+    },
+    {
+        "name": "Heart of Darkness"
+    },
+    {
+        "name": "Highborn"
+    },
+    {
+        "name": "Historical Knowledge"
+    },
+    {
+        "name": "House Connections"
+    },
+    {
+        "name": "I'll Patch It!"
+    },
+    {
+        "name": "Immigrant Experience"
+    },
+    {
+        "name": "Inheritance"
+    },
+    {
+        "name": "Inheritor"
+    },
+    {
+        "name": "Initiate of High Sorcery"
+    },
+    {
+        "name": "Inside Informant"
+    },
+    {
+        "name": "Investigative Services"
+    },
+    {
+        "name": "Kept in Style"
+    },
+    {
+        "name": "Knightly Regard"
+    },
+    {
+        "name": "Legal Authority"
+    },
+    {
+        "name": "Legalese"
+    },
+    {
+        "name": "Legion Station"
+    },
+    {
+        "name": "Leverage"
+    },
+    {
+        "name": "Library Access"
+    },
+    {
+        "name": "Long-lost Heir"
+    },
+    {
+        "name": "Lorehold Initiate"
+    },
+    {
+        "name": "Loyalty Test"
+    },
+    {
+        "name": "Mercenary Life"
+    },
+    {
+        "name": "Military Rank"
+    },
+    {
+        "name": "Mist Wanderer"
+    },
+    {
+        "name": "Name Dropping"
+    },
+    {
+        "name": "Never Tell Me the Odds"
+    },
+    {
+        "name": "Official Inquiry"
+    },
+    {
+        "name": "Patriar"
+    },
+    {
+        "name": "Phlan Survivor"
+    },
+    {
+        "name": "Planar Infusion"
+    },
+    {
+        "name": "Position of Privilege"
+    },
+    {
+        "name": "Prismari Initiate"
+    },
+    {
+        "name": "Professional Courtesy"
+    },
+    {
+        "name": "Quandrix Initiate"
+    },
+    {
+        "name": "Red Plume and Mage Guild Contacts"
+    },
+    {
+        "name": "Religious Community"
+    },
+    {
+        "name": "Researcher"
+    },
+    {
+        "name": "Respect of the Stout Folk"
+    },
+    {
+        "name": "Retainers"
+    },
+    {
+        "name": "Rubblebelt Refuge"
+    },
+    {
+        "name": "Rumor Monger"
+    },
+    {
+        "name": "Rune Shaper"
+    },
+    {
+        "name": "Rustic Hospitality"
+    },
+    {
+        "name": "Safe Haven"
+    },
+    {
+        "name": "Secret Identity"
+    },
+    {
+        "name": "Secret Passage"
+    },
+    {
+        "name": "Secret Society"
+    },
+    {
+        "name": "Shadow Network"
+    },
+    {
+        "name": "Shelter of the Elven Clergy"
+    },
+    {
+        "name": "Shelter of the Faithful",
+        "detailedIn": "Backgrounds/Backgrounds.json"
+    },
+    {
+        "name": "Ship's Passage"
+    },
+    {
+        "name": "Silverquill Initiate"
+    },
+    {
+        "name": "Simic Researcher"
+    },
+    {
+        "name": "Smuggler's Sense"
+    },
+    {
+        "name": "Social Vengeance"
+    },
+    {
+        "name": "Spirit Medium"
+    },
+    {
+        "name": "Squire of Solamnia"
+    },
+    {
+        "name": "Steady"
+    },
+    {
+        "name": "Still Standing"
+    },
+    {
+        "name": "Strike of the Giants"
+    },
+    {
+        "name": "Supply Chain"
+    },
+    {
+        "name": "The Real City"
+    },
+    {
+        "name": "Trade Contact"
+    },
+    {
+        "name": "Trauma Survivor"
+    },
+    {
+        "name": "Traveler"
+    },
+    {
+        "name": "Undercity Paths"
+    },
+    {
+        "name": "Underdark Experience"
+    },
+    {
+        "name": "Urban Infrastructure"
+    },
+    {
+        "name": "Uthgardt Heritage"
+    },
+    {
+        "name": "Wagonmaster"
+    },
+    {
+        "name": "Wanderer"
+    },
+    {
+        "name": "Watcher's Eye"
+    },
+    {
+        "name": "Wildspace Adaptation"
+    },
+    {
+        "name": "Witherbloom Initiate"
+    }
+]

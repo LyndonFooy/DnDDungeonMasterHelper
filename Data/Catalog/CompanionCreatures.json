@@ -1,0 +1,1648 @@
+[
+    {
+        "name": "Abyssal Chicken"
+    },
+    {
+        "name": "Air Elemental",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Allosaurus"
+    },
+    {
+        "name": "Almiraj"
+    },
+    {
+        "name": "Ankylosaurus"
+    },
+    {
+        "name": "Anvilwrought Raptor"
+    },
+    {
+        "name": "Ape",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Ape, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Art Elemental Mascot"
+    },
+    {
+        "name": "Aurochs"
+    },
+    {
+        "name": "Awakened Shrub",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Awakened Tree",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Awakened White Moose"
+    },
+    {
+        "name": "Axe Beak",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Baboon",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Badger",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Badger, Cave"
+    },
+    {
+        "name": "Badger, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bat, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bear, Black",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bear, Brown",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bear, Cave",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bear, Polar",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Beetle, Giant Fire",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Black Bear",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Blight, Needle"
+    },
+    {
+        "name": "Blight, Twig"
+    },
+    {
+        "name": "Blight, Vine"
+    },
+    {
+        "name": "Blink Dog",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Blood Hawk",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Boar",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Boar, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Bristled Moorbounder"
+    },
+    {
+        "name": "Brontosaurus"
+    },
+    {
+        "name": "Brown Bear",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Camel",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Canary, Giant"
+    },
+    {
+        "name": "Cat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Cave Badger"
+    },
+    {
+        "name": "Cave Bear",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Centipede, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Chicken, Abyssal"
+    },
+    {
+        "name": "Clawfoot"
+    },
+    {
+        "name": "Clay Golem",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Constrictor Snake",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Cow"
+    },
+    {
+        "name": "Crab",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Crab, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Crab, Hulking"
+    },
+    {
+        "name": "Cranium Rat"
+    },
+    {
+        "name": "Crawling Claw"
+    },
+    {
+        "name": "Crayfish, Giant"
+    },
+    {
+        "name": "Crocodile",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Crocodile, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Crow",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Death Dog",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Deep Rothé"
+    },
+    {
+        "name": "Deer",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Deinonychus"
+    },
+    {
+        "name": "Demos Magen"
+    },
+    {
+        "name": "Dimetrodon"
+    },
+    {
+        "name": "Dire Wolf",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dog, Blink",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dog, Death",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dog, Sled",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dolphin"
+    },
+    {
+        "name": "Draft Horse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dragon, Faerie"
+    },
+    {
+        "name": "Dragon, Pseudo",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Dragonfly, Giant"
+    },
+    {
+        "name": "Dragonnel"
+    },
+    {
+        "name": "Dust Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Eagle",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Eagle, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Earth Elemental",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Eel, Giant Lightning"
+    },
+    {
+        "name": "Eel, Giant Sea"
+    },
+    {
+        "name": "Eel, Giant White Moray"
+    },
+    {
+        "name": "Eel, Space"
+    },
+    {
+        "name": "Elemental, Air",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elemental, Earth",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elemental, Fire",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elemental, Water",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elephant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elk",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Elk, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Faerie Dragon"
+    },
+    {
+        "name": "Falcon",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Fastieth"
+    },
+    {
+        "name": "Female Steeder"
+    },
+    {
+        "name": "Fire Elemental",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Fish"
+    },
+    {
+        "name": "Flesh Golem",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Fly, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Flying Monkey"
+    },
+    {
+        "name": "Flying Snake",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Fox"
+    },
+    {
+        "name": "Fractal Mascot"
+    },
+    {
+        "name": "Frog",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Frog, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Galvan Magen"
+    },
+    {
+        "name": "Gas Spore"
+    },
+    {
+        "name": "Gazer"
+    },
+    {
+        "name": "Ghast",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Ghoul",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Ape",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Badger",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Bat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Boar",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Canary"
+    },
+    {
+        "name": "Giant Centipede",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Constrictor Snake",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Coral Snake"
+    },
+    {
+        "name": "Giant Crab",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Crayfish"
+    },
+    {
+        "name": "Giant Crocodile",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Dragonfly"
+    },
+    {
+        "name": "Giant Eagle",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Elk",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Fire Beetle",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Fly",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Frog",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Goat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Hyena",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Ice Toad"
+    },
+    {
+        "name": "Giant Lightning Eel"
+    },
+    {
+        "name": "Giant Lizard",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Octopus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Owl",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Poisonous Snake",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Rat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Rat (Diseased)",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Scorpion",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Sea Eel"
+    },
+    {
+        "name": "Giant Sea Horse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Shark",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Snail"
+    },
+    {
+        "name": "Giant Snapping Turtle"
+    },
+    {
+        "name": "Giant Space Hamster"
+    },
+    {
+        "name": "Giant Spider",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Subterranean Lizard"
+    },
+    {
+        "name": "Giant Swan"
+    },
+    {
+        "name": "Giant Toad",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Vulture",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Walrus"
+    },
+    {
+        "name": "Giant Wasp",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant Weasel",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Giant White Moray Eel"
+    },
+    {
+        "name": "Giant Wolf Spider",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Goat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Goat, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Goat, Mountain"
+    },
+    {
+        "name": "Golem, Clay",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Golem, Flesh",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Golem, Iron",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Golem, Stone",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Griffon",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Guppy, Space"
+    },
+    {
+        "name": "Hadrosaurus"
+    },
+    {
+        "name": "Hamster, Giant Space"
+    },
+    {
+        "name": "Hare"
+    },
+    {
+        "name": "Hawk",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Hippogriff",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Homunculus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Horse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Horse, Draft",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Horse, Riding",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Horse, War",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Hulking Crab"
+    },
+    {
+        "name": "Hunter Shark",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Hyena",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Hyena, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Hypnos Magen"
+    },
+    {
+        "name": "Ice Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Ice Spider"
+    },
+    {
+        "name": "Imp",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Inkling Mascot"
+    },
+    {
+        "name": "Iron Golem",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Jackal",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Jaculi"
+    },
+    {
+        "name": "Killer Whale",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Knucklehead Trout"
+    },
+    {
+        "name": "Leopard, Snow",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Lion",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Lion, Spotted"
+    },
+    {
+        "name": "Lizard",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Lizard, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Lizard, Giant Subterranean"
+    },
+    {
+        "name": "Magen, Demos"
+    },
+    {
+        "name": "Magen, Galvan"
+    },
+    {
+        "name": "Magen, Hypnos"
+    },
+    {
+        "name": "Magma Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Male Steeder"
+    },
+    {
+        "name": "Mammoth",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mascot, Art Elemental"
+    },
+    {
+        "name": "Mascot, Fractal"
+    },
+    {
+        "name": "Mascot, Inkling"
+    },
+    {
+        "name": "Mascot, Pest"
+    },
+    {
+        "name": "Mascot, Spirit Statue"
+    },
+    {
+        "name": "Mastiff",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Dust",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Ice",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Magma",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Mud",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Smoke",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mephit, Steam",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mollymawk, Space"
+    },
+    {
+        "name": "Monkey, Flying"
+    },
+    {
+        "name": "Moorbounder"
+    },
+    {
+        "name": "Moose",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Moose, Awakened White"
+    },
+    {
+        "name": "Mountain Goat"
+    },
+    {
+        "name": "Mud Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mule",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Mummy",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Needle Blight"
+    },
+    {
+        "name": "Nightmare",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Octopus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Octopus, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Ogre Zombie",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Orca",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Owl",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Owl, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Owlbear",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Ox"
+    },
+    {
+        "name": "Panther",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Peacock",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Pegasus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Peryton"
+    },
+    {
+        "name": "Pest Mascot"
+    },
+    {
+        "name": "Pig"
+    },
+    {
+        "name": "Plesiosaurus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Poisonous Snake",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Polar Bear",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Pony",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Pseudodragon",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Pteranodon"
+    },
+    {
+        "name": "Quasit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Quetzalcoatlus"
+    },
+    {
+        "name": "Quipper",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Rat",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Rat, Cranium"
+    },
+    {
+        "name": "Rat, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Rat, Giant (Diseased)",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Raven",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Reef Shark",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Reindeer",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Rhinoceros",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Riding Horse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Rothé"
+    },
+    {
+        "name": "Rothé, Deep"
+    },
+    {
+        "name": "Saber-Toothed Tiger",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Scorpion",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Scorpion, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Sea Horse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Sea Horse, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Seal"
+    },
+    {
+        "name": "Shadow",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Shark, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Shark, Hunter",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Shark, Reef",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Sheep"
+    },
+    {
+        "name": "Shield Guardian",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Shrieker",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Skeleton",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Skeleton, Humanoid",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Skeleton, Warhorse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Sled Dog",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Smoke Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snail, Giant"
+    },
+    {
+        "name": "Snake, Constrictor",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snake, Flying",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snake, Giant Constrictor",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snake, Giant Coral"
+    },
+    {
+        "name": "Snake, Giant Poisonous",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snake, Poisonous",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Snow Leopard",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Space Eel"
+    },
+    {
+        "name": "Space Guppy"
+    },
+    {
+        "name": "Space Mollymawk"
+    },
+    {
+        "name": "Space Swine"
+    },
+    {
+        "name": "Specter",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Spectre",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Sperm Whale"
+    },
+    {
+        "name": "Spider",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Spider, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Spider, Ice"
+    },
+    {
+        "name": "Spirit Statue Mascot"
+    },
+    {
+        "name": "Spotted Lion"
+    },
+    {
+        "name": "Sprite",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Steam Mephit",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Steeder"
+    },
+    {
+        "name": "Steeder, Female"
+    },
+    {
+        "name": "Steeder, Male"
+    },
+    {
+        "name": "Stegosaurus"
+    },
+    {
+        "name": "Stench Kow"
+    },
+    {
+        "name": "Stirge",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Stone Golem",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Swan, Giant"
+    },
+    {
+        "name": "Swine, Space"
+    },
+    {
+        "name": "T-Rex",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Tiger",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Tiger, Saber-Toothed",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Tiny Servant"
+    },
+    {
+        "name": "Titanothere"
+    },
+    {
+        "name": "Toad",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Toad, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Toad, Giant Ice"
+    },
+    {
+        "name": "Tortoise, Young Horizonback"
+    },
+    {
+        "name": "Tressym"
+    },
+    {
+        "name": "Triceratops",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Turtle, Giant Snapping"
+    },
+    {
+        "name": "Twig Blight"
+    },
+    {
+        "name": "Tyrannosaurus Rex",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Valenar Hawk"
+    },
+    {
+        "name": "Valenar Hound"
+    },
+    {
+        "name": "Valenar Steed"
+    },
+    {
+        "name": "Velociraptor"
+    },
+    {
+        "name": "Vine Blight"
+    },
+    {
+        "name": "Violet Fungus",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Vulture",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Vulture, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Walrus"
+    },
+    {
+        "name": "Walrus, Giant"
+    },
+    {
+        "name": "Warhorse",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Warhorse Skeleton",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Wasp, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Water Elemental",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Weasel",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Weasel, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Whale, Sperm"
+    },
+    {
+        "name": "Whirlwyrm",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Wight",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Wolf",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Wolf Spider, Giant",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Worg",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Young Horizonback Tortoise"
+    },
+    {
+        "name": "Zombie",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Zombie, Ogre",
+        "detailedIn": "Creatures/Creatures.json"
+    },
+    {
+        "name": "Aarakocra"
+    },
+    {
+        "name": "Aarakocra, Multiverse"
+    },
+    {
+        "name": "Aasimar"
+    },
+    {
+        "name": "Aasimar, Fallen"
+    },
+    {
+        "name": "Aasimar, Multiverse"
+    },
+    {
+        "name": "Aasimar, Protector"
+    },
+    {
+        "name": "Aasimar, Scourge"
+    },
+    {
+        "name": "Autognome"
+    },
+    {
+        "name": "Bugbear"
+    },
+    {
+        "name": "Bugbear, Multiverse"
+    },
+    {
+        "name": "Centaur"
+    },
+    {
+        "name": "Centaur, Multiverse"
+    },
+    {
+        "name": "Changeling"
+    },
+    {
+        "name": "Changeling, Multiverse"
+    },
+    {
+        "name": "Custom Lineage"
+    },
+    {
+        "name": "Dhampir"
+    },
+    {
+        "name": "Dragonborn"
+    },
+    {
+        "name": "Dragonborn, Chromatic"
+    },
+    {
+        "name": "Dragonborn, Draconblood"
+    },
+    {
+        "name": "Dragonborn, Gem"
+    },
+    {
+        "name": "Dragonborn, Metallic"
+    },
+    {
+        "name": "Dragonborn, Ravenite"
+    },
+    {
+        "name": "Dragonmark, Detection (Half-Elf)"
+    },
+    {
+        "name": "Dragonmark, Finding (Half-Orc)"
+    },
+    {
+        "name": "Dragonmark, Finding (Human)"
+    },
+    {
+        "name": "Dragonmark, Handling (Human)"
+    },
+    {
+        "name": "Dragonmark, Healing (Halfling)"
+    },
+    {
+        "name": "Dragonmark, Hospitality (Halfling)"
+    },
+    {
+        "name": "Dragonmark, Making (Human)"
+    },
+    {
+        "name": "Dragonmark, Passage (Human)"
+    },
+    {
+        "name": "Dragonmark, Scribing (Gnome)"
+    },
+    {
+        "name": "Dragonmark, Sentinel (Human)"
+    },
+    {
+        "name": "Dragonmark, Shadow (Elf)"
+    },
+    {
+        "name": "Dragonmark, Storm (Half-Elf)"
+    },
+    {
+        "name": "Dragonmark, Warding (Dwarf)"
+    },
+    {
+        "name": "Duergar, Multiverse"
+    },
+    {
+        "name": "Dwarf, Gray (Duergar)"
+    },
+    {
+        "name": "Dwarf, Hill"
+    },
+    {
+        "name": "Dwarf, Mountain"
+    },
+    {
+        "name": "Elf, Astral"
+    },
+    {
+        "name": "Elf, Dark (Drow)"
+    },
+    {
+        "name": "Elf, Fey (Eladrin)"
+    },
+    {
+        "name": "Elf, Fey (Eladrin), Multiverse"
+    },
+    {
+        "name": "Elf, High"
+    },
+    {
+        "name": "Elf, Pallid"
+    },
+    {
+        "name": "Elf, Sea"
+    },
+    {
+        "name": "Elf, Sea, Multiverse"
+    },
+    {
+        "name": "Elf, Shadow (Shadar-kai)"
+    },
+    {
+        "name": "Elf, Shadow (Shadar-kai), Multiverse"
+    },
+    {
+        "name": "Elf, Wood"
+    },
+    {
+        "name": "Fairy"
+    },
+    {
+        "name": "Firbolg"
+    },
+    {
+        "name": "Firbolg, Multiverse"
+    },
+    {
+        "name": "Genasi, Air"
+    },
+    {
+        "name": "Genasi, Air, Multiverse"
+    },
+    {
+        "name": "Genasi, Earth"
+    },
+    {
+        "name": "Genasi, Earth, Multiverse"
+    },
+    {
+        "name": "Genasi, Fire"
+    },
+    {
+        "name": "Genasi, Fire, Multiverse"
+    },
+    {
+        "name": "Genasi, Water"
+    },
+    {
+        "name": "Genasi, Water, Multiverse"
+    },
+    {
+        "name": "Giff"
+    },
+    {
+        "name": "Githyanki"
+    },
+    {
+        "name": "Githyanki, Multiverse"
+    },
+    {
+        "name": "Githzerai"
+    },
+    {
+        "name": "Githzerai, Multiverse"
+    },
+    {
+        "name": "Gnome, Deep (Svirfneblin)"
+    },
+    {
+        "name": "Gnome, Deep, Multiverse"
+    },
+    {
+        "name": "Gnome, Forest"
+    },
+    {
+        "name": "Gnome, Rock"
+    },
+    {
+        "name": "Goblin"
+    },
+    {
+        "name": "Goblin, Multiverse"
+    },
+    {
+        "name": "Goliath"
+    },
+    {
+        "name": "Goliath, Multiverse"
+    },
+    {
+        "name": "Hadozee"
+    },
+    {
+        "name": "Half-elf"
+    },
+    {
+        "name": "Half-orc"
+    },
+    {
+        "name": "Halfling, Ghostwise"
+    },
+    {
+        "name": "Halfling, Lightfoot"
+    },
+    {
+        "name": "Halfling, Lotusden"
+    },
+    {
+        "name": "Halfling, Stout"
+    },
+    {
+        "name": "Harengon"
+    },
+    {
+        "name": "Hexblood"
+    },
+    {
+        "name": "Hobgoblin"
+    },
+    {
+        "name": "Hobgoblin, Multiverse"
+    },
+    {
+        "name": "Human"
+    },
+    {
+        "name": "Kalashtar"
+    },
+    {
+        "name": "Kender"
+    },
+    {
+        "name": "Kenku"
+    },
+    {
+        "name": "Kenku, Multiverse"
+    },
+    {
+        "name": "Kobold"
+    },
+    {
+        "name": "Kobold, Multiverse"
+    },
+    {
+        "name": "Leonin"
+    },
+    {
+        "name": "Lizardfolk"
+    },
+    {
+        "name": "Lizardfolk, Multiverse"
+    },
+    {
+        "name": "Loxodon"
+    },
+    {
+        "name": "Minotaur"
+    },
+    {
+        "name": "Minotaur, Multiverse"
+    },
+    {
+        "name": "Orc"
+    },
+    {
+        "name": "Orc, Multiverse"
+    },
+    {
+        "name": "Owlin"
+    },
+    {
+        "name": "Plasmoid"
+    },
+    {
+        "name": "Reborn"
+    },
+    {
+        "name": "Satyr"
+    },
+    {
+        "name": "Satyr, Multiverse"
+    },
+    {
+        "name": "Shifter, Beasthide"
+    },
+    {
+        "name": "Shifter, Beasthide, Multiverse"
+    },
+    {
+        "name": "Shifter, Longtooth"
+    },
+    {
+        "name": "Shifter, Longtooth, Multiverse"
+    },
+    {
+        "name": "Shifter, Swiftstride"
+    },
+    {
+        "name": "Shifter, Swiftstride, Multiverse"
+    },
+    {
+        "name": "Shifter, Wildhunt"
+    },
+    {
+        "name": "Shifter, Wildhunt, Multiverse"
+    },
+    {
+        "name": "Simic Hybrid"
+    },
+    {
+        "name": "Tabaxi"
+    },
+    {
+        "name": "Thri-kreen"
+    },
+    {
+        "name": "Tiefling"
+    },
+    {
+        "name": "Tiefling, Baalzebul"
+    },
+    {
+        "name": "Tiefling, Dispater"
+    },
+    {
+        "name": "Tiefling, Feral"
+    },
+    {
+        "name": "Tiefling, Fierna"
+    },
+    {
+        "name": "Tiefling, Glasya"
+    },
+    {
+        "name": "Tiefling, Levistus"
+    },
+    {
+        "name": "Tiefling, Mammon"
+    },
+    {
+        "name": "Tiefling, Mephistopheles"
+    },
+    {
+        "name": "Tiefling, Zariel"
+    },
+    {
+        "name": "Tortle"
+    },
+    {
+        "name": "Triton"
+    },
+    {
+        "name": "Triton, Multiverse"
+    },
+    {
+        "name": "Vedalken"
+    },
+    {
+        "name": "Verdan"
+    },
+    {
+        "name": "Warforged"
+    },
+    {
+        "name": "Werebear"
+    },
+    {
+        "name": "Wereboar"
+    },
+    {
+        "name": "Wererat"
+    },
+    {
+        "name": "Weretiger"
+    },
+    {
+        "name": "Werewolf"
+    },
+    {
+        "name": "Yuan-Ti Pureblood"
+    },
+    {
+        "name": "Yuan-Ti, Multiverse"
+    }
+]

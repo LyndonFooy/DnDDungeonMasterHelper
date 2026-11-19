@@ -1,0 +1,6 @@
+{
+    "name": "Human Kingdoms",
+    "description": "Soldiers and court mages of the human realms.",
+    "types": { "Martial": 0.75, "Spellcaster": 0.25 },
+    "races": { "Human": 0.6, "Half-elf": 0.2, "Half-orc": 0.2 }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Bandits",
+    "description": "Highway robbers and their hedge-mage allies.",
+    "types": { "Martial": 0.9, "Spellcaster": 0.1 }
+}

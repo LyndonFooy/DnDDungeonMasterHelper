@@ -1,0 +1,1 @@
+({manual:{}, vislayers:["rules", "equipment"], weight:["cCoi", "cP2L", "cP2R", "cP2M"]})

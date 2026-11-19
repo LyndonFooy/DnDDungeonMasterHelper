@@ -1,0 +1,18 @@
+{
+    "name": "random-encounter-generator",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Random encounter, companion and NPC generation from D&D 5e JSON data",
+    "scripts": {
+        "test": "node --test Generators/CharacterGenerator/test/generateCompanion.test.js Generators/NpcGenerator/test/generateNpc.test.js tools/test/extract-mpmb-data.test.js App/test/environment.test.js App/test/faction.test.js",
+        "companion": "node Generators/CharacterGenerator/generateCharacter.js",
+        "npc": "node Generators/NpcGenerator/generateNpc.js",
+        "app": "node App/server.js",
+        "extract:pdf": "python tools/extract_pdf.py \"DataInspo/MPMB's Character Record Sheet (v13.2.0+240829) [Printer Friendly - Redesign].pdf\" build/mpmb",
+        "extract:data": "node tools/extract-mpmb-data.js build/mpmb Data",
+        "extract": "npm run extract:pdf && npm run extract:data"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}

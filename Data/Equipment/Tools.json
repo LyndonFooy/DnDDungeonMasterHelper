@@ -1,0 +1,366 @@
+[
+    {
+        "key": "alchemist's supplies",
+        "name": "Alchemist's supplies",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 8,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "brewer's supplies",
+        "name": "Brewer's supplies",
+        "cost": {
+            "amount": 20,
+            "unit": "gp"
+        },
+        "weight": 9,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "calligrapher's supplies",
+        "name": "Calligrapher's supplies",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "carpenter's tools",
+        "name": "Carpenter's tools",
+        "cost": {
+            "amount": 8,
+            "unit": "gp"
+        },
+        "weight": 6,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "cartographer's tools",
+        "name": "Cartographer's tools",
+        "cost": {
+            "amount": 15,
+            "unit": "gp"
+        },
+        "weight": 6,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "cobbler's tools",
+        "name": "Cobbler's tools",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "cook's utensils",
+        "name": "Cook's utensils",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 8,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "glassblower's tools",
+        "name": "Glassblower's tools",
+        "cost": {
+            "amount": 30,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "jeweler's tools",
+        "name": "Jeweler's tools",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "leatherworker's tools",
+        "name": "Leatherworker's tools",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "mason's tools",
+        "name": "Mason's tools",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 8,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "painter's supplies",
+        "name": "Painter's supplies",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "potter's tools",
+        "name": "Potter's tools",
+        "cost": {
+            "amount": 10,
+            "unit": "gp"
+        },
+        "weight": 3,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "smith's tools",
+        "name": "Smith's tools",
+        "cost": {
+            "amount": 20,
+            "unit": "gp"
+        },
+        "weight": 8,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "tinker's tools",
+        "name": "Tinker's tools",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 10,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "weaver's tools",
+        "name": "Weaver's tools",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "woodcarver's tools",
+        "name": "Woodcarver's tools",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 5,
+        "type": "artisan's tools"
+    },
+    {
+        "key": "disguise kit",
+        "name": "Disguise kit",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "forgery kit",
+        "name": "Forgery kit",
+        "cost": {
+            "amount": 15,
+            "unit": "gp"
+        },
+        "weight": 5
+    },
+    {
+        "key": "dice set",
+        "name": "Dice set",
+        "cost": {
+            "amount": 1,
+            "unit": "sp"
+        },
+        "weight": "",
+        "type": "gaming set"
+    },
+    {
+        "key": "dragonchess set",
+        "name": "Dragonchess set",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": 0.5,
+        "type": "gaming set"
+    },
+    {
+        "key": "playing card set",
+        "name": "Playing card set",
+        "cost": {
+            "amount": 5,
+            "unit": "sp"
+        },
+        "weight": "",
+        "type": "gaming set"
+    },
+    {
+        "key": "three-dragon ante set",
+        "name": "Three-Dragon Ante set",
+        "cost": {
+            "amount": 1,
+            "unit": "gp"
+        },
+        "weight": "",
+        "type": "gaming set"
+    },
+    {
+        "key": "herbalism kit",
+        "name": "Herbalism kit",
+        "cost": {
+            "amount": 5,
+            "unit": "gp"
+        },
+        "weight": 3
+    },
+    {
+        "key": "bagpipes",
+        "name": "Bagpipes",
+        "cost": {
+            "amount": 30,
+            "unit": "gp"
+        },
+        "weight": 6,
+        "type": "musical instrument"
+    },
+    {
+        "key": "drum",
+        "name": "Drum",
+        "cost": {
+            "amount": 6,
+            "unit": "gp"
+        },
+        "weight": 3,
+        "type": "musical instrument"
+    },
+    {
+        "key": "dulcimer",
+        "name": "Dulcimer",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 10,
+        "type": "musical instrument"
+    },
+    {
+        "key": "flute",
+        "name": "Flute",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "musical instrument"
+    },
+    {
+        "key": "horn",
+        "name": "Horn",
+        "cost": {
+            "amount": 3,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "musical instrument"
+    },
+    {
+        "key": "lute",
+        "name": "Lute",
+        "cost": {
+            "amount": 35,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "musical instrument"
+    },
+    {
+        "key": "lyre",
+        "name": "Lyre",
+        "cost": {
+            "amount": 30,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "musical instrument"
+    },
+    {
+        "key": "pan flute",
+        "name": "Pan flute",
+        "cost": {
+            "amount": 12,
+            "unit": "gp"
+        },
+        "weight": 2,
+        "type": "musical instrument"
+    },
+    {
+        "key": "shawm",
+        "name": "Shawm",
+        "cost": {
+            "amount": 2,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "musical instrument"
+    },
+    {
+        "key": "viol",
+        "name": "Viol",
+        "cost": {
+            "amount": 30,
+            "unit": "gp"
+        },
+        "weight": 1,
+        "type": "musical instrument"
+    },
+    {
+        "key": "navigator's tools",
+        "name": "Navigator's tools",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "poisoner's kit",
+        "name": "Poisoner's kit",
+        "cost": {
+            "amount": 50,
+            "unit": "gp"
+        },
+        "weight": 2
+    },
+    {
+        "key": "thieves' tools",
+        "name": "Thieves' tools",
+        "cost": {
+            "amount": 25,
+            "unit": "gp"
+        },
+        "weight": 1
+    }
+]
